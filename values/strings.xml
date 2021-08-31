@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Genshin Wish Simulator</string>
+
+    <!-- region Buttons, Labels, Descriptions etc -->
+    <string name="total_count">Total wishes: %d</string>
+    <string name="total_spent">Est. ~$%d (USD)</string>
+    <string name="fate_points">Fate Points: %d/%d</string>
+    <string name="chart_course">Chart Course</string>
+    <string name="remove_course">Remove Course</string>
+    <string name="details">Details</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="skip">Skip</string>
+    <string name="more">More</string>
+    <string name="hide">Hide</string>
+    <string name="maxed_brackets">(MAXED)</string>
+    <string name="tap_anywhere_to_skip">Tap anywhere to skip</string>
+    <string name="n_starglitter">%d Starglitter</string>
+    <string name="n_extra">%d extra</string>
+    <string name="wish">Wish x1</string>
+    <string name="wish_ten">Wish x10</string>
+    <string name="wish_custom">Wish x%s</string>
+    <string name="reset">Reset</string>
+    <string name="settings">Settings</string>
+    <string name="total_wishes">🌠 Total wishes: %d</string>
+    <string name="total_est_cost">💸 Est. Cost (USD): $%d</string>
+    <string name="primogems">💎 Primogems: %d</string>
+    <string name="masterless_glitter">✨ Starglitter: %s</string>
+    <string name="five_star_count">🌟 Five Stars Count: %d (%.3f%%)</string>
+    <string name="four_star_count">⭐ Four Stars Count: %d (%.3f%%)</string>
+    <string name="show_wish_animation">Show Wish Animation</string>
+    <string name="most_recent_wishes">🌠 Most Recent Wishes</string>
+    <string name="wish_history">🕒 Wish History</string>
+    <string name="no_wishes_yet">No wishes yet</string>
+    <string name="mute_sounds">Mute Sounds</string>
+    <string name="skip_meteor_only">Skip Meteor Animation Only</string>
+    <string name="clear_all_results">Clear all Wish results</string>
+    <string name="custom_wish_amount">Custom Wish Amount: </string>
+    <string name="are_you_sure_clear_all_wish">Are you sure you want to clear all previous results?</string>
+    <string name="are_you_sure_clear_fate_points">Changing course will reset your Fate Points to 0. Are you sure?</string>
+    <!-- endregion -->
+
+    <!-- region Pity Info -->
+    <string name="pity_info_four_star">Wishes until next 4-star pity: %d</string>
+    <string name="pity_info_five_star">Wishes until next 5-star pity: %d</string>
+    <string name="next_five_star_100">Next 5-star: 100%% to be %s</string>
+    <string name="next_five_star_5050">Next 5-star: 50%% to be %s</string>
+    <string name="next_five_star_75_featured">Next 5-star: 75% to be featured</string>
+    <string name="next_five_star_100_featured">Next 5-star: 100% to be featured</string>
+    <!-- endregion -->
+
+    <!-- region Archive -->
+    <string name="view_archived_banners">View archived banners</string>
+    <string name="archived_banners">Archived Banners</string>
+    <string name="hide_banner_title">Hide this banner?</string>
+    <string name="hide_banner_desc">This banner will be archived. If you wish to unarchive, please go to Settings.</string>
+    <string name="unarchive">Unarchive</string>
+    <string name="close_archive">Close Archive</string>
+    <!-- endregion -->
+
+    <!-- region Advanced Settings -->
+    <string name="advanced_settings">Advanced Settings</string>
+    <string name="credits">Credits</string>
+    <string name="thanks_to_the_following_sites">Thanks to the following sites for making this Wish Simulator possible. </string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="not_affiliated_with_mihoyo">Please take note that Genshin Impact Wish Simulator app is not affiliated with miHoYo in any way.</string>
+    <string name="wishes_are_free"> This is a wish simulator made for fun and entertainment purposes. Wishes made here will not reflect in the game. The app, and wishes made in this app are free and do not cost any money.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="localization">Localization</string>
+    <string name="localization_description">If you are a developer and would like to help me localize this app, you can submit a pull request on %s.</string>
+    <string name="ads">Ads</string>
+    <string name="show_ad_description">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. If you want to support me, you can opt in to view ads.</string>
+    <string name="opt_in_to_show_ads">Opt in to view Ads</string>
+    <string name="close_support">Close</string>
+    <!-- endregion -->
+
+</resources>

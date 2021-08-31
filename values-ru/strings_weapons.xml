@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weapon">оружие</string>
+
+    <!-- 5* Permanent-->
+    <string name="amos_bow">Лук Амоса</string>
+    <string name="aquila_favonia">Меч Сокола</string>
+    <string name="lost_prayer">Молитва святым ветрам</string>
+    <string name="primordial_spear">Нефритовый коршун</string>
+    <string name="wolfs_gravestone">Волчья погибель</string>
+    <string name="skyward_harp">Небесное крыло</string>
+    <string name="skyward_atlas">Небесный атлас</string>
+    <string name="skyward_blade">Небесный меч</string>
+    <string name="skyward_spine">Небесная ось</string>
+    <string name="skyward_pride">Небесное величие</string>
+
+    <!-- 5* Event -->
+    <string name="vortex_vanquisher">Покоритель вихря</string>
+    <string name="unforged">Некованый</string>
+    <string name="memory_of_dust">Память о пыли</string>
+    <string name="summit_shaper">Кромсатель пиков</string>
+    <string name="primordial_cutter">Драгоценный омут</string>
+    <string name="staff_of_homa">Посох Хомы</string>
+    <string name="elegy_for_the_end">Элегия погибели</string>
+    <string name="song_of_broken_pines">Песнь разбитых сосен</string>
+    <string name="freedom_sworn">Клятва свободы</string>
+    <string name="mistsplitter_reforged">Рассекающий туман</string>
+    <string name="thundering_pulse">Громовой пульс</string>
+    <string name="engulfing_lightning">Сияющая жатва</string>
+    <string name="everlasting_moonglow">Вечное лунное сияние</string>
+
+    <!-- 4* Permanent -->
+    <string name="bell">Меч-колокол</string>
+    <string name="dragons_bane">Гроза драконов</string>
+    <string name="eye_of_perception">Око сознания</string>
+    <string name="lions_roar">Драконий рык</string>
+    <string name="favonius_warbow">Боевой лук Фавония</string>
+    <string name="favonius_codex">Кодекс Фавония</string>
+    <string name="favonius_lance">Копьё Фавония</string>
+    <string name="favonius_greatsword">Двуручный меч Фавония</string>
+    <string name="favonius_sword">Меч Фавония</string>
+    <string name="flute">Меч-флейта</string>
+    <string name="rainslasher">Дождерез</string>
+    <string name="rust">Ржавый лук</string>
+    <string name="sacrificial_fragments">Церемониальные мемуары</string>
+    <string name="sacrificial_bow">Церемониальный лук</string>
+    <string name="sacrificial_greatsword">Церемониальный двуручный меч</string>
+    <string name="sacrificial_sword">Церемониальный меч</string>
+    <string name="stringless">Бесструнный</string>
+    <string name="widsith">Песнь странника</string>
+
+    <!-- 4* Event -->
+    <string name="lithic_blade">Каменный меч</string>
+    <string name="lithic_spear">Каменное копьё</string>
+    <string name="alley_flash">Вспышка во тьме</string>
+    <string name="wing_and_song">Вино и песни</string>
+    <string name="alley_hunter">Охотник во тьме</string>
+    <string name="mitternachts_waltz">Вальс Нирваны Ночи</string>
+
+    <!-- 3* -->
+    <string name="debate_club">Дубина переговоров</string>
+    <string name="ferrous_shadow">Металлическая тень</string>
+    <string name="bloodtainted_greatsword">Меч драконьей крови</string>
+    <string name="white_tassel">Белая кисть</string>
+    <string name="black_tassel">Чёрная кисть</string>
+    <string name="harbinger_of_dawn">Предвестник зари</string>
+    <string name="cool_steel">Холодное лезвие</string>
+    <string name="skyrider_sword">Меч небесного всадника</string>
+    <string name="slingshot">Рогатка</string>
+    <string name="sharpshooters_oath">Клятва стрелка</string>
+    <string name="raven_bow">Лук ворона</string>
+    <string name="thrilling_tales_of_dragon_slayers">Эпос о драконоборцах</string>
+    <string name="magic_guide">Руководство по магии</string>
+    <string name="emerald_orb">Изумрудный шар</string>
+</resources>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">原神祈愿抽卡模拟器</string>
+
+    <!-- region Buttons, Labels, Descriptions etc -->
+    <string name="total_count">祈愿次数: %d</string>
+    <string name="total_spent">估计 ~$%d (USD)</string>
+    <string name="fate_points">命定值: %d/%d</string>
+    <string name="chart_course">进行定轨</string>
+    <string name="remove_course">取消定轨</string>
+    <string name="details">详情</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="okay">确定</string>
+    <string name="cancel">取消</string>
+    <string name="close">关闭</string>
+    <string name="skip">跳过</string>
+    <string name="more">更多</string>
+    <string name="hide">藏</string>
+    <string name="maxed_brackets">(已满)</string>
+    <string name="tap_anywhere_to_skip">请点击跳过</string>
+    <string name="n_starglitter">%d星辉</string>
+    <string name="n_extra">%d多余</string>
+    <string name="wish">祈愿1次</string>
+    <string name="wish_ten">祈愿10次</string>
+    <string name="wish_custom">祈愿%s次</string>
+    <string name="reset">清除</string>
+    <string name="settings">设置</string>
+    <string name="total_wishes">🌠 祈愿次数: %d</string>
+    <string name="total_est_cost">💸 估计成本 (USD): $%d</string>
+    <string name="primogems">💎 原石: %d</string>
+    <string name="masterless_glitter">✨ 星辉: %s</string>
+    <string name="five_star_count">🌟 5星次数: %d (%.3f%%)</string>
+    <string name="four_star_count">⭐ 4星次数: %d (%.3f%%)</string>
+    <string name="show_wish_animation">祈愿动画</string>
+    <string name="most_recent_wishes">🌠 最新祈愿</string>
+    <string name="wish_history">🕒 历史记录</string>
+    <string name="no_wishes_yet">未祈愿</string>
+    <string name="mute_sounds">静音</string>
+    <string name="skip_meteor_only">只跳过流星动画</string>
+    <string name="clear_all_results">清除所有祈愿记录</string>
+    <string name="custom_wish_amount">自定祈愿次数: </string>
+    <string name="are_you_sure_clear_all_wish">确定清除所有祈愿记录?</string>
+    <string name="are_you_sure_clear_fate_points">半途中切换定轨将会把命定值返回0. 请确定。</string>
+    <!-- endregion -->
+
+    <!-- region Pity Info -->
+    <string name="pity_info_four_star">还差此次数至下次4星保底: %d</string>
+    <string name="pity_info_five_star">还差此次数至下次5星保底: %d</string>
+    <string name="next_five_star_100">下次5星: 100%%获得%s</string>
+    <string name="next_five_star_5050">下次5星: 50%%获得%s</string>
+    <string name="next_five_star_75_featured"> 下次5星: 75%获得UP武器/角色</string>
+    <string name="next_five_star_100_featured">下次5星: 100%获得UP武器/角色</string>
+    <!-- endregion -->
+
+    <!-- region Archive -->
+    <string name="view_archived_banners">查看档案</string>
+    <string name="archived_banners">档案</string>
+    <string name="hide_banner_title">存进档案?</string>
+    <string name="hide_banner_desc">此池将被存进档案。如果您想取消存档, 请查看设置。</string>
+    <string name="unarchive">取消存档</string>
+    <string name="close_archive">返回</string>
+    <!-- endregion -->
+
+    <!-- region Advanced Settings -->
+    <string name="advanced_settings">更多设置</string>
+    <string name="credits">Credits</string>
+    <string name="thanks_to_the_following_sites">Thanks to the following sites for making this Wish Simulator possible. </string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="not_affiliated_with_mihoyo">Please take note that  Genshin Impact Wish Simulator app is not affiliated with miHoYo in any way.</string>
+    <string name="wishes_are_free"> This is a wish simulator made for fun and entertainment purposes. Wishes made here will not reflect in the game. The app, and wishes made in this app are free and do not cost any money.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="localization">Localization</string>
+    <string name="localization_description">If you are a developer and would like to help me localize this app, you can submit a pull request on %s.</string>
+    <string name="ads">Ads</string>
+    <string name="show_ad_description">I made this app for fun in my free time, and it will always be free to download and free to use. If this helped you in any way and if you want to support me, you can opt in to view ads.</string>
+    <string name="opt_in_to_show_ads">Opt in to view Ads</string>
+    <string name="close_support">返回</string>
+    <!-- endregion -->
+</resources>
