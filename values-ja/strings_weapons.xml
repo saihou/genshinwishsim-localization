@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weapon">武器</string>
+
+    <!-- 5* Permanent-->
+    <string name="amos_bow">アモスの弓</string>
+    <string name="aquila_favonia">風鷹剣</string>
+    <string name="lost_prayer">四風原典</string>
+    <string name="primordial_spear">和璞鳶</string>
+    <string name="wolfs_gravestone">狼の末路</string>
+    <string name="skyward_harp">天空の翼</string>
+    <string name="skyward_atlas">天空の巻</string>
+    <string name="skyward_blade">天空の刃</string>
+    <string name="skyward_spine">天空の脊</string>
+    <string name="skyward_pride">天空の傲</string>
+
+    <!-- 5* Event -->
+    <string name="vortex_vanquisher">破天の槍</string>
+    <string name="unforged">無工の剣</string>
+    <string name="memory_of_dust">浮世の錠</string>
+    <string name="summit_shaper">斬山の刃</string>
+    <string name="primordial_cutter">磐岩結緑</string>
+    <string name="staff_of_homa">護摩の杖</string>
+    <string name="elegy_for_the_end">終焉を嘆く詩</string>
+    <string name="song_of_broken_pines">松韻の響く頃</string>
+    <string name="freedom_sworn">蒼古なる自由への誓い</string>
+    <string name="mistsplitter_reforged">霧切の廻光</string>
+    <string name="thundering_pulse">飛雷の鳴弦</string>
+    <string name="engulfing_lightning">草薙の稲光</string>
+    <string name="everlasting_moonglow">不滅の月華</string>
+
+    <!-- 4* Permanent -->
+    <string name="bell">鐘の剣</string>
+    <string name="dragons_bane">匣中滅龍</string>
+    <string name="eye_of_perception">昭心</string>
+    <string name="lions_roar">匣中龍吟</string>
+    <string name="favonius_warbow">西風猟弓</string>
+    <string name="favonius_codex">西風秘典</string>
+    <string name="favonius_lance">西風長槍</string>
+    <string name="favonius_greatsword">西風大剣</string>
+    <string name="favonius_sword">西風剣</string>
+    <string name="flute">笛の剣</string>
+    <string name="rainslasher">雨裁</string>
+    <string name="rust">弓蔵</string>
+    <string name="sacrificial_fragments">祭礼の断片</string>
+    <string name="sacrificial_bow">祭礼の弓</string>
+    <string name="sacrificial_greatsword">祭礼の大剣</string>
+    <string name="sacrificial_sword">祭礼の剣</string>
+    <string name="stringless">絶弦</string>
+    <string name="widsith">流浪楽章</string>
+
+    <!-- 4* Event -->
+    <string name="lithic_blade">千岩古剣</string>
+    <string name="lithic_spear">千岩長槍</string>
+    <string name="alley_flash">ダークアレイの閃光</string>
+    <string name="wing_and_song">ダークアレイの酒と詩</string>
+    <string name="alley_hunter">ダークアレイの狩人</string>
+    <string name="mitternachts_waltz">幽夜のワルツ</string>
+
+    <!-- 3* -->
+    <string name="debate_club">理屈責め</string>
+    <string name="ferrous_shadow">鉄影段平</string>
+    <string name="bloodtainted_greatsword">龍血を浴びた剣</string>
+    <string name="white_tassel">白纓槍</string>
+    <string name="black_tassel">黒纓槍</string>
+    <string name="harbinger_of_dawn">黎明の神剣</string>
+    <string name="cool_steel">冷刃</string>
+    <string name="skyrider_sword">飛天御剣</string>
+    <string name="slingshot">弾弓</string>
+    <string name="sharpshooters_oath">シャープシューターの誓い</string>
+    <string name="raven_bow">鴉羽の弓</string>
+    <string name="thrilling_tales_of_dragon_slayers">龍殺しの英傑譚</string>
+    <string name="magic_guide">魔導緒論</string>
+    <string name="emerald_orb">翡玉法珠</string>
+
+</resources>

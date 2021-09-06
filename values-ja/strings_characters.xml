@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="none" translatable="false" />
+
+    <string name="permanent">Permanent</string>
+
+    <!-- 5* Permanent-->
+    <string name="diluc">ディルック</string>
+    <string name="jean">ジン</string>
+    <string name="keqing">刻晴</string>
+    <string name="mona">モナ</string>
+    <string name="qiqi">七七</string>
+
+    <!-- 5* Event -->
+    <string name="venti">ウェンティ</string>
+    <string name="klee">クレー</string>
+    <string name="tartaglia">タルタリヤ</string>
+    <string name="zhongli">鍾離</string>
+    <string name="albedo">アルベド</string>
+    <string name="ganyu">甘雨</string>
+    <string name="xiao">魈</string>
+    <string name="hutao">胡桃</string>
+    <string name="eula">エウルア</string>
+    <string name="kazuha">楓原万葉</string>
+    <string name="ayaka">神里綾華</string>
+    <string name="kaedehara_kazuha">楓原万葉</string>
+    <string name="kamisato_ayaka">神里綾華</string>
+    <string name="yoimiya">宵宮</string>
+    <string name="raiden_shogun">雷電将軍</string>
+    <string name="raiden">雷電将軍</string>
+    <string name="sangonomiya_kokomi">珊瑚宮心海</string>
+    <string name="kokomi">珊瑚宮心海</string>
+
+    <!-- 4* -->
+    <string name="amber">アンバー</string>
+    <string name="barbara">バーバラ</string>
+    <string name="beidou">北斗</string>
+    <string name="bennett">ベネット</string>
+    <string name="chongyun">重雲</string>
+    <string name="diona">ディオナ</string>
+    <string name="fischl">フィッシュル</string>
+    <string name="kaeya">ガイア</string>
+    <string name="lisa">リサ</string>
+    <string name="ningguang">凝光</string>
+    <string name="noelle">ノエル</string>
+    <string name="razor">レザー</string>
+    <string name="rosaria">ロサリア</string>
+    <string name="sucrose">スクロース</string>
+    <string name="xiangling">香菱</string>
+    <string name="xingqiu">行秋</string>
+    <string name="xinyan">辛炎</string>
+    <string name="yanfei">煙緋</string>
+    <string name="sayu">早柚</string>
+    <string name="kujou_sara">九条裟羅</string>
+
+</resources>
