@@ -2,79 +2,79 @@
     <string name="app_name">Genshin Wish Simulator</string>
 
     <!-- region Buttons, Labels, Descriptions etc -->
-    <string name="total_count">Total wishes: %d</string>
-    <string name="total_spent">Est. ~$%d (USD)</string>
-    <string name="fate_points">Fate Points: %d/%d</string>
-    <string name="chart_course">Chart Course</string>
-    <string name="remove_course">Remove Course</string>
-    <string name="details">Details</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="okay">Okay</string>
-    <string name="cancel">Cancel</string>
-    <string name="close">Close</string>
-    <string name="skip">Skip</string>
-    <string name="more">More</string>
-    <string name="hide">Hide</string>
-    <string name="maxed_brackets">(MAXED)</string>
-    <string name="tap_anywhere_to_skip">Tap anywhere to skip</string>
-    <string name="n_starglitter">%d Starglitter</string>
-    <string name="n_extra">%d extra</string>
-    <string name="wish">Wish x1</string>
-    <string name="wish_ten">Wish x10</string>
-    <string name="wish_custom">Wish x%s</string>
-    <string name="reset">Reset</string>
-    <string name="settings">Settings</string>
-    <string name="total_wishes">🌠 Total wishes: %d</string>
-    <string name="total_est_cost">💸 Est. Cost (USD): $%d</string>
-    <string name="primogems">💎 Primogems: %d</string>
-    <string name="masterless_glitter">✨ Starglitter: %s</string>
-    <string name="five_star_count">🌟 Five Stars Count: %d (%.3f%%)</string>
-    <string name="four_star_count">⭐ Four Stars Count: %d (%.3f%%)</string>
-    <string name="show_wish_animation">Show Wish Animation</string>
-    <string name="most_recent_wishes">🌠 Most Recent Wishes</string>
-    <string name="wish_history">🕒 Wish History</string>
-    <string name="no_wishes_yet">No wishes yet</string>
-    <string name="mute_sounds">Mute Sounds</string>
-    <string name="skip_meteor_only">Skip Meteor Animation Only</string>
-    <string name="clear_all_results">Clear all Wish results</string>
-    <string name="custom_wish_amount">Custom Wish Amount: </string>
-    <string name="are_you_sure_clear_all_wish">Are you sure you want to clear all previous results?</string>
-    <string name="are_you_sure_clear_fate_points">Changing course will reset your Fate Points to 0. Are you sure?</string>
+    <string name="total_count">Всего молитв: %d</string>
+    <string name="total_spent">По оценкам ~$%d (USD)</string>
+    <string name="fate_points">Очки Судьбы: %d/%d</string>
+    <string name="chart_course">Путь воплощения</string>
+    <string name="remove_course">Отменить курс</string>
+    <string name="details">Подробности</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="okay">Окей</string>
+    <string name="cancel">Отменить</string>
+    <string name="close">Закрыть</string>
+    <string name="skip">Пропустить</string>
+    <string name="more">Больше</string>
+    <string name="hide">Скрыть</string>
+    <string name="maxed_brackets">(МАКСИМУМ)</string>
+    <string name="tap_anywhere_to_skip">Нажмите в любом месте, чтобы пропустить</string>
+    <string name="n_starglitter">%d звездного блеска</string>
+    <string name="n_extra">%d доп.</string>
+    <string name="wish">Помолиться 1 раз</string>
+    <string name="wish_ten">Помолиться 10 раз</string>
+    <string name="wish_custom">Помолиться %s раз</string>
+    <string name="reset">Сброс</string>
+    <string name="settings">Настройки</string>
+    <string name="total_wishes">🌠 Всего молитв: %d</string>
+    <string name="total_est_cost">💸 Ориентировочная стоимость (USD): $%d</string>
+    <string name="primogems">💎 Камней Истока: %d</string>
+    <string name="masterless_glitter">✨ Звездного блеска: %s</string>
+    <string name="five_star_count">🌟 Кол-во 5-звезд: %d (%.3f%%)</string>
+    <string name="four_star_count">⭐ Кол-во 4-звезд: %d (%.3f%%)</string>
+    <string name="show_wish_animation">Показывать анимацию молитв</string>
+    <string name="most_recent_wishes">🌠 Самые последние молитвы</string>
+    <string name="wish_history">🕒 История молитв</string>
+    <string name="no_wishes_yet">Молитв пока нет</string>
+    <string name="mute_sounds">Заглушить звук</string>
+    <string name="skip_meteor_only">Пропустить только анимацию метеорита</string>
+    <string name="clear_all_results">Очистить всю историю молитв</string>
+    <string name="custom_wish_amount">Пользовательское кол-во молитв: </string>
+    <string name="are_you_sure_clear_all_wish">Ты уверен, что хочешь стереть все предыдущие результаты?</string>
+    <string name="are_you_sure_clear_fate_points">Изменение курса приведет к сбросу очков Судьбы. Ты уверен?</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
-    <string name="pity_info_four_star">Wishes until next 4-star pity: %d</string>
-    <string name="pity_info_five_star">Wishes until next 5-star pity: %d</string>
-    <string name="next_five_star_100">Next 5-star: 100%% to be %s</string>
-    <string name="next_five_star_5050">Next 5-star: 50%% to be %s</string>
-    <string name="next_five_star_75_featured">Next 5-star: 75% to be featured</string>
-    <string name="next_five_star_100_featured">Next 5-star: 100% to be featured</string>
+    <string name="pity_info_four_star">Молитв до гарантированного получения 4-звезд: %d</string>
+    <string name="pity_info_five_star">Молитв до гарантированного получения 5-звезд: %d</string>
+    <string name="next_five_star_100">Следующий 5-звезд: со 100%% шансом будет %s</string>
+    <string name="next_five_star_5050">Следующий 5-звезд: с 50%% шансом будет %s</string>
+    <string name="next_five_star_75_featured">Следующий 5-звезд: с 75% шансом будет желаемым</string>
+    <string name="next_five_star_100_featured">Следующий 5-звезд: со 100% шансом будет желаемым</string>
     <!-- endregion -->
 
     <!-- region Archive -->
-    <string name="view_archived_banners">View archived banners</string>
-    <string name="archived_banners">Archived Banners</string>
-    <string name="hide_banner_title">Hide this banner?</string>
-    <string name="hide_banner_desc">This banner will be archived. If you wish to unarchive, please go to Settings.</string>
-    <string name="unarchive">Unarchive</string>
-    <string name="close_archive">Close Archive</string>
+    <string name="view_archived_banners">Просмотреть архивные баннеры</string>
+    <string name="archived_banners">Архивные баннеры</string>
+    <string name="hide_banner_title">Скрыть этот баннер?</string>
+    <string name="hide_banner_desc">Этот баннер будет заархивирован. Если вы хотите разархивировать его, перейдите в раздел Настройки.</string>
+    <string name="unarchive">Разархивировать</string>
+    <string name="close_archive">Закрыть архив</string>
     <!-- endregion -->
 
     <!-- region Advanced Settings -->
-    <string name="advanced_settings">Advanced Settings</string>
-    <string name="credits">Credits</string>
-    <string name="thanks_to_the_following_sites">Thanks to the following sites for making this Wish Simulator possible. </string>
-    <string name="disclaimer">Disclaimer</string>
-    <string name="not_affiliated_with_mihoyo">Please take note that Genshin Impact Wish Simulator app is not affiliated with miHoYo in any way.</string>
-    <string name="wishes_are_free"> This is a wish simulator made for fun and entertainment purposes. Wishes made here will not reflect in the game. The app, and wishes made in this app are free and do not cost any money.</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="localization">Localization</string>
-    <string name="localization_description">If you are a developer and would like to help me localize this app, you can submit a pull request on %s.</string>
-    <string name="ads">Ads</string>
-    <string name="show_ad_description">I made this app for fun in my free time, and it will always be free to download and free to use. If this helped you in any way and if you want to support me, you can opt in to view ads.</string>
-    <string name="opt_in_to_show_ads">Opt in to view Ads</string>
-    <string name="close_support">Close</string>
+    <string name="advanced_settings">Дополнительные настройки</string>
+    <string name="credits">Благодарности</string>
+    <string name="thanks_to_the_following_sites">Спасибо следующим сайтам за то, что сделали Wish Simulator возможным. </string>
+    <string name="disclaimer">Отказе от ответственности</string>
+    <string name="not_affiliated_with_mihoyo">Пожалуйста, обратите внимание, что приложение Genshin Impact Wish Simulator никоим образом не связано с miHoYo.</string>
+    <string name="wishes_are_free"> Этот симулятор молитв создан для веселья и развлекательных целей. Совершенные здесь молитвы не будут влиять на оригинальную игру. Данное приложение и молитвы, сделанные в этом приложении, бесплатны и не стоят никаких денег.</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="localization">Локализация</string>
+    <string name="localization_description">Если вы разработчик и хотели бы помочь мне локализовать это приложение, вы можете отправить запрос на слияние на %s.</string>
+    <string name="ads">Реклама</string>
+    <string name="show_ad_description">Я сделал это приложение для развлечения в свободное время, и оно всегда будет бесплатным для загрузки и бесплатного использования. Если это как-то помогло вам и вы хотите поддержать меня, вы можете подписаться на просмотр рекламы.</string>
+    <string name="opt_in_to_show_ads">Согласие на просмотр рекламы</string>
+    <string name="close_support">Закрыть</string>
 
     <!-- endregion -->
 
