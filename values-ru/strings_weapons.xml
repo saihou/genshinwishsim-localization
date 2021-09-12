@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weapon">оружие</string>
+    <string name="weapon">Оружие</string>
 
     <!-- 5* Permanent-->
     <string name="amos_bow">Лук Амоса</string>
