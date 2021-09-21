@@ -68,14 +68,20 @@
     <string name="disclaimer">Отказе от ответственности</string>
     <string name="not_affiliated_with_mihoyo">Пожалуйста, обратите внимание, что приложение Genshin Impact Wish Simulator никоим образом не связано с miHoYo.</string>
     <string name="wishes_are_free"> Этот симулятор молитв создан для веселья и развлекательных целей. Совершенные здесь молитвы не будут влиять на оригинальную игру. Данное приложение и молитвы, сделанные в этом приложении, бесплатны и не стоят никаких денег.</string>
+    <string name="all_rights_reserved">All images, sounds, assets, banners, character names, terms, etc, are courtesy of and owned by miHoYo. I do not own any of them. © All rights reserved by miHoYo.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="localization">Локализация</string>
     <string name="localization_description">Если вы разработчик и хотели бы помочь мне локализовать это приложение, вы можете отправить запрос на слияние на %s.</string>
     <string name="ads">Реклама</string>
     <string name="show_ad_description">Я сделал это приложение для развлечения в свободное время, и оно всегда будет бесплатным для загрузки и бесплатного использования. Если это как-то помогло вам и вы хотите поддержать меня, вы можете подписаться на просмотр рекламы.</string>
+    <string name="show_ad_description_may_opt_in">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. You may opt in to view ads if you wish.</string>
     <string name="opt_in_to_show_ads">Согласие на просмотр рекламы</string>
     <string name="close_support">Закрыть</string>
-
     <!-- endregion -->
 
+    <!-- region Intro popup -->
+    <string name="i_agree">I have read and agree to all of the above</string>
+    <string name="proceed">Proceed</string>
+    <string name="must_agree_to_terms">You must agree to the terms to continue.</string>
+    <!-- endregion -->
 </resources>

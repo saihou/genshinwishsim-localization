@@ -68,12 +68,20 @@
     <string name="disclaimer">Disclaimer</string>
     <string name="not_affiliated_with_mihoyo">Please take note that  Genshin Impact Wish Simulator app is not affiliated with miHoYo in any way.</string>
     <string name="wishes_are_free"> This is a wish simulator made for fun and entertainment purposes. Wishes made here will not reflect in the game. The app, and wishes made in this app are free and do not cost any money.</string>
+    <string name="all_rights_reserved">All images, sounds, assets, banners, character names, terms, etc, are courtesy of and owned by miHoYo. I do not own any of them. © All rights reserved by miHoYo.</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="localization">Localization</string>
     <string name="localization_description">If you are a developer and would like to help me localize this app, you can submit a pull request on %s.</string>
     <string name="ads">Ads</string>
     <string name="show_ad_description">I made this app for fun in my free time, and it will always be free to download and free to use. If this helped you in any way and if you want to support me, you can opt in to view ads.</string>
+    <string name="show_ad_description_may_opt_in">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. You may opt in to view ads if you wish.</string>
     <string name="opt_in_to_show_ads">Opt in to view Ads</string>
     <string name="close_support">返回</string>
+    <!-- endregion -->
+
+    <!-- region Intro popup -->
+    <string name="i_agree">I have read and agree to all of the above</string>
+    <string name="proceed">Proceed</string>
+    <string name="must_agree_to_terms">You must agree to the terms to continue.</string>
     <!-- endregion -->
 </resources>

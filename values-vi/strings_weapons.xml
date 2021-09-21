@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weapon">Vũ Khí</string>
+
+    <!-- 5* Permanent-->
+    <string name="amos_bow">Cung Amos</string>
+    <string name="aquila_favonia">Phong Ưng Kiếm</string>
+    <string name="lost_prayer">Điển Tích Tây Phong</string>
+    <string name="primordial_spear">Hòa Phác Diên</string>
+    <string name="wolfs_gravestone">Đường Cùng Của Sói</string>
+    <string name="skyward_harp">Cánh Thiên Không</string>
+    <string name="skyward_atlas">Quyển Thiên Không</string>
+    <string name="skyward_blade">Thiên Không Kiếm</string>
+    <string name="skyward_spine">Xương Sống Thiên Không</string>
+    <string name="skyward_pride">Thiên Không Kiêu Ngạo</string>
+
+    <!-- 5* Event -->
+    <string name="vortex_vanquisher">Giáo Nịnh Thần</string>
+    <string name="unforged">Kiếm Vô Công</string>
+    <string name="memory_of_dust">Khóa Trần Thế</string>
+    <string name="summit_shaper">Kiếm Chước Phong</string>
+    <string name="primordial_cutter">Bàn Nham Kết Lục</string>
+    <string name="staff_of_homa">Trượng Hộ Ma</string>
+    <string name="elegy_for_the_end">Tiếng Thở Dài Vô Tận</string>
+    <string name="song_of_broken_pines">Tiếng Gió Trong Rừng Thông</string>
+    <string name="freedom_sworn">Lời Thề Tự Do Cổ Xưa</string>
+    <string name="mistsplitter_reforged">Ánh Sáng Đêm Sương Mù</string>
+    <string name="thundering_pulse">Sấm Sét Rung Động</string>
+    <string name="engulfing_lightning">Đoạn Thảo Trường Đao</string>
+    <string name="everlasting_moonglow">Vầng Trăng Bất Diệt</string>
+
+    <!-- 4* Permanent -->
+    <string name="bell">Kiếm Chuông</string>
+    <string name="dragons_bane">Tai Ương Của Rồng</string>
+    <string name="eye_of_perception">Chiêu Tâm</string>
+    <string name="lions_roar">Tiếng Hét Của Rồng</string>
+    <string name="favonius_warbow">Cung Tây Phong</string>
+    <string name="favonius_codex">Tây Phong Mật Điển</string>
+    <string name="favonius_lance">Thương Tây Phong</string>
+    <string name="favonius_greatsword">Đại Kiếm Tây Phong</string>
+    <string name="favonius_sword">Tây Phong Kiếm</string>
+    <string name="flute">Kiếm Sáo</string>
+    <string name="rainslasher">Vũ Tài</string>
+    <string name="rust">Cung Rỉ Sét</string>
+    <string name="sacrificial_fragments">Mảnh Chương Tế Lễ</string>
+    <string name="sacrificial_bow">Cung Tế Lễ</string>
+    <string name="sacrificial_greatsword">Đại Kiếm Tế Lễ</string>
+    <string name="sacrificial_sword">Kiếm Tế Lễ</string>
+    <string name="stringless">Tuyệt Huyền</string>
+    <string name="widsith">Chương Nhạc Lang Thang</string>
+
+    <!-- 4* Event -->
+    <string name="lithic_blade">Thiên Nham Cổ Kiếm</string>
+    <string name="lithic_spear">Thương Thiên Nham</string>
+    <string name="alley_flash">Tia Sáng Nơi Hẻm Tối</string>
+    <string name="wing_and_song">Rượu Và Thơ Nơi Hẻm Tối</string>
+    <string name="alley_hunter">Thợ Săn Hẻm Tối</string>
+    <string name="mitternachts_waltz">Điệu Van Ban Đêm</string>
+
+    <!-- 3* -->
+    <string name="debate_club">Gậy Thu Phục</string>
+    <string name="ferrous_shadow">Kiếm Thiết Ảnh</string>
+    <string name="bloodtainted_greatsword">Kiếm Huyết Rồng</string>
+    <string name="white_tassel">Thương Bạch Anh</string>
+    <string name="black_tassel">Hắc Anh Thương</string>
+    <string name="harbinger_of_dawn">Thần Kiếm Lê Minh</string>
+    <string name="cool_steel">Lãnh Nhẫn</string>
+    <string name="skyrider_sword">Kiếm Phi Thiên</string>
+    <string name="slingshot">Nỏ Kéo</string>
+    <string name="sharpshooters_oath">Lời Thề Xạ Thủ Thần</string>
+    <string name="raven_bow">Cung Lông Vịt</string>
+    <string name="thrilling_tales_of_dragon_slayers">Câu Chuyện Diệt Rồng</string>
+    <string name="magic_guide">Tóm Tắt Ma Pháp</string>
+    <string name="emerald_orb">Quả Cầu Ngọc</string>
+
+</resources>

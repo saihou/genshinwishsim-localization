@@ -2,7 +2,7 @@
 <resources>
     <string name="none" translatable="false" />
 
-    <string name="permanent">Permanent</string>
+    <string name="permanent">通常祈願</string>
 
     <!-- 5* Permanent-->
     <string name="diluc">ディルック</string>
