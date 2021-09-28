@@ -41,6 +41,7 @@
     <string name="custom_wish_amount">自定祈愿次数: </string>
     <string name="are_you_sure_clear_all_wish">确定清除所有祈愿记录?</string>
     <string name="are_you_sure_clear_fate_points">半途中切换定轨将会把命定值返回0. 请确定。</string>
+    <string name="simulator">抽卡模拟器</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->

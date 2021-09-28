@@ -41,6 +41,7 @@
     <string name="custom_wish_amount">Custom Wish Amount: </string>
     <string name="are_you_sure_clear_all_wish">Are you sure you want to clear all previous results?</string>
     <string name="are_you_sure_clear_fate_points">Changing course will reset your Fate Points to 0. Are you sure?</string>
+    <string name="simulator">Simulator</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
