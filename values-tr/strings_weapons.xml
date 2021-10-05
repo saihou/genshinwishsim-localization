@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weapon">Weapon</string>
+
+    <!-- 5* Permanent-->
+    <string name="amos_bow">Amos Bow</string>
+    <string name="aquila_favonia">Aquila Favonia</string>
+    <string name="lost_prayer">Lost Prayer to the Sacred Winds</string>
+    <string name="primordial_spear">Primordial Jade Winged-Spear</string>
+    <string name="wolfs_gravestone">Wolf\'s Gravestone</string>
+    <string name="skyward_harp">Skyward Harp</string>
+    <string name="skyward_atlas">Skyward Atlas</string>
+    <string name="skyward_blade">Skyward Blade</string>
+    <string name="skyward_spine">Skyward Spine</string>
+    <string name="skyward_pride">Skyward Pride</string>
+
+    <!-- 5* Event -->
+    <string name="vortex_vanquisher">Vortex Vanquisher</string>
+    <string name="unforged">The Unforged</string>
+    <string name="memory_of_dust">Memory of Dust</string>
+    <string name="summit_shaper">Summit Shaper</string>
+    <string name="primordial_cutter">Primordial Jade Cutter</string>
+    <string name="staff_of_homa">Staff of Homa</string>
+    <string name="elegy_for_the_end">Elegy for the End</string>
+    <string name="song_of_broken_pines">Song Of Broken Pines</string>
+    <string name="freedom_sworn">Freedom-Sworn</string>
+    <string name="mistsplitter_reforged">Mistsplitter Reforged</string>
+    <string name="thundering_pulse">Thundering Pulse</string>
+    <string name="engulfing_lightning">Engulfing Lightning</string>
+    <string name="everlasting_moonglow">Everlasting Moonglow</string>
+
+    <!-- 4* Permanent -->
+    <string name="bell">The Bell</string>
+    <string name="dragons_bane">Dragon\'s Bane</string>
+    <string name="eye_of_perception">Eye of Perception</string>
+    <string name="lions_roar">Lion\'s Roar</string>
+    <string name="favonius_warbow">Favonius Warbow</string>
+    <string name="favonius_codex">Favonius Codex</string>
+    <string name="favonius_lance">Favonius Lance</string>
+    <string name="favonius_greatsword">Favonius Greatsword</string>
+    <string name="favonius_sword">Favonius Sword</string>
+    <string name="flute">The Flute</string>
+    <string name="rainslasher">Rainslasher</string>
+    <string name="rust">Rust</string>
+    <string name="sacrificial_fragments">Sacrificial Fragments</string>
+    <string name="sacrificial_bow">Sacrificial Bow</string>
+    <string name="sacrificial_greatsword">Sacrificial Greatsword</string>
+    <string name="sacrificial_sword">Sacrificial Sword</string>
+    <string name="stringless">The Stringless</string>
+    <string name="widsith">The Widsith</string>
+
+    <!-- 4* Event -->
+    <string name="lithic_blade">Lithic Blade</string>
+    <string name="lithic_spear">Lithic Spear</string>
+    <string name="alley_flash">The Alley Flash</string>
+    <string name="wing_and_song">Wine And Song</string>
+    <string name="alley_hunter">Alley Hunter</string>
+    <string name="mitternachts_waltz">Mitternachts Waltz</string>
+
+    <!-- 3* -->
+    <string name="debate_club">Debate Club</string>
+    <string name="ferrous_shadow">Ferrous Shadow</string>
+    <string name="bloodtainted_greatsword">Bloodtainted Greatsword</string>
+    <string name="white_tassel">White Tassel</string>
+    <string name="black_tassel">Black Tassel</string>
+    <string name="harbinger_of_dawn">Harbinger of Dawn</string>
+    <string name="cool_steel">Cool Steel</string>
+    <string name="skyrider_sword">Skyrider Sword</string>
+    <string name="slingshot">Slingshot</string>
+    <string name="sharpshooters_oath">Sharpshooter\'s Oath</string>
+    <string name="raven_bow">Raven Bow</string>
+    <string name="thrilling_tales_of_dragon_slayers">Thrilling Tales of Dragon Slayers</string>
+    <string name="magic_guide">Magic Guide</string>
+    <string name="emerald_orb">Emerald Orb</string>
+
+</resources>

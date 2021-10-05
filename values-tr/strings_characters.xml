@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="none" translatable="false" />
+
+    <string name="permanent">Süresiz</string>
+
+    <!-- 5* Permanent-->
+    <string name="diluc">Diluc</string>
+    <string name="jean">Jean</string>
+    <string name="keqing">Keqing</string>
+    <string name="mona">Mona</string>
+    <string name="qiqi">Qiqi</string>
+
+    <!-- 5* Event -->
+    <string name="venti">Venti</string>
+    <string name="klee">Klee</string>
+    <string name="tartaglia">Tartaglia</string>
+    <string name="zhongli">Zhongli</string>
+    <string name="albedo">Albedo</string>
+    <string name="ganyu">Ganyu</string>
+    <string name="xiao">Xiao</string>
+    <string name="hutao">Hu Tao</string>
+    <string name="eula">Eula</string>
+    <string name="kazuha">Kazuha</string>
+    <string name="ayaka">Ayaka</string>
+    <string name="kaedehara_kazuha">Kaedehara Kazuha</string>
+    <string name="kamisato_ayaka">Kamisato Ayaka</string>
+    <string name="yoimiya">Yoimiya</string>
+    <string name="raiden_shogun">Raiden Shogun</string>
+    <string name="raiden">Raiden</string>
+    <string name="sangonomiya_kokomi">Sangonomiya Kokomi</string>
+    <string name="kokomi">Kokomi</string>
+
+    <!-- 4* -->
+    <string name="amber">Amber</string>
+    <string name="barbara">Barbara</string>
+    <string name="beidou">Beidou</string>
+    <string name="bennett">Bennett</string>
+    <string name="chongyun">Chongyun</string>
+    <string name="diona">Diona</string>
+    <string name="fischl">Fischl</string>
+    <string name="kaeya">Kaeya</string>
+    <string name="lisa">Lisa</string>
+    <string name="ningguang">Ningguang</string>
+    <string name="noelle">Noelle</string>
+    <string name="razor">Razor</string>
+    <string name="rosaria">Rosaria</string>
+    <string name="sucrose">Sucrose</string>
+    <string name="xiangling">Xiangling</string>
+    <string name="xingqiu">Xingqiu</string>
+    <string name="xinyan">Xinyan</string>
+    <string name="yanfei">Yanfei</string>
+    <string name="sayu">Sayu</string>
+    <string name="kujou_sara">Kujou Sara</string>
+
+</resources>
