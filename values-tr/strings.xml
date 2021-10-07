@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Genshin Wish Simülasyonu</string>
+
+    <!-- region Buttons, Labels, Descriptions etc -->
+    <string name="total_count">Toplam wish: %d</string>
+    <string name="total_spent">Yaklaşık Değer ~$%d (USD)</string>
+    <string name="fate_points">Fate puanları: %d/%d</string>
+    <string name="chart_course">Chart Kursu</string>
+    <string name="remove_course">Kursu kaldır</string>
+    <string name="details">Detaylar</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="okay">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="close">Kapat</string>
+    <string name="skip">Geç</string>
+    <string name="more">Daha fazla</string>
+    <string name="hide">Sakla</string>
+    <string name="maxed_brackets">(MAKSLANDI)</string>
+    <string name="tap_anywhere_to_skip">Geçmek için herhangi bir yere dokunun.</string>
+    <string name="n_starglitter">%d Starglitter</string>
+    <string name="n_extra">%d extra</string>
+    <string name="wish">x1 Wish</string>
+    <string name="wish_ten">x10 Wish</string>
+    <string name="wish_custom">x%s Wish</string>
+    <string name="reset">Sıfırla</string>
+    <string name="settings">Ayarlar</string>
+    <string name="total_wishes">🌠 Toplam wish: %d</string>
+    <string name="total_est_cost">💸 Yaklaşık Değer (USD): $%d</string>
+    <string name="primogems">💎 Primogem: %d</string>
+    <string name="masterless_glitter">✨ Starglitter: %s</string>
+    <string name="five_star_count">🌟 Beş Yıldız Sayısı: %d (%.3f%%)</string>
+    <string name="four_star_count">⭐ Dört Yıldız Sayısı: %d (%.3f%%)</string>
+    <string name="show_wish_animation">Wish Animasyonunu Göster</string>
+    <string name="most_recent_wishes">🌠 En Son Wishler</string>
+    <string name="wish_history">🕒 Wish Geçmişi</string>
+    <string name="no_wishes_yet">Wish yapılmadı</string>
+    <string name="mute_sounds">Sesleri Sustur</string>
+    <string name="skip_meteor_only">Sadece Meteor Animasyonunu Geç</string>
+    <string name="clear_all_results">Tüm Wish Sonuçlarını Temizle</string>
+    <string name="custom_wish_amount">Özel Wish Sayısı: </string>
+    <string name="are_you_sure_clear_all_wish">Geçmiş tüm sonuçları temizlemek istediğinizden emin misiniz?</string>
+    <string name="are_you_sure_clear_fate_points">Kursu değştirmek Fate puanlarını sıfırlayacaktır. Emin misiniz?</string>
+    <string name="simulator">Simülatör</string>
+    <!-- endregion -->
+
+    <!-- region Pity Info -->
+    <string name="pity_info_four_star">Bir sonraki 4 yıldızlı karakteri açmak için gerekli olan pity: %d</string>
+    <string name="pity_info_five_star">Bir sonraki 5 yıldızlı karakteri açmak için gerekli olan pity: %d</string>
+    <string name="next_five_star_100">Sonraki 5 yıldız: 100%% %s olacak</string>
+    <string name="next_five_star_5050">Sonraki 5 yıldız: 50%% %s olacak</string>
+    <string name="next_five_star_75_featured">Sonraki 5 yıldız: 75% öne çıkarılmış olacak</string>
+    <string name="next_five_star_100_featured">Sonraki 5 yıldız: 100% öne çıkarılmış olacak</string>
+    <!-- endregion -->
+
+    <!-- region Archive -->
+    <string name="view_archived_banners">Arşivlenmiş afişleri göster</string>
+    <string name="archived_banners">Arşivlenmiş Afişler</string>
+    <string name="hide_banner_title">Bu afiş gizlensin mi?</string>
+    <string name="hide_banner_desc">Bu afiş arşivlenecek. Eğer arşivlerden kaldırmak istiyorsanız Ayarlara gidin.</string>
+    <string name="unarchive">Arşivi Kaldır</string>
+    <string name="close_archive">Arşivi apat</string>
+    <!-- endregion -->
+
+    <!-- region Advanced Settings -->
+    <string name="advanced_settings">Gelişmiş Ayarlar</string>
+    <string name="credits">Emeği Geçenler</string>
+    <string name="thanks_to_the_following_sites">Aşağıdaki sitelere Wish Simülasyonunu mümkün kıldıkları için teşekkürler.</string>
+    <string name="disclaimer">Uyarı</string>
+    <string name="not_affiliated_with_mihoyo">Lütfen Genshin Impact Wish Simulator uygulamasının hiçbir şekilde miHoYo ile bağlantılı olmadığını unutmayın.</string>
+    <string name="wishes_are_free"> Bu, eğlence amaçlı yapılmış bir wish simülatörüdür. <b>Burada yapılan wishler oyuna yansımayacaktır.</b> Uygulama ve bu uygulamada yapılan wishler ücretsizdir ve herhangi bir ücret ödenmez.</string>
+    <string name="all_rights_reserved">Tüm görseller, sesler, varlıklar, afişler, karakter adları, terimler vb., miHoYo'nun izniyle ve ona aittir. Hiçbirinin sahibi değilim. © Tüm hakları miHoYo'ya aittir.</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="localization">Dil</string>
+    <string name="localization_description">Eğer bir geliştiriciyseniz ve bu uygulamaya daha fazla dil eklememde yardım etmek istiyorsanız %s'dan pull request atabilirsiniz.</string>
+    <string name="ads">Reklamlar</string>
+    <string name="show_ad_description">Bu uygulamayı eğlence için boş zamanlarımda yaptım, indirmesi ve kullanımı her zaman ücretsiz olacaktır. İsterseniz bana destek olmak için reklamları görüntülemeyi seçebilirsiniz.</string>
+    <string name="show_ad_description_may_opt_in">Bu uygulamayı eğlence için boş zamanlarımda yaptım, indirmesi ve kullanımı her zaman ücretsiz olacaktır. İsterseniz bana destek olmak için reklamları görüntülemeyi seçebilirsiniz.</string>
+    <string name="opt_in_to_show_ads">Reklamları görüntüle</string>
+    <string name="close_support">Kapat</string>
+    <!-- endregion -->
+
+    <!-- region Intro popup -->
+    <string name="i_agree">Yukardakilerin hepsini okudum, kabul ediyorum</string>
+    <string name="proceed">Devam et</string>
+    <string name="must_agree_to_terms">Devam etmek için aartarı kabul etmelisiniz.</string>
+    <!-- endregion -->
+</resources>
