@@ -20,3 +20,4 @@ Please take note that the number of `%s` or `%d` should be the same as the Engli
 Contributors
 ======
 - Russian - [S-Pladison](https://github.com/S-Pladison)
+- Turkish - [TheHusyin](https://github.com/TheHusyin)
