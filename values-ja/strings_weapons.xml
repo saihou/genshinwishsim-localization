@@ -28,6 +28,7 @@
     <string name="thundering_pulse">飛雷の鳴弦</string>
     <string name="engulfing_lightning">草薙の稲光</string>
     <string name="everlasting_moonglow">不滅の月華</string>
+    <string name="polar_star">冬極の白星</string>
 
     <!-- 4* Permanent -->
     <string name="bell">鐘の剣</string>
@@ -56,6 +57,7 @@
     <string name="wing_and_song">ダークアレイの酒と詩</string>
     <string name="alley_hunter">ダークアレイの狩人</string>
     <string name="mitternachts_waltz">幽夜のワルツ</string>
+    <string name="akuoumaru">惡王丸</string>
 
     <!-- 3* -->
     <string name="debate_club">理屈責め</string>

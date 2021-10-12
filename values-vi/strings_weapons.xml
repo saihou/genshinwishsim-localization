@@ -28,6 +28,7 @@
     <string name="thundering_pulse">Sấm Sét Rung Động</string>
     <string name="engulfing_lightning">Đoạn Thảo Trường Đao</string>
     <string name="everlasting_moonglow">Vầng Trăng Bất Diệt</string>
+    <string name="polar_star">Ngôi Sao Cực Đông</string>
 
     <!-- 4* Permanent -->
     <string name="bell">Kiếm Chuông</string>
@@ -56,6 +57,7 @@
     <string name="wing_and_song">Rượu Và Thơ Nơi Hẻm Tối</string>
     <string name="alley_hunter">Thợ Săn Hẻm Tối</string>
     <string name="mitternachts_waltz">Điệu Van Ban Đêm</string>
+    <string name="akuoumaru">Akuoumaru</string>
 
     <!-- 3* -->
     <string name="debate_club">Gậy Thu Phục</string>

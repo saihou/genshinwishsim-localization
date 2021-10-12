@@ -68,16 +68,20 @@
     <string name="thanks_to_the_following_sites">Aşağıdaki sitelere Wish Simülasyonunu mümkün kıldıkları için teşekkürler.</string>
     <string name="disclaimer">Uyarı</string>
     <string name="not_affiliated_with_mihoyo">Lütfen Genshin Impact Wish Simulator uygulamasının hiçbir şekilde miHoYo ile bağlantılı olmadığını unutmayın.</string>
-    <string name="wishes_are_free"> Bu, eğlence amaçlı yapılmış bir wish simülatörüdür. <b>Burada yapılan wishler oyuna yansımayacaktır.</b> Uygulama ve bu uygulamada yapılan wishler ücretsizdir ve herhangi bir ücret ödenmez.</string>
-    <string name="all_rights_reserved">Tüm görseller, sesler, varlıklar, afişler, karakter adları, terimler vb., miHoYo'nun izniyle ve ona aittir. Hiçbirinin sahibi değilim. © Tüm hakları miHoYo'ya aittir.</string>
+    <string name="wishes_are_free">Bu, eğlence amaçlı yapılmış bir wish simülatörüdür. <b>Burada yapılan wishler oyuna yansımayacaktır.</b> Uygulama ve bu uygulamada yapılan wishler ücretsizdir ve herhangi bir ücret ödenmez.</string>
+    <string name="all_rights_reserved">"Tüm görseller, sesler, varlıklar, afişler, karakter adları, terimler vb., miHoYo'nun izniyle ve ona aittir. Hiçbirinin sahibi değilim. © Tüm hakları miHoYo'ya aittir."</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
     <string name="localization">Dil</string>
-    <string name="localization_description">Eğer bir geliştiriciyseniz ve bu uygulamaya daha fazla dil eklememde yardım etmek istiyorsanız %s'dan pull request atabilirsiniz.</string>
+    <string name="localization_description">"Eğer bir geliştiriciyseniz ve bu uygulamaya daha fazla dil eklememde yardım etmek istiyorsanız %s'dan pull request atabilirsiniz."</string>
     <string name="ads">Reklamlar</string>
     <string name="show_ad_description">Bu uygulamayı eğlence için boş zamanlarımda yaptım, indirmesi ve kullanımı her zaman ücretsiz olacaktır. İsterseniz bana destek olmak için reklamları görüntülemeyi seçebilirsiniz.</string>
     <string name="show_ad_description_may_opt_in">Bu uygulamayı eğlence için boş zamanlarımda yaptım, indirmesi ve kullanımı her zaman ücretsiz olacaktır. İsterseniz bana destek olmak için reklamları görüntülemeyi seçebilirsiniz.</string>
     <string name="opt_in_to_show_ads">Reklamları görüntüle</string>
     <string name="close_support">Kapat</string>
+    <string name="light_dark_mode">Light / Dark Mode</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="use_device_settings">Use device settings</string>
     <!-- endregion -->
 
     <!-- region Intro popup -->

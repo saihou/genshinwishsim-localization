@@ -28,6 +28,7 @@
     <string name="thundering_pulse">飞雷之弦振</string>
     <string name="engulfing_lightning">薙草之稻光</string>
     <string name="everlasting_moonglow">不灭月华</string>
+    <string name="polar_star">冬极白星</string>
 
     <!-- 4* Permanent -->
     <string name="bell">钟剑</string>
@@ -56,6 +57,7 @@
     <string name="wing_and_song">暗巷的酒与诗</string>
     <string name="alley_hunter">暗巷猎手</string>
     <string name="mitternachts_waltz">幽夜华尔兹</string>
+    <string name="akuoumaru">恶王丸</string>
 
     <!-- 3* -->
     <string name="debate_club">以理服人</string>

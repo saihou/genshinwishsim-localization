@@ -28,6 +28,7 @@
     <string name="thundering_pulse">Громовой пульс</string>
     <string name="engulfing_lightning">Сияющая жатва</string>
     <string name="everlasting_moonglow">Вечное лунное сияние</string>
+    <string name="polar_star">Полярная звезда</string>
 
     <!-- 4* Permanent -->
     <string name="bell">Меч-колокол</string>
@@ -56,6 +57,7 @@
     <string name="wing_and_song">Вино и песни</string>
     <string name="alley_hunter">Охотник во тьме</string>
     <string name="mitternachts_waltz">Вальс Нирваны Ночи</string>
+    <string name="akuoumaru">Акуомару</string>
 
     <!-- 3* -->
     <string name="debate_club">Дубина переговоров</string>

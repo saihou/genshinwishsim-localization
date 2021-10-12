@@ -68,7 +68,7 @@
     <string name="thanks_to_the_following_sites">Спасибо следующим сайтам за то, что сделали Wish Simulator возможным. </string>
     <string name="disclaimer">Отказе от ответственности</string>
     <string name="not_affiliated_with_mihoyo">Пожалуйста, обратите внимание, что приложение Genshin Impact Wish Simulator никоим образом не связано с miHoYo.</string>
-    <string name="wishes_are_free"> Этот симулятор молитв создан для веселья и развлекательных целей. Совершенные здесь молитвы не будут влиять на оригинальную игру. Данное приложение и молитвы, сделанные в этом приложении, бесплатны и не стоят никаких денег.</string>
+    <string name="wishes_are_free">Этот симулятор молитв создан для веселья и развлекательных целей. Совершенные здесь молитвы не будут влиять на оригинальную игру. Данное приложение и молитвы, сделанные в этом приложении, бесплатны и не стоят никаких денег.</string>
     <string name="all_rights_reserved">All images, sounds, assets, banners, character names, terms, etc, are courtesy of and owned by miHoYo. I do not own any of them. © All rights reserved by miHoYo.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="localization">Локализация</string>
@@ -78,6 +78,10 @@
     <string name="show_ad_description_may_opt_in">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. You may opt in to view ads if you wish.</string>
     <string name="opt_in_to_show_ads">Согласие на просмотр рекламы</string>
     <string name="close_support">Закрыть</string>
+    <string name="light_dark_mode">Light / Dark Mode</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="use_device_settings">Use device settings</string>
     <!-- endregion -->
 
     <!-- region Intro popup -->

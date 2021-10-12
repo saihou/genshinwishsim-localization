@@ -68,7 +68,7 @@
     <string name="thanks_to_the_following_sites">Thanks to the following sites for making this Wish Simulator possible. </string>
     <string name="disclaimer">Disclaimer</string>
     <string name="not_affiliated_with_mihoyo">Please take note that  Genshin Impact Wish Simulator app is not affiliated with miHoYo in any way.</string>
-    <string name="wishes_are_free"> This is a wish simulator made for fun and entertainment purposes. Wishes made here will not reflect in the game. The app, and wishes made in this app are free and do not cost any money.</string>
+    <string name="wishes_are_free">This is a wish simulator made for fun and entertainment purposes. Wishes made here will not reflect in the game. The app, and wishes made in this app are free and do not cost any money.</string>
     <string name="all_rights_reserved">All images, sounds, assets, banners, character names, terms, etc, are courtesy of and owned by miHoYo. I do not own any of them. © All rights reserved by miHoYo.</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="localization">Localization</string>
@@ -78,6 +78,10 @@
     <string name="show_ad_description_may_opt_in">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. You may opt in to view ads if you wish.</string>
     <string name="opt_in_to_show_ads">Opt in to view Ads</string>
     <string name="close_support">返回</string>
+    <string name="light_dark_mode">Light / Dark Mode</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="use_device_settings">Use device settings</string>
     <!-- endregion -->
 
     <!-- region Intro popup -->

@@ -28,6 +28,7 @@
     <string name="thundering_pulse">Thundering Pulse</string>
     <string name="engulfing_lightning">Engulfing Lightning</string>
     <string name="everlasting_moonglow">Everlasting Moonglow</string>
+    <string name="polar_star">Polar Star</string>
 
     <!-- 4* Permanent -->
     <string name="bell">The Bell</string>
@@ -56,6 +57,7 @@
     <string name="wing_and_song">Wine And Song</string>
     <string name="alley_hunter">Alley Hunter</string>
     <string name="mitternachts_waltz">Mitternachts Waltz</string>
+    <string name="akuoumaru">Akuoumaru</string>
 
     <!-- 3* -->
     <string name="debate_club">Debate Club</string>
