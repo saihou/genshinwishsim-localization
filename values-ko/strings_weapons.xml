@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weapon">무기</string>
+
+    <!-- 5* Permanent-->
+    <string name="amos_bow">아모스의 활</string>
+    <string name="aquila_favonia">매의 검</string>
+    <string name="lost_prayer">사풍 원서</string>
+    <string name="primordial_spear">화박연</string>
+    <string name="wolfs_gravestone">늑대의 말로</string>
+    <string name="skyward_harp">천공의 날개</string>
+    <string name="skyward_atlas">천공의 두루마리</string>
+    <string name="skyward_blade">천공의 검</string>
+    <string name="skyward_spine">천공의 마루</string>
+    <string name="skyward_pride">천공의 긍지</string>
+
+    <!-- 5* Event -->
+    <string name="vortex_vanquisher">관홍의 창</string>
+    <string name="unforged">무공의 검</string>
+    <string name="memory_of_dust">속세의 자물쇠</string>
+    <string name="summit_shaper">참봉의 칼날</string>
+    <string name="primordial_cutter">반암결록</string>
+    <string name="staff_of_homa">호마의 지팡이</string>
+    <string name="elegy_for_the_end">종말 탄식의 노래</string>
+    <string name="song_of_broken_pines">송뢰가 울릴 무렵</string>
+    <string name="freedom_sworn">오래된 자유의 서약</string>
+    <string name="mistsplitter_reforged">안개를 가르는 회광</string>
+    <string name="thundering_pulse">비뢰의 고동</string>
+    <string name="engulfing_lightning">예초의 번개</string>
+    <string name="everlasting_moonglow">불멸의 달빛</string>
+    <string name="polar_star">극지의 별</string>
+
+    <!-- 4* Permanent -->
+    <string name="bell">시간의 검</string>
+    <string name="dragons_bane">용학살창</string>
+    <string name="eye_of_perception">소심</string>
+    <string name="lions_roar">용의 포효</string>
+    <string name="favonius_warbow">페보니우스 활</string>
+    <string name="favonius_codex">페보니우스 비전</string>
+    <string name="favonius_lance">페보니우스 장창</string>
+    <string name="favonius_greatsword">페보니우스 대검</string>
+    <string name="favonius_sword">페보니우스 검</string>
+    <string name="flute">피리검</string>
+    <string name="rainslasher">빗물 베기</string>
+    <string name="rust">녹슨 활</string>
+    <string name="sacrificial_fragments">제례의 악장</string>
+    <string name="sacrificial_bow">제례활</string>
+    <string name="sacrificial_greatsword">제례 대검</string>
+    <string name="sacrificial_sword">제례검</string>
+    <string name="stringless">절현</string>
+    <string name="widsith">음유시인의 악장</string>
+
+    <!-- 4* Event -->
+    <string name="lithic_blade">천암고검</string>
+    <string name="lithic_spear">천암장창</string>
+    <string name="alley_flash">뒷골목의 섬광</string>
+    <string name="wing_and_song">뒷골목의 술과 시</string>
+    <string name="alley_hunter">뒷골목 사냥꾼</string>
+    <string name="mitternachts_waltz">유야의 왈츠</string>
+    <string name="akuoumaru">아쿠오마루</string>
+    <string name="wavebreakers_fin">파도 베는 지느러미</string>
+    <string name="mouuns_moon">모운의 달</string>
+
+    <!-- 3* -->
+    <string name="debate_club">훌륭한 대화수단</string>
+    <string name="ferrous_shadow">강철의 그림자</string>
+    <string name="bloodtainted_greatsword">드래곤 블러드 소드</string>
+    <string name="white_tassel">백술창</string>
+    <string name="black_tassel">흑술창</string>
+    <string name="harbinger_of_dawn">여명신검</string>
+    <string name="cool_steel">차가운 칼날</string>
+    <string name="skyrider_sword">비천어검</string>
+    <string name="slingshot">탄궁</string>
+    <string name="sharpshooters_oath">신궁의 서약</string>
+    <string name="raven_bow">까마귀깃 활</string>
+    <string name="thrilling_tales_of_dragon_slayers">드래곤 슬레이어 영웅담</string>
+    <string name="magic_guide">마도 서론</string>
+    <string name="emerald_orb">비취 오브</string>
+
+</resources>

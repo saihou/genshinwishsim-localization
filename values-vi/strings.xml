@@ -49,8 +49,8 @@
     <string name="pity_info_five_star">Cầu Nguyện cho đến 5-ssao tiếp theo pity: %d</string>
     <string name="next_five_star_100">5-sao tiếp theo: 100%% sẽ là %s</string>
     <string name="next_five_star_5050">5-sao tiếp theo: 50%% sẽ là %s</string>
-    <string name="next_five_star_75_featured">5-sao tiếp theo: 75% sẽ giới thiệu là</string>
-    <string name="next_five_star_100_featured">5-sao tiếp theo: 100% sẽ giới thiệu là </string>
+    <string name="next_five_star_75_featured" formatted="false">5-sao tiếp theo: 75% sẽ giới thiệu là</string>
+    <string name="next_five_star_100_featured" formatted="false">5-sao tiếp theo: 100% sẽ giới thiệu là</string>
     <!-- endregion -->
 
     <!-- region Archive -->

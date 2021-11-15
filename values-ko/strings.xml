@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">원신 기원 시뮬레이터[Genshin Wish Simulator]</string>
+
+    <!-- region Buttons, Labels, Descriptions etc -->
+    <string name="total_count">총 기원 횟수: %d</string>
+    <string name="total_spent">사용 금액. ~$%d (USD)</string>
+    <string name="fate_points">운명 포인트: %1$d/%2$d</string>
+    <string name="chart_course">신의 궤도</string>
+    <string name="remove_course">신의 궤도 제거</string>
+    <string name="details">세부사항</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="okay">확인</string>
+    <string name="cancel">취소</string>
+    <string name="close">닫기</string>
+    <string name="skip">스킵</string>
+    <string name="more">더보기</string>
+    <string name="hide">숨기기</string>
+    <string name="maxed_brackets">(최대)</string>
+    <string name="tap_anywhere_to_skip">아무 곳이나 터치해 스킵</string>
+    <string name="n_starglitter">%d 스타라이트</string>
+    <string name="n_extra">%d 여분</string>
+    <string name="wish">기원 x1</string>
+    <string name="wish_ten">기원 x10</string>
+    <string name="wish_custom">기원 x%s</string>
+    <string name="reset">초기화</string>
+    <string name="settings">설정</string>
+    <string name="total_wishes">🌠 총 기원 횟수: %d</string>
+    <string name="total_est_cost">💸 사용 금액 (USD): $%d</string>
+    <string name="primogems">💎 원석: %d</string>
+    <string name="masterless_glitter">✨ 스타라이트: %s</string>
+    <string name="five_star_count">🌟 5성 횟수: %1$d (%2$.3f%%)</string>
+    <string name="four_star_count">⭐ 4성 횟수: %1$d (%2$.3f%%)</string>
+    <string name="show_wish_animation">기원 애니메이션 보기</string>
+    <string name="most_recent_wishes">🌠 가장 최근 기원</string>
+    <string name="wish_history">🕒 기원 기록</string>
+    <string name="no_wishes_yet">아직 기원을 하지 않았습니다.</string>
+    <string name="mute_sounds">음소거</string>
+    <string name="skip_meteor_only">유성 애니메이션만 스킵</string>
+    <string name="clear_all_results">모든 기원 결과 초기화</string>
+    <string name="custom_wish_amount">기원 횟수 커스텀: </string>
+    <string name="are_you_sure_clear_all_wish">이전 결과를 모두 지우시겠습니까?</string>
+    <string name="are_you_sure_clear_fate_points">신의 궤도를 바꾸면 운명 포인트가 0이 됩니다. 진행하시겠습니까?</string>
+    <string name="simulator">시뮬레이터</string>
+    <!-- endregion -->
+
+    <!-- region Pity Info -->
+    <string name="pity_info_four_star">다음 4성 획득까지: %d</string>
+    <string name="pity_info_five_star">다음 5성 획득까지: %d</string>
+    <string name="next_five_star_100">다음 5성 획득: 100%% %s</string>
+    <string name="next_five_star_5050">다음 5성 획득: 50%%  %s</string>
+    <string name="next_five_star_75_featured">다음 5성 획득: 75% </string>
+    <string name="next_five_star_100_featured">다음 5성 획득: 100% </string>
+    <!-- endregion -->
+
+    <!-- region Archive -->
+    <string name="view_archived_banners">보관된 기원 보기</string>
+    <string name="archived_banners">보관된 기원</string>
+    <string name="hide_banner_title">이 기원을 숨길까요?</string>
+    <string name="hide_banner_desc">이 기원은 보관되었습니다. 만약 보관을 해제하고 싶으시면, 설정으로 가주세요.</string>
+    <string name="unarchive">보관 취소</string>
+    <string name="close_archive">보관소 닫기</string>
+    <!-- endregion -->
+
+    <!-- region Advanced Settings -->
+    <string name="advanced_settings">고급 설정</string>
+    <string name="credits">크레딧</string>
+    <string name="thanks_to_the_following_sites">이 기원 시뮬레이터를 가능하게 해준 다음 사이트에 감사를 표합니다.</string>
+    <string name="disclaimer">유의사항</string>
+    <string name="not_affiliated_with_mihoyo">Genshin Impact Wish Simulator [원신 기원 시뮬레이터]는 어떤 식으로든 miHoYo와 관련이 없습니다.</string>
+    <string name="wishes_are_free">이것은 재미와 오락 목적으로 만들어진 기원 시뮬레이터입니다. <b>여기서의 기원은 실제 게임에 반영되지 않습니다.</b> 이 앱과, 이 앱에서의 기원은 무료이며 비용이 들지 않습니다.</string>
+    <string name="all_rights_reserved">모든 이미지, 사운드, 자산, 배너, 캐릭터 이름, 약관, 기타 등등은 miHoYo 덕분이며 miHoYo가 소유하고 있습니다. 저는 그것들 중 아무것도 소유하고 있지 않습니다. © 모든 권리는 miHoYo에 있습니다. © All rights reserved by miHoYo</string>
+    <string name="privacy_policy">개인정보 처리방침</string>
+    <string name="localization">번역</string>
+    <string name="localization_description">만약 당신이 개발자이고 제가 이 앱을 번역하는데 도움을 주고 싶으시다면, 당신은 %s 에서 신청을 할 수 있습니다.</string>
+    <string name="ads">광고</string>
+    <string name="show_ad_description">저는 재미를 위해 이 앱을 자유 시간에 만들었고, 이 앱은 항상 무료 다운이 가능하고 광고 없이 무료로 사용 가능합니다. 만약 저를 지원하고 싶으시다면, 광고 보시는걸 선택하실 수 있습니다.</string>
+    <string name="show_ad_description_may_opt_in">저는 재미를 위해 이 앱을 자유 시간에 만들었고, 이 앱은 항상 무료 다운이 가능하고 광고 없이 무료로 사용 가능합니다. 원하시는 경우 광고 보는것을 선택하실 수 있습니다.</string>
+    <string name="opt_in_to_show_ads">광고 보기 허용</string>
+    <string name="close_support">닫기</string>
+    <string name="light_dark_mode">라이트 / 다크 모드</string>
+    <string name="light">라이트 모드</string>
+    <string name="dark">다크 모드</string>
+    <string name="use_device_settings">기기 설정에 따라 설정</string>
+    <!-- endregion -->
+
+    <!-- region Intro popup -->
+    <string name="i_agree">위 내용을 읽었으며 약관에 동의합니다.</string>
+    <string name="proceed">계속</string>
+    <string name="must_agree_to_terms">계속하기 위해서는 약관에 동의해야 합니다.</string>
+    <!-- endregion -->
+</resources>
