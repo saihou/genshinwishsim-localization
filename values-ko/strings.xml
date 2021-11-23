@@ -43,6 +43,7 @@
     <string name="are_you_sure_clear_all_wish">이전 결과를 모두 지우시겠습니까?</string>
     <string name="are_you_sure_clear_fate_points">신의 궤도를 바꾸면 운명 포인트가 0이 됩니다. 진행하시겠습니까?</string>
     <string name="simulator">시뮬레이터</string>
+    <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -59,6 +60,8 @@
     <string name="archived_banners">보관된 기원</string>
     <string name="hide_banner_title">이 기원을 숨길까요?</string>
     <string name="hide_banner_desc">이 기원은 보관되었습니다. 만약 보관을 해제하고 싶으시면, 설정으로 가주세요.</string>
+    <string name="hide_inactive_banner_title">Hide inactive banners?</string>
+    <string name="hide_inactive_banner_desc">Inactive banners will be archived. If you wish to unarchive, please go to Settings.</string>
     <string name="unarchive">보관 취소</string>
     <string name="close_archive">보관소 닫기</string>
     <!-- endregion -->
@@ -69,7 +72,7 @@
     <string name="thanks_to_the_following_sites">이 기원 시뮬레이터를 가능하게 해준 다음 사이트에 감사를 표합니다.</string>
     <string name="disclaimer">유의사항</string>
     <string name="not_affiliated_with_mihoyo">Genshin Impact Wish Simulator [원신 기원 시뮬레이터]는 어떤 식으로든 miHoYo와 관련이 없습니다.</string>
-    <string name="wishes_are_free">이것은 재미와 오락 목적으로 만들어진 기원 시뮬레이터입니다. <b>여기서의 기원은 실제 게임에 반영되지 않습니다.</b> 이 앱과, 이 앱에서의 기원은 무료이며 비용이 들지 않습니다.</string>
+    <string name="wishes_are_free">이것은 재미와 오락 목적으로 만들어진 기원 시뮬레이터입니다. <b><font color='#FF4747'>여기서의 기원은 실제 게임에 반영되지 않습니다.</font></b> 이 앱과, 이 앱에서의 기원은 무료이며 비용이 들지 않습니다.</string>
     <string name="all_rights_reserved">모든 이미지, 사운드, 자산, 배너, 캐릭터 이름, 약관, 기타 등등은 miHoYo 덕분이며 miHoYo가 소유하고 있습니다. 저는 그것들 중 아무것도 소유하고 있지 않습니다. © 모든 권리는 miHoYo에 있습니다. © All rights reserved by miHoYo</string>
     <string name="privacy_policy">개인정보 처리방침</string>
     <string name="localization">번역</string>

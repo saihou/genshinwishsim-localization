@@ -42,6 +42,7 @@
     <string name="are_you_sure_clear_all_wish">Are you sure you want to clear all previous results?</string>
     <string name="are_you_sure_clear_fate_points">Changing course will reset your Fate Points to 0. Are you sure?</string>
     <string name="simulator">Simulator</string>
+    <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -58,6 +59,8 @@
     <string name="archived_banners">Archived Banners</string>
     <string name="hide_banner_title">Hide this banner?</string>
     <string name="hide_banner_desc">This banner will be archived. If you wish to unarchive, please go to Settings.</string>
+    <string name="hide_inactive_banner_title">Hide inactive banners?</string>
+    <string name="hide_inactive_banner_desc">Inactive banners will be archived. If you wish to unarchive, please go to Settings.</string>
     <string name="unarchive">Unarchive</string>
     <string name="close_archive">Close Archive</string>
     <!-- endregion -->
@@ -68,7 +71,7 @@
     <string name="thanks_to_the_following_sites">Thanks to the following sites for making this Wish Simulator possible. </string>
     <string name="disclaimer">Disclaimer</string>
     <string name="not_affiliated_with_mihoyo">Please take note that Genshin Impact Wish Simulator app is not affiliated with miHoYo in any way.</string>
-    <string name="wishes_are_free">This is a wish simulator made for fun and entertainment purposes. <b>Wishes made here will not reflect in the game.</b> The app, and wishes made in this app are free and do not cost any money.</string>
+    <string name="wishes_are_free">This is a wish simulator made for fun and entertainment purposes. <b><font color='#FF4747'>Wishes made here will not reflect in the game.</font></b> The app, and wishes made in this app are free and do not cost any money.</string>
     <string name="all_rights_reserved">All images, sounds, assets, banners, character names, terms, etc, are courtesy of and owned by miHoYo. I do not own any of them. © All rights reserved by miHoYo.</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="localization">Localization</string>

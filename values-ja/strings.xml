@@ -42,6 +42,7 @@
     <string name="are_you_sure_clear_all_wish">Are you sure you want to clear all previous results?</string>
     <string name="are_you_sure_clear_fate_points">Changing course will reset your Fate Points to 0. Are you sure?</string>
     <string name="simulator">Simulator</string>
+    <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -58,6 +59,8 @@
     <string name="archived_banners">Archived Banners</string>
     <string name="hide_banner_title">Hide this banner?</string>
     <string name="hide_banner_desc">This banner will be archived. If you wish to unarchive, please go to Settings.</string>
+    <string name="hide_inactive_banner_title">Hide inactive banners?</string>
+    <string name="hide_inactive_banner_desc">Inactive banners will be archived. If you wish to unarchive, please go to Settings.</string>
     <string name="unarchive">Unarchive</string>
     <string name="close_archive">Close Archive</string>
     <!-- endregion -->

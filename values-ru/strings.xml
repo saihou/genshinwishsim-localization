@@ -42,6 +42,7 @@
     <string name="are_you_sure_clear_all_wish">Ты уверен, что хочешь стереть все предыдущие результаты?</string>
     <string name="are_you_sure_clear_fate_points">Изменение курса приведет к сбросу очков Судьбы. Ты уверен?</string>
     <string name="simulator">Simulator</string>
+    <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -58,6 +59,8 @@
     <string name="archived_banners">Архивные баннеры</string>
     <string name="hide_banner_title">Скрыть этот баннер?</string>
     <string name="hide_banner_desc">Этот баннер будет заархивирован. Если вы хотите разархивировать его, перейдите в раздел Настройки.</string>
+    <string name="hide_inactive_banner_title">Hide inactive banners?</string>
+    <string name="hide_inactive_banner_desc">Inactive banners will be archived. If you wish to unarchive, please go to Settings.</string>
     <string name="unarchive">Разархивировать</string>
     <string name="close_archive">Закрыть архив</string>
     <!-- endregion -->

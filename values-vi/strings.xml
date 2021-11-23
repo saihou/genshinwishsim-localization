@@ -42,6 +42,7 @@
     <string name="are_you_sure_clear_all_wish">Bạn có chắc chắn muốn xoá mọi kết quả?</string>
     <string name="are_you_sure_clear_fate_points">Thay đổi Định Chuẩn sẽ xoá sạch Điểm vận mệnh về 0. Bạn có chắc không?</string>
     <string name="simulator">Giả lập</string>
+    <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -58,6 +59,8 @@
     <string name="archived_banners">Banner Cũ</string>
     <string name="hide_banner_title">Ẩn banner này?</string>
     <string name="hide_banner_desc">Banner này sẽ ẩn. Nếu bạn muốn hiện lại, Vui lòng vào cài đặt</string>
+    <string name="hide_inactive_banner_title">Hide inactive banners?</string>
+    <string name="hide_inactive_banner_desc">Inactive banners will be archived. If you wish to unarchive, please go to Settings.</string>
     <string name="unarchive">Hiện lại banner</string>
     <string name="close_archive">Đóng</string>
     <!-- endregion -->

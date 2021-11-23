@@ -42,6 +42,7 @@
     <string name="are_you_sure_clear_all_wish">确定清除所有祈愿记录?</string>
     <string name="are_you_sure_clear_fate_points">半途中切换定轨将会把命定值返回0. 请确定。</string>
     <string name="simulator">抽卡模拟器</string>
+    <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -58,6 +59,8 @@
     <string name="archived_banners">档案</string>
     <string name="hide_banner_title">存进档案?</string>
     <string name="hide_banner_desc">此池将被存进档案。如果您想取消存档, 请查看设置。</string>
+    <string name="hide_inactive_banner_title">将所有旧池存进档案?</string>
+    <string name="hide_inactive_banner_desc">所有旧池将被存进档案。如果您想取消存档, 请查看设置。</string>
     <string name="unarchive">取消存档</string>
     <string name="close_archive">返回</string>
     <!-- endregion -->
