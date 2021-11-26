@@ -20,6 +20,8 @@
     <string name="tap_anywhere_to_skip">Нажмите в любом месте, чтобы пропустить</string>
     <string name="n_starglitter">%d звездного блеска</string>
     <string name="n_extra">%d доп.</string>
+    <string name="n_wishes">%s wishes</string>
+    <string name="constellation_n">C%s</string>
     <string name="wish">Помолиться 1 раз</string>
     <string name="wish_ten">Помолиться 10 раз</string>
     <string name="wish_custom">Помолиться %s раз</string>
@@ -69,6 +71,7 @@
     <string name="advanced_settings">Дополнительные настройки</string>
     <string name="credits">Благодарности</string>
     <string name="thanks_to_the_following_sites">Спасибо следующим сайтам за то, что сделали Wish Simulator возможным. </string>
+    <string name="thanks_to_the_following_contributors">Thanks to the following contributors for helping me translate the app.</string>
     <string name="disclaimer">Отказе от ответственности</string>
     <string name="not_affiliated_with_mihoyo">Пожалуйста, обратите внимание, что приложение Genshin Impact Wish Simulator никоим образом не связано с miHoYo.</string>
     <string name="wishes_are_free">Этот симулятор молитв создан для веселья и развлекательных целей. Совершенные здесь молитвы не будут влиять на оригинальную игру. Данное приложение и молитвы, сделанные в этом приложении, бесплатны и не стоят никаких денег.</string>

@@ -20,7 +20,9 @@
     <string name="maxed_brackets">(최대)</string>
     <string name="tap_anywhere_to_skip">아무 곳이나 터치해 스킵</string>
     <string name="n_starglitter">%d 스타라이트</string>
-    <string name="n_extra">%d 여분</string>
+    <string name="n_extra">%d 초과</string>
+    <string name="n_wishes">%s 기원</string>
+    <string name="constellation_n">%s돌</string>
     <string name="wish">기원 x1</string>
     <string name="wish_ten">기원 x10</string>
     <string name="wish_custom">기원 x%s</string>
@@ -70,6 +72,7 @@
     <string name="advanced_settings">고급 설정</string>
     <string name="credits">크레딧</string>
     <string name="thanks_to_the_following_sites">이 기원 시뮬레이터를 가능하게 해준 다음 사이트에 감사를 표합니다.</string>
+    <string name="thanks_to_the_following_contributors">Thanks to the following contributors for helping me translate the app.</string>
     <string name="disclaimer">유의사항</string>
     <string name="not_affiliated_with_mihoyo">Genshin Impact Wish Simulator [원신 기원 시뮬레이터]는 어떤 식으로든 miHoYo와 관련이 없습니다.</string>
     <string name="wishes_are_free">이것은 재미와 오락 목적으로 만들어진 기원 시뮬레이터입니다. <b><font color='#FF4747'>여기서의 기원은 실제 게임에 반영되지 않습니다.</font></b> 이 앱과, 이 앱에서의 기원은 무료이며 비용이 들지 않습니다.</string>

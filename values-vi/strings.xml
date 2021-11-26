@@ -20,6 +20,8 @@
     <string name="tap_anywhere_to_skip">Chạm vào vị trí bất kì để bỏ qua</string>
     <string name="n_starglitter">%d Tinh Huy</string>
     <string name="n_extra">%d thêm</string>
+    <string name="n_wishes">%s wishes</string>
+    <string name="constellation_n">C%s</string>
     <string name="wish">Cầu Nguyện x1</string>
     <string name="wish_ten">Cầu Nguyện x10</string>
     <string name="wish_custom">Cầu Nguyện x%s</string>
@@ -69,6 +71,7 @@
     <string name="advanced_settings">Cài đặt nâng cao</string>
     <string name="credits">Credits</string>
     <string name="thanks_to_the_following_sites">Hãy theo dõi những trang này để ủng hộ Giả Lập Cầu Nguyện. </string>
+    <string name="thanks_to_the_following_contributors">Thanks to the following contributors for helping me translate the app.</string>
     <string name="disclaimer">Tuyên bố</string>
     <string name="not_affiliated_with_mihoyo">Xin lưu ý rằng ứng dụng Genshin Impact Wish Simulator không liên kết với miHoYo theo bất kỳ cách nào.</string>
     <string name="wishes_are_free">Đây là một giả lập Cầu Nguyện được thực hiện cho mục đích vui vẻ và giải trí. Cầu Nguyện được thực hiện ở đây sẽ không phản ánh chính xác trong trò chơi. Ứng dụng và những lần Cầu Nguyện được thực hiện trong ứng dụng này là miễn phí và không tốn bất kỳ khoản tiền nào.</string>

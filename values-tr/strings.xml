@@ -20,6 +20,8 @@
     <string name="tap_anywhere_to_skip">Geçmek için herhangi bir yere dokunun.</string>
     <string name="n_starglitter">%d Starglitter</string>
     <string name="n_extra">%d extra</string>
+    <string name="n_wishes">%s wishes</string>
+    <string name="constellation_n">C%s</string>
     <string name="wish">x1 Wish</string>
     <string name="wish_ten">x10 Wish</string>
     <string name="wish_custom">x%s Wish</string>
@@ -69,6 +71,7 @@
     <string name="advanced_settings">Gelişmiş Ayarlar</string>
     <string name="credits">Emeği Geçenler</string>
     <string name="thanks_to_the_following_sites">Aşağıdaki sitelere Wish Simülasyonunu mümkün kıldıkları için teşekkürler.</string>
+    <string name="thanks_to_the_following_contributors">Thanks to the following contributors for helping me translate the app.</string>
     <string name="disclaimer">Uyarı</string>
     <string name="not_affiliated_with_mihoyo">Lütfen Genshin Impact Wish Simulator uygulamasının hiçbir şekilde miHoYo ile bağlantılı olmadığını unutmayın.</string>
     <string name="wishes_are_free">Bu, eğlence amaçlı yapılmış bir wish simülatörüdür. <b><font color='#FF4747'>Burada yapılan wishler oyuna yansımayacaktır.</font></b> Uygulama ve bu uygulamada yapılan wishler ücretsizdir ve herhangi bir ücret ödenmez.</string>

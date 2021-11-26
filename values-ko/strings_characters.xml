@@ -2,7 +2,7 @@
 <resources>
     <string name="none" translatable="false" />
 
-    <string name="permanent">Permanent</string>
+    <string name="permanent">상시</string>
 
     <!-- 5* Permanent-->
     <string name="diluc">다이루크</string>
