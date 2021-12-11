@@ -28,6 +28,8 @@
     <string name="raiden">Райдэн</string>
     <string name="sangonomiya_kokomi">Сангономия Кокоми</string>
     <string name="kokomi">Кокоми</string>
+    <string name="itto">Итто</string>
+    <string name="arataki_itto">Итто</string>
 
     <!-- 4* -->
     <string name="amber">Эмбер</string>
@@ -51,5 +53,6 @@
     <string name="sayu">Саю</string>
     <string name="kujou_sara">Кудзё Сара</string>
     <string name="thoma">Тома</string>
+    <string name="gorou">Горо</string>
 
 </resources>

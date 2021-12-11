@@ -30,6 +30,8 @@
     <string name="raiden">Raiden</string>
     <string name="sangonomiya_kokomi">Sangonomiya Kokomi</string>
     <string name="kokomi">Kokomi</string>
+    <string name="itto">Itto</string>
+    <string name="arataki_itto">Arataki Itto</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -53,5 +55,6 @@
     <string name="sayu">Sayu</string>
     <string name="kujou_sara">Kujou Sara</string>
     <string name="thoma">Thoma</string>
+    <string name="gorou">Gorou</string>
 
 </resources>

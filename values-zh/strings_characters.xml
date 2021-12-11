@@ -28,6 +28,8 @@
     <string name="raiden">雷电将军</string>
     <string name="sangonomiya_kokomi">珊瑚宫心海</string>
     <string name="kokomi">珊瑚宫心海</string>
+    <string name="itto">荒泷一斗</string>
+    <string name="arataki_itto">荒泷一斗</string>
 
     <!-- 4* -->
     <string name="amber">安柏</string>
@@ -51,5 +53,6 @@
     <string name="sayu">早柚</string>
     <string name="kujou_sara">九条裟罗</string>
     <string name="thoma">托马</string>
+    <string name="gorou">五郎</string>
 
 </resources>

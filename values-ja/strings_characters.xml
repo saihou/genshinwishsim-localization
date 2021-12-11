@@ -30,6 +30,8 @@
     <string name="raiden">雷電将軍</string>
     <string name="sangonomiya_kokomi">珊瑚宮心海</string>
     <string name="kokomi">珊瑚宮心海</string>
+    <string name="itto">荒瀧一斗</string>
+    <string name="arataki_itto">荒瀧一斗</string>
 
     <!-- 4* -->
     <string name="amber">アンバー</string>
@@ -53,5 +55,6 @@
     <string name="sayu">早柚</string>
     <string name="kujou_sara">九条裟羅</string>
     <string name="thoma">トーマ</string>
+    <string name="gorou">ゴロー</string>
 
 </resources>
