@@ -48,12 +48,12 @@
     <!-- endregion -->
 
     <!-- region Pity Info -->
-    <string name="pity_info_four_star">Cầu Nguyện cho đến 4-sao tiếp theo pity: %d</string>
-    <string name="pity_info_five_star">Cầu Nguyện cho đến 5-ssao tiếp theo pity: %d</string>
+    <string name="pity_info_four_star">Pity Cầu Nguyện để ra 4-sao tiếp theo : %d</string>
+    <string name="pity_info_five_star">Pity Cầu Nguyện để ra 5-sao tiếp theo : %d</string>
     <string name="next_five_star_100">5-sao tiếp theo: 100%% sẽ là %s</string>
     <string name="next_five_star_5050">5-sao tiếp theo: 50%% sẽ là %s</string>
-    <string name="next_five_star_75_featured" formatted="false">5-sao tiếp theo: 75% sẽ giới thiệu là</string>
-    <string name="next_five_star_100_featured" formatted="false">5-sao tiếp theo: 100% sẽ giới thiệu là</string>
+    <string name="next_five_star_75_featured" formatted="false">5-sao tiếp theo: 75% sẽ là</string>
+    <string name="next_five_star_100_featured" formatted="false">5-sao tiếp theo: 100% là</string>
     <!-- endregion -->
 
     <!-- region Archive -->
@@ -61,8 +61,8 @@
     <string name="archived_banners">Banner Cũ</string>
     <string name="hide_banner_title">Ẩn banner này?</string>
     <string name="hide_banner_desc">Banner này sẽ ẩn. Nếu bạn muốn hiện lại, Vui lòng vào cài đặt</string>
-    <string name="hide_inactive_banner_title">Hide inactive banners?</string>
-    <string name="hide_inactive_banner_desc">Inactive banners will be archived. If you wish to unarchive, please go to Settings.</string>
+    <string name="hide_inactive_banner_title">Ẩn banner không hoạt động?</string>
+    <string name="hide_inactive_banner_desc">Banner không hoạt động sẽ ẩn. Nếu bạn muốn hiện lại, Vui lòng vào cài đặt.</string>
     <string name="unarchive">Hiện lại banner</string>
     <string name="close_archive">Đóng</string>
     <!-- endregion -->
@@ -71,7 +71,7 @@
     <string name="advanced_settings">Cài đặt nâng cao</string>
     <string name="credits">Credits</string>
     <string name="thanks_to_the_following_sites">Hãy theo dõi những trang này để ủng hộ Giả Lập Cầu Nguyện. </string>
-    <string name="thanks_to_the_following_contributors">Thanks to the following contributors for helping me translate the app.</string>
+    <string name="thanks_to_the_following_contributors">Cảm ơn những người đóng góp sau đã giúp tôi dịch ứng dụng.</string>
     <string name="disclaimer">Tuyên bố</string>
     <string name="not_affiliated_with_mihoyo">Xin lưu ý rằng ứng dụng Genshin Impact Wish Simulator không liên kết với miHoYo theo bất kỳ cách nào.</string>
     <string name="wishes_are_free">Đây là một giả lập Cầu Nguyện được thực hiện cho mục đích vui vẻ và giải trí. Cầu Nguyện được thực hiện ở đây sẽ không phản ánh chính xác trong trò chơi. Ứng dụng và những lần Cầu Nguyện được thực hiện trong ứng dụng này là miễn phí và không tốn bất kỳ khoản tiền nào.</string>
