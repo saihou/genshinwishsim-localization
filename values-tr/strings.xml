@@ -45,6 +45,8 @@
     <string name="are_you_sure_clear_fate_points">Kursu değştirmek Fate puanlarını sıfırlayacaktır. Emin misiniz?</string>
     <string name="simulator">Simülatör</string>
     <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
+    <string name="inventory">Inventory</string>
+    <string name="view_inventory">View Inventory</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -83,7 +85,7 @@
     <string name="show_ad_description">Bu uygulamayı eğlence için boş zamanlarımda yaptım, indirmesi ve kullanımı her zaman ücretsiz olacaktır. İsterseniz bana destek olmak için reklamları görüntülemeyi seçebilirsiniz.</string>
     <string name="show_ad_description_may_opt_in">Bu uygulamayı eğlence için boş zamanlarımda yaptım, indirmesi ve kullanımı her zaman ücretsiz olacaktır. İsterseniz bana destek olmak için reklamları görüntülemeyi seçebilirsiniz.</string>
     <string name="opt_in_to_show_ads">Reklamları görüntüle</string>
-    <string name="close_support">Kapat</string>
+    <string name="close_page">Kapat</string>
     <string name="light_dark_mode">Light / Dark Mode</string>
     <string name="light">Light</string>
     <string name="dark">Dark</string>

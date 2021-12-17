@@ -45,6 +45,8 @@
     <string name="are_you_sure_clear_fate_points">Изменение курса приведет к сбросу очков Судьбы. Ты уверен?</string>
     <string name="simulator">Simulator</string>
     <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
+    <string name="inventory">Inventory</string>
+    <string name="view_inventory">View Inventory</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -83,7 +85,7 @@
     <string name="show_ad_description">Я сделал это приложение для развлечения в свободное время, и оно всегда будет бесплатным для загрузки и бесплатного использования. Если это как-то помогло вам и вы хотите поддержать меня, вы можете подписаться на просмотр рекламы.</string>
     <string name="show_ad_description_may_opt_in">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. You may opt in to view ads if you wish.</string>
     <string name="opt_in_to_show_ads">Согласие на просмотр рекламы</string>
-    <string name="close_support">Закрыть</string>
+    <string name="close_page">Закрыть</string>
     <string name="light_dark_mode">Light / Dark Mode</string>
     <string name="light">Light</string>
     <string name="dark">Dark</string>

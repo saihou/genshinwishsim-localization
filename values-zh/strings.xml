@@ -45,6 +45,8 @@
     <string name="are_you_sure_clear_fate_points">半途中切换定轨将会把命定值返回0. 请确定。</string>
     <string name="simulator">抽卡模拟器</string>
     <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
+    <string name="inventory">所有记录</string>
+    <string name="view_inventory">查看所有记录</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -83,7 +85,7 @@
     <string name="show_ad_description">I made this app for fun in my free time, and it will always be free to download and free to use. If this helped you in any way and if you want to support me, you can opt in to view ads.</string>
     <string name="show_ad_description_may_opt_in">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. You may opt in to view ads if you wish.</string>
     <string name="opt_in_to_show_ads">Opt in to view Ads</string>
-    <string name="close_support">返回</string>
+    <string name="close_page">返回</string>
     <string name="light_dark_mode">Light / Dark Mode</string>
     <string name="light">Light</string>
     <string name="dark">Dark</string>

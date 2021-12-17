@@ -45,6 +45,8 @@
     <string name="are_you_sure_clear_fate_points">Thay đổi Định Chuẩn sẽ xoá sạch Điểm vận mệnh về 0. Bạn có chắc không?</string>
     <string name="simulator">Giả lập</string>
     <string name="reset_linked_banner_notice">This banner is linked with %1$s. Doing this action will reset both banners.</string>
+    <string name="inventory">Inventory</string>
+    <string name="view_inventory">View Inventory</string>
     <!-- endregion -->
 
     <!-- region Pity Info -->
@@ -83,7 +85,7 @@
     <string name="show_ad_description">Tôi đã tạo ứng dụng này để giải trí vào thời gian rảnh của mình và nó sẽ luôn miễn phí để tải xuống và sử dụng miễn phí mà không có quảng cáo. Nếu bạn muốn ủng hộ tôi, bạn có thể bật quảng cáo để xem.</string>
     <string name="show_ad_description_may_opt_in">Tôi đã tạo ứng dụng này để giải trí vào thời gian rảnh của mình và nó sẽ luôn miễn phí để tải xuống và sử dụng miễn phí mà không có quảng cáo. Bạn có thể chọn xem quảng cáo nếu muốn.</string>
     <string name="opt_in_to_show_ads">Xem Quảng cáo để ủng hộ</string>
-    <string name="close_support">Đóng</string>
+    <string name="close_page">Đóng</string>
     <string name="light_dark_mode">Chủ đề Sáng / Tối</string>
     <string name="light">Sáng</string>
     <string name="dark">Tối</string>
