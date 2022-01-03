@@ -32,6 +32,7 @@
     <string name="kokomi">코코미</string>
     <string name="itto">이토</string>
     <string name="arataki_itto">아라타키 이토</string>
+    <string name="shenhe">신학</string>
 
     <!-- 4* -->
     <string name="amber">엠버</string>
@@ -56,5 +57,6 @@
     <string name="kujou_sara">쿠죠 사라</string>
     <string name="thoma">토마</string>
     <string name="gorou">고로</string>
+    <string name="yunjin">운근</string>
 
 </resources>

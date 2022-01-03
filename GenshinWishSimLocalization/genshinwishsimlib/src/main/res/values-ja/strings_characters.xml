@@ -32,6 +32,7 @@
     <string name="kokomi">珊瑚宮心海</string>
     <string name="itto">荒瀧一斗</string>
     <string name="arataki_itto">荒瀧一斗</string>
+    <string name="shenhe">申鶴</string>
 
     <!-- 4* -->
     <string name="amber">アンバー</string>
@@ -56,5 +57,6 @@
     <string name="kujou_sara">九条裟羅</string>
     <string name="thoma">トーマ</string>
     <string name="gorou">ゴロー</string>
+    <string name="yunjin">雲菫</string>
 
 </resources>

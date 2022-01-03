@@ -32,6 +32,7 @@
     <string name="kokomi">Kokomi</string>
     <string name="itto">Itto</string>
     <string name="arataki_itto">Arataki Itto</string>
+    <string name="shenhe">Shenhe</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -55,6 +56,7 @@
     <string name="sayu">Sayu</string>
     <string name="kujou_sara">Kujou Sara</string>
     <string name="thoma">Thoma</string>
-    <string name="gorou"></string>
+    <string name="gorou">Gorou</string>
+    <string name="yunjin">Yun Jin</string>
 
 </resources>

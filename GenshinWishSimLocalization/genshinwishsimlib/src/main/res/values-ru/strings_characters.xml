@@ -30,6 +30,7 @@
     <string name="kokomi">Кокоми</string>
     <string name="itto">Итто</string>
     <string name="arataki_itto">Итто</string>
+    <string name="shenhe">Шэнь Хэ</string>
 
     <!-- 4* -->
     <string name="amber">Эмбер</string>
@@ -54,5 +55,6 @@
     <string name="kujou_sara">Кудзё Сара</string>
     <string name="thoma">Тома</string>
     <string name="gorou">Горо</string>
+    <string name="yunjin">Юнь Цзинь</string>
 
 </resources>
