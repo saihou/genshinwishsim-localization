@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weapon">Armas</string>
+
+    <!-- 5* Permanent-->
+    <string name="amos_bow">Arco de Amos</string>
+    <string name="aquila_favonia">Aquila Favonia</string>
+    <string name="lost_prayer">Oración Perdida a los Vientos Sagrados</string>
+    <string name="primordial_spear">Halcón de jade</string>
+    <string name="wolfs_gravestone">Lápida del Lobo</string>
+    <string name="skyward_harp">Alas Celestiales</string>
+    <string name="skyward_atlas">Pergamino Celestial</string>
+    <string name="skyward_blade">Hoja Afilada Celestial</string>
+    <string name="skyward_spine">Púa Celestial</string>
+    <string name="skyward_pride">Orgullo Celestial</string>
+
+    <!-- 5* Event -->
+    <string name="vortex_vanquisher">Lanza Perforanubes</string>
+    <string name="unforged">Espada de la Desidia</string>
+    <string name="memory_of_dust">Candado Terrenal</string>
+    <string name="summit_shaper">Rompemontañas</string>
+    <string name="primordial_cutter">Cortador de Jade Primordial</string>
+    <string name="staff_of_homa">Báculo de Homa</string>
+    <string name="elegy_for_the_end">Elegía del Fin</string>
+    <string name="song_of_broken_pines">Oda de los Pinos</string>
+    <string name="freedom_sworn">Juramento de la Libertad</string>
+    <string name="mistsplitter_reforged">Reflejo de las Tinieblas</string>
+    <string name="thundering_pulse">Agitador del Relámpago</string>
+    <string name="engulfing_lightning">Luz del segador</string>
+    <string name="everlasting_moonglow">Luna Inalterable</string>
+    <string name="polar_star">Estrella Invernal</string>
+    <string name="redhorn_stonethresher">Espadón Cornirojo</string>
+    <string name="calamity_queller">Pacificadora del Desastre</string>
+
+    <!-- 4* Permanent -->
+    <string name="bell">Espada del Tiempo</string>
+    <string name="dragons_bane">Perdición del Dragón</string>
+    <string name="eye_of_perception">Ojo de la Perspicacia</string>
+    <string name="lions_roar">Rugido del León</string>
+    <string name="favonius_warbow">Arco de Favonius</string>
+    <string name="favonius_codex">Códice de Favonius</string>
+    <string name="favonius_lance">Lanza de Favonius</string>
+    <string name="favonius_greatsword">Gran Espada de Favonius</string>
+    <string name="favonius_sword">Espada de Favonius</string>
+    <string name="flute">Flauta</string>
+    <string name="rainslasher">Segadora de la Lluvia</string>
+    <string name="rust">Herrumbre</string>
+    <string name="sacrificial_fragments">Memorias de Sacrificios</string>
+    <string name="sacrificial_bow">Arco del Sacrificio</string>
+    <string name="sacrificial_greatsword">Gran Espada del Sacrificio</string>
+    <string name="sacrificial_sword">Espada del Sacrificio</string>
+    <string name="stringless">Último Acorde</string>
+    <string name="widsith">Sinfonía de los Merodeadores</string>
+
+    <!-- 4* Event -->
+    <string name="lithic_blade">Espada Lítica</string>
+    <string name="lithic_spear">Lanza Lítica</string>
+    <string name="alley_flash">Destello de la Oscuridad</string>
+    <string name="wing_and_song">Vino y poesía</string>
+    <string name="alley_hunter">Cazador de Callejón</string>
+    <string name="mitternachts_waltz">Vals Nocturno</string>
+    <string name="akuoumaru">Rey del Mal</string>
+    <string name="wavebreakers_fin">Aleta Cortaolas</string>
+    <string name="mouuns_moon">Luna de Mouun</string>
+
+    <!-- 3* -->
+    <string name="debate_club">Garrote del Debate</string>
+    <string name="ferrous_shadow">Sombra Férrea</string>
+    <string name="bloodtainted_greatsword">Gran Espada Sangrienta</string>
+    <string name="white_tassel">Borla Blanca</string>
+    <string name="black_tassel">Borla Negra</string>
+    <string name="harbinger_of_dawn">Espada del Alba</string>
+    <string name="cool_steel">Hoja Fría</string>
+    <string name="skyrider_sword">Gran Espada Surcacielos</string>
+    <string name="slingshot">Tirachinas</string>
+    <string name="sharpshooters_oath">Juramento del Arquero</string>
+    <string name="raven_bow">Arco del Cuervo</string>
+    <string name="thrilling_tales_of_dragon_slayers">Cuentos de Cazadores de Dragones</string>
+    <string name="magic_guide">Guía Mágica</string>
+    <string name="emerald_orb">Orbe Esmeralda</string>
+
+</resources>
