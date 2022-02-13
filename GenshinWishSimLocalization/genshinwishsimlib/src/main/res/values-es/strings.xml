@@ -22,9 +22,9 @@
     <string name="n_extra">%d extra</string>
     <string name="n_wishes">%s deseos</string>
     <string name="constellation_n">C%s</string>
-    <string name="wish">Desear x1</string>
-    <string name="wish_ten">Desear x10</string>
-    <string name="wish_custom">Desear x%s</string>
+    <string name="wish">Pedir 1 deseo</string>
+    <string name="wish_ten">Pedir 10 deseos</string>
+    <string name="wish_custom">Pedir %s deseos</string>
     <string name="reset">Reiniciar</string>
     <string name="settings">Configuración</string>
     <string name="total_wishes">🌠 Deseos Totales: %d</string>
