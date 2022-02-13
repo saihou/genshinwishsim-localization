@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Genshin Wish Simulator</string>
+    <string name="app_name">Wish Simulator for Genshin</string>
 
     <!-- region Buttons, Labels, Descriptions etc -->
     <string name="total_count">Total wishes: %d</string>

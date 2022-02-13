@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">원신 기원 시뮬레이터[Genshin Wish Simulator]</string>
+    <string name="app_name">원신 기원 시뮬레이터[Wish Simulator for Genshin]</string>
 
     <!-- region Buttons, Labels, Descriptions etc -->
     <string name="total_count">총 기원 횟수: %d</string>

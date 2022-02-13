@@ -1,7 +1,7 @@
 Welcome
 ======
 
-This is a GitHub repository for localizations for the app [Genshin Wish Sim: Unofficial](https://play.google.com/store/apps/details?id=com.saihou.genshinwishsim) on Google Play.
+This is a GitHub repository for localizations for the app [Wish Simulator for Genshin](https://play.google.com/store/apps/details?id=com.saihou.genshinwishsim) on Google Play.
 
 
 Developers who are keen to contribute can submit their pull requests here, open new issues etc.
@@ -23,3 +23,4 @@ Contributors
 - Turkish - [TheHusyin](https://github.com/TheHusyin) (GitHub)
 - Vietnamese - [hatbut](https://github.com/hatbut) (GitHub)
 - Korean - [삶[S.A.R.M.]](https://youtube.com/c/%EC%82%B6sarm) (YouTube)
+- Spanish - [Magody](https://github.com/Magody) (GitHub)

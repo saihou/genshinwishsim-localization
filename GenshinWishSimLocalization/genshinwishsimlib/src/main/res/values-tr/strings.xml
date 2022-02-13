@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Genshin Wish Simülasyonu</string>
+    <string name="app_name">Wish Simülasyonu for Genshin</string>
 
     <!-- region Buttons, Labels, Descriptions etc -->
     <string name="total_count">Toplam wish: %d</string>
