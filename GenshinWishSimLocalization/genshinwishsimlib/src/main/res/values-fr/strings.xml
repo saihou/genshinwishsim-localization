@@ -17,7 +17,7 @@
     <string name="more">Plus</string>
     <string name="hide">Cacher</string>
     <string name="maxed_brackets">(MAXIMUM)</string>
-    <string name="tap_anywhere_to_skip">Cliquer n'importe où pour passer</string>
+    <string name="tap_anywhere_to_skip">"Cliquer n'importe où pour passer"</string>
     <string name="n_starglitter">%d Starglitter</string>
     <string name="n_extra">%d extra</string>
     <string name="n_wishes">%s voeux</string>
@@ -33,12 +33,12 @@
     <string name="masterless_glitter">✨ Starglitter: %s</string>
     <string name="five_star_count">🌟 Nombre de Cinq-étoiles: %1$d (%2$.3f%%)</string>
     <string name="four_star_count">⭐ Nombre de Quatre-étoiles: %1$d (%2$.3f%%)</string>
-    <string name="show_wish_animation">Afficher l'animation de voeu</string>
+    <string name="show_wish_animation">"Afficher l'animation de voeu"</string>
     <string name="most_recent_wishes">🌠 Voeux Plus Récents</string>
     <string name="wish_history">🕒 Historique de Voeux</string>
     <string name="no_wishes_yet">Encore Aucun Voeux</string>
     <string name="mute_sounds">Couper le son</string>
-    <string name="skip_meteor_only">Passer l'animation du météore seulement</string>
+    <string name="skip_meteor_only">"Passer l'animation du météore seulement"</string>
     <string name="clear_all_results">Dégager tous les résultats de voeux</string>
     <string name="custom_wish_amount">Nombre de Voeux Personnalisé: </string>
     <string name="are_you_sure_clear_all_wish">Êtes vous sûr de dégager tous les résultats précedents?</string>
@@ -76,24 +76,24 @@
     <string name="thanks_to_the_following_contributors">Thanks to the following contributors for helping me translate the app.</string>
     <string name="disclaimer">Disclaimer</string>
     <string name="not_affiliated_with_mihoyo">Please take note that Genshin Impact Wish Simulator app is not affiliated with miHoYo in any way.</string> 
-    <string name="wishes_are_free">Ceci est un simulateur de voeux non-sérieux.<b><font color='#FF4747'>Les voeux faits ici ne seront pas reflétés dans le jeu.</font></b> L'application et les voeux faits dedans sont gratuits.</string>
-    <string name="all_rights_reserved">Toutes les images, sons, actifs, bannières, noms de personnages, termes, etc. sont une gracieuseté de miHoYo et sont sa propriété. Je n'en possède aucun. © Tous droits réservés par miHoYo.</string>
+    <string name="wishes_are_free">Ceci est un simulateur de voeux non-sérieux.<b><font color='#FF4747'>Les voeux faits ici ne seront pas reflétés dans le jeu.</font></b> L\'application et les voeux faits dedans sont gratuits.</string>
+    <string name="all_rights_reserved">Toutes les images, sons, actifs, bannières, noms de personnages, termes, etc. sont une gracieuseté de miHoYo et sont sa propriété. Je n\'en possède aucun. © Tous droits réservés par miHoYo.</string>
     <string name="privacy_policy">Politique de Confidentialité</string>
     <string name="localization">Localisation</string>
-    <string name="localization_description">Si vous êtes un développeur et que vous souhaitez m'aider à localiser cette application, vous pouvez soumettre une demande d'extraction sur %s.</string>
+    <string name="localization_description">"Si vous êtes un développeur et que vous souhaitez m'aider à localiser cette application, vous pouvez soumettre une demande d'extraction sur %s."</string>
     <string name="ads">Annonces</string>
-    <string name="show_ad_description">J'ai créé cette application pour m'amuser pendant mon temps libre, et elle sera toujours téléchargeable et utilisable gratuitement sans publicité. Si vous souhaitez me soutenir, vous pouvez vous inscrire pour voir les annonces.</string>
-    <string name="show_ad_description_may_opt_in">J'ai créé cette application pour m'amuser pendant mon temps libre, et elle sera toujours téléchargeable et utilisable gratuitement sans publicité. Vous pouvez choisir de voir les annonces si vous le souhaitez.</string>
+    <string name="show_ad_description">"J'ai créé cette application pour m'amuser pendant mon temps libre, et elle sera toujours téléchargeable et utilisable gratuitement sans publicité. Si vous souhaitez me soutenir, vous pouvez vous inscrire pour voir les annonces."</string>
+    <string name="show_ad_description_may_opt_in">"J'ai créé cette application pour m'amuser pendant mon temps libre, et elle sera toujours téléchargeable et utilisable gratuitement sans publicité. Vous pouvez choisir de voir les annonces si vous le souhaitez."</string>
     <string name="opt_in_to_show_ads">Inscrivez-vous pour voir les annonces.</string>
     <string name="close_page">Fermer</string>
     <string name="light_dark_mode">Thème Lumière / Foncé</string>
     <string name="light">Lumière</string>
     <string name="dark">Foncé</string>
-    <string name="use_device_settings">Utiliser les paramétres de l'appareil.</string>
+    <string name="use_device_settings">"Utiliser les paramétres de l'appareil."</string>
     <!-- endregion -->
 
     <!-- region Intro popup -->
-    <string name="i_agree">J'ai lit et j'adhère aux conditions ci-dessus.</string>
+    <string name="i_agree">"J'ai lit et j'adhère aux conditions ci-dessus."</string>
     <string name="proceed">Procéder</string>
     <string name="must_agree_to_terms">Vous devez adhérer aux termes pour continuer.</string>
     <!-- endregion -->
