@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Simulateur de Voeux Genshin Impact</string>
+
+    <!-- region Buttons, Labels, Descriptions etc -->
+    <string name="total_count">Voeux totales: %d</string>
+    <string name="total_spent">Est. ~$%d (USD)</string>
+    <string name="fate_points">Points de destin: %1$d/%2$d</string>
+    <string name="chart_course">Plan</string>
+    <string name="remove_course">Retirer le plan</string>
+    <string name="details">Détails</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="okay">Ok</string>
+    <string name="cancel">Annuler</string>
+    <string name="close">Fermer</string>
+    <string name="skip">Passer</string>
+    <string name="more">Plus</string>
+    <string name="hide">Cacher</string>
+    <string name="maxed_brackets">(MAXIMUM)</string>
+    <string name="tap_anywhere_to_skip">Cliquer n'importe où pour passer</string>
+    <string name="n_starglitter">%d Starglitter</string>
+    <string name="n_extra">%d extra</string>
+    <string name="n_wishes">%s voeux</string>
+    <string name="constellation_n">C%s</string>
+    <string name="wish">Voeu x1</string>
+    <string name="wish_ten">Voeu x10</string>
+    <string name="wish_custom">Voeu x%s</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="settings">Paramétres</string>
+    <string name="total_wishes">🌠 Voeux totales: %d</string>
+    <string name="total_est_cost">💸 Coût est. (USD): $%d</string>
+    <string name="primogems">💎 Primogems: %d</string>
+    <string name="masterless_glitter">✨ Starglitter: %s</string>
+    <string name="five_star_count">🌟 Nombre de Cinq-étoiles: %1$d (%2$.3f%%)</string>
+    <string name="four_star_count">⭐ Nombre de Quatre-étoiles: %1$d (%2$.3f%%)</string>
+    <string name="show_wish_animation">Afficher l'animation de voeu</string>
+    <string name="most_recent_wishes">🌠 Voeux Plus Récents</string>
+    <string name="wish_history">🕒 Historique de Voeux</string>
+    <string name="no_wishes_yet">Encore Aucun Voeux</string>
+    <string name="mute_sounds">Couper le son</string>
+    <string name="skip_meteor_only">Passer l'animation du météore seulement</string>
+    <string name="clear_all_results">Dégager tous les résultats de voeux</string>
+    <string name="custom_wish_amount">Nombre de Voeux Personnalisé: </string>
+    <string name="are_you_sure_clear_all_wish">Êtes vous sûr de dégager tous les résultats précedents?</string>
+    <string name="are_you_sure_clear_fate_points">Ce changement réinitialisera vote points de destin à 0. Êtes vous sûr?</string>
+    <string name="simulator">Simulateur</string>
+    <string name="reset_linked_banner_notice">Cette bannière est liée avec $1$s. Ceci réinitialisera les deux bannières.</string>
+    <string name="inventory">Inventaire</string>
+    <string name="view_inventory">Voir Inventaire</string>
+    <!-- endregion -->
+
+    <!-- region Pity Info -->
+    <string name="pity_info_four_star">Wishes until next 4-star pity: %d</string>
+    <string name="pity_info_five_star">Wishes until next 5-star pity: %d</string>
+    <string name="next_five_star_100">Next 5-star: 100%% to be %s</string>
+    <string name="next_five_star_5050">Next 5-star: 50%% to be %s</string>
+    <string name="next_five_star_75_featured">Next 5-star: 75% to be featured</string>
+    <string name="next_five_star_100_featured">Next 5-star: 100% to be featured</string>
+    <!-- endregion -->
+
+    <!-- region Archive -->
+    <string name="view_archived_banners">View archived banners</string>
+    <string name="archived_banners">Archived Banners</string>
+    <string name="hide_banner_title">Hide this banner?</string>
+    <string name="hide_banner_desc">This banner will be archived. If you wish to unarchive, please go to Settings.</string>
+    <string name="hide_inactive_banner_title">Hide inactive banners?</string>
+    <string name="hide_inactive_banner_desc">Inactive banners will be archived. If you wish to unarchive, please go to Settings.</string>
+    <string name="unarchive">Unarchive</string>
+    <string name="close_archive">Close Archive</string>
+    <!-- endregion -->
+
+    <!-- region Advanced Settings -->
+    <string name="advanced_settings">Advanced Settings</string>
+    <string name="credits">Credits</string>
+    <string name="thanks_to_the_following_sites">Thanks to the following sites for making this Wish Simulator possible. </string>
+    <string name="thanks_to_the_following_contributors">Thanks to the following contributors for helping me translate the app.</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="not_affiliated_with_mihoyo">Please take note that Genshin Impact Wish Simulator app is not affiliated with miHoYo in any way.</string> 
+    <string name="wishes_are_free">Ceci est un simulateur de voeux non-sérieux.<b><font color='#FF4747'>Les voeux faits ici ne seront pas reflétés dans le jeu.</font></b> L'application et les voeux faits dedans sont gratuits.</string>
+    <string name="all_rights_reserved">Toutes les images, sons, actifs, bannières, noms de personnages, termes, etc. sont une gracieuseté de miHoYo et sont sa propriété. Je n'en possède aucun. © Tous droits réservés par miHoYo.</string>
+    <string name="privacy_policy">Politique de Confidentialité</string>
+    <string name="localization">Localisation</string>
+    <string name="localization_description">Si vous êtes un développeur et que vous souhaitez m'aider à localiser cette application, vous pouvez soumettre une demande d'extraction sur %s.</string>
+    <string name="ads">Annonces</string>
+    <string name="show_ad_description">J'ai créé cette application pour m'amuser pendant mon temps libre, et elle sera toujours téléchargeable et utilisable gratuitement sans publicité. Si vous souhaitez me soutenir, vous pouvez vous inscrire pour voir les annonces.</string>
+    <string name="show_ad_description_may_opt_in">J'ai créé cette application pour m'amuser pendant mon temps libre, et elle sera toujours téléchargeable et utilisable gratuitement sans publicité. Vous pouvez choisir de voir les annonces si vous le souhaitez.</string>
+    <string name="opt_in_to_show_ads">Inscrivez-vous pour voir les annonces.</string>
+    <string name="close_page">Fermer</string>
+    <string name="light_dark_mode">Thème Lumière / Foncé</string>
+    <string name="light">Lumière</string>
+    <string name="dark">Foncé</string>
+    <string name="use_device_settings">Utiliser les paramétres de l'appareil.</string>
+    <!-- endregion -->
+
+    <!-- region Intro popup -->
+    <string name="i_agree">J'ai lit et j'adhère aux conditions ci-dessus.</string>
+    <string name="proceed">Procéder</string>
+    <string name="must_agree_to_terms">Vous devez adhérer aux termes pour continuer.</string>
+    <!-- endregion -->
+</resources>
