@@ -24,3 +24,4 @@ Contributors
 - Vietnamese - [hatbut](https://github.com/hatbut) (GitHub)
 - Korean - [삶[S.A.R.M.]](https://youtube.com/c/%EC%82%B6sarm) (YouTube)
 - Spanish - [Magody](https://github.com/Magody) (GitHub)
+- French - [Flamenate](https://github.com/Flamenate) (GitHub)
