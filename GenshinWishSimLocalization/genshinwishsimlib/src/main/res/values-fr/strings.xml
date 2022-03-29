@@ -44,7 +44,7 @@
     <string name="are_you_sure_clear_all_wish">Êtes vous sûr de dégager tous les résultats précedents?</string>
     <string name="are_you_sure_clear_fate_points">Ce changement réinitialisera vote points de destin à 0. Êtes vous sûr?</string>
     <string name="simulator">Simulateur</string>
-    <string name="reset_linked_banner_notice">Cette bannière est liée avec $1$s. Ceci réinitialisera les deux bannières.</string>
+    <string name="reset_linked_banner_notice">Cette bannière est liée avec %1$s. Ceci réinitialisera les deux bannières.</string>
     <string name="inventory">Inventaire</string>
     <string name="view_inventory">Voir Inventaire</string>
     <!-- endregion -->
