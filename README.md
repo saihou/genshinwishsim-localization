@@ -19,7 +19,7 @@ Please take note that the number of `%s` or `%d` should be the same as the Engli
 
 Contributors
 ======
-- Russian - [S-Pladison](https://github.com/S-Pladison) (GitHub)
+- Russian - [S-Pladison](https://github.com/S-Pladison) (GitHub), [ZBLL-CUBER](https://github.com/ZBLL-CUBER) (GitHub)
 - Turkish - [TheHusyin](https://github.com/TheHusyin) (GitHub)
 - Vietnamese - [hatbut](https://github.com/hatbut) (GitHub)
 - Korean - [삶[S.A.R.M.]](https://youtube.com/c/%EC%82%B6sarm) (YouTube)
