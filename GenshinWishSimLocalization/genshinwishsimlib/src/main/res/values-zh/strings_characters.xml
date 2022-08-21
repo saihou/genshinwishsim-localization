@@ -36,7 +36,7 @@
     <string name="ayato">神里绫人</string>
     <string name="kamisato_ayato">神里绫人</string>
     <string name="yelan">夜兰</string>
-    <string name="shikanoin_heizou">鹿野院平藏</string>
+    <string name="tighnari">提纳里</string>
 
     <!-- 4* -->
     <string name="amber">安柏</string>
@@ -63,5 +63,8 @@
     <string name="gorou">五郎</string>
     <string name="yunjin">云堇</string>
     <string name="kuki_shinobu">久岐忍</string>
+    <string name="shikanoin_heizou">鹿野院平藏</string>
+    <string name="collei">柯莱</string>
+    <string name="dori">多莉</string>
 
 </resources>

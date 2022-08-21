@@ -36,7 +36,7 @@
     <string name="ayato">Аято</string>
     <string name="kamisato_ayato">Аято</string>
     <string name="yelan">Е Лань</string>
-    <string name="shikanoin_heizou">Хэйдзо</string>
+    <string name="tighnari">Тигнари</string>
 
     <!-- 4* -->
     <string name="amber">Эмбер</string>
@@ -63,5 +63,8 @@
     <string name="gorou">Горо</string>
     <string name="yunjin">Юнь Цзинь</string>
     <string name="kuki_shinobu">Куки Синобу</string>
+    <string name="shikanoin_heizou">Хэйдзо</string>
+    <string name="collei">Коллеи</string>
+    <string name="dori">Дори</string>
 
 </resources>

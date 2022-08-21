@@ -38,7 +38,7 @@
     <string name="ayato">아야토</string>
     <string name="kamisato_ayato">카미사토 아야토</string>
     <string name="yelan">야란</string>
-    <string name="shikanoin_heizou">시카노인 헤이조</string>
+    <string name="tighnari">타이나리</string>
 
     <!-- 4* -->
     <string name="amber">엠버</string>
@@ -65,5 +65,8 @@
     <string name="gorou">고로</string>
     <string name="yunjin">운근</string>
     <string name="kuki_shinobu">쿠키 시노부</string>
+    <string name="shikanoin_heizou">시카노인 헤이조</string>
+    <string name="collei">콜레이</string>
+    <string name="dori">도리</string>
 
 </resources>
