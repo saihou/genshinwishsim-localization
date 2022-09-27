@@ -37,6 +37,8 @@
     <string name="kamisato_ayato">Аято</string>
     <string name="yelan">Е Лань</string>
     <string name="tighnari">Тигнари</string>
+    <string name="cyno">Сайно</string>
+    <string name="nilou">Нилу</string>
 
     <!-- 4* -->
     <string name="amber">Эмбер</string>
@@ -66,5 +68,6 @@
     <string name="shikanoin_heizou">Хэйдзо</string>
     <string name="collei">Коллеи</string>
     <string name="dori">Дори</string>
+    <string name="candace">Кандакия</string>
 
 </resources>

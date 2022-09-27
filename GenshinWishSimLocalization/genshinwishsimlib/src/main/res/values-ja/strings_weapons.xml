@@ -35,6 +35,8 @@
     <string name="haran_geppaku_futsu">波乱月白経津</string>
     <string name="aqua_simulacra">若水</string>
     <string name="hunters_path">狩人の道</string>
+    <string name="staff_of_the_scarlet_sands">赤砂の杖</string>
+    <string name="key_of_khaj_nisut">聖顕の鍵</string>
 
     <!-- 4* Permanent -->
     <string name="bell">鐘の剣</string>
@@ -66,6 +68,7 @@
     <string name="akuoumaru">惡王丸</string>
     <string name="wavebreakers_fin">斬波のひれ長</string>
     <string name="mouuns_moon">曚雲の月</string>
+    <string name="makhaira_aquamarine">マカイラの水色</string>
 
     <!-- 3* -->
     <string name="debate_club">理屈責め</string>

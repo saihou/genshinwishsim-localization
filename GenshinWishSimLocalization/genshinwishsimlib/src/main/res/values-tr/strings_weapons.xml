@@ -35,6 +35,8 @@
     <string name="haran_geppaku_futsu">Haran Geppaku Futsu</string>
     <string name="aqua_simulacra">Aqua Simulacra</string>
     <string name="hunters_path">Hunter\'s Path</string>
+    <string name="staff_of_the_scarlet_sands">Staff of the Scarlet Sands</string>
+    <string name="key_of_khaj_nisut">Key of Khaj-Nisut</string>
 
     <!-- 4* Permanent -->
     <string name="bell">The Bell</string>
@@ -66,6 +68,7 @@
     <string name="akuoumaru">Akuoumaru</string>
     <string name="wavebreakers_fin">Wavebreaker\'s Fin</string>
     <string name="mouuns_moon">Mouun\'s Moon</string>
+    <string name="makhaira_aquamarine">Makhaira Aquamarine</string>
 
     <!-- 3* -->
     <string name="debate_club">Debate Club</string>

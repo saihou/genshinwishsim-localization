@@ -34,7 +34,9 @@
     <string name="kaguras_verity">카구라의 진의</string>
     <string name="haran_geppaku_futsu">파란 월백 경진</string>
     <string name="aqua_simulacra">약수</string>
-    <string name="hunters_path">사냥꾼의 길</string>
+    <string name="hunters_path">사냥꾼의 길</string>>
+    <string name="staff_of_the_scarlet_sands">적색 사막의 지팡이</string>
+    <string name="key_of_khaj_nisut">성현의 열쇠</string>
 
     <!-- 4* Permanent -->
     <string name="bell">시간의 검</string>
@@ -66,6 +68,7 @@
     <string name="akuoumaru">아쿠오마루</string>
     <string name="wavebreakers_fin">파도 베는 지느러미</string>
     <string name="mouuns_moon">모운의 달</string>
+    <string name="makhaira_aquamarine">물빛 마카이라</string>
 
     <!-- 3* -->
     <string name="debate_club">훌륭한 대화수단</string>

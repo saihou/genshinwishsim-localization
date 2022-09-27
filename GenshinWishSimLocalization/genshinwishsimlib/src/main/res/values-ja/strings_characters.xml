@@ -39,6 +39,8 @@
     <string name="kamisato_ayato">神里綾人</string>
     <string name="yelan">夜蘭</string>
     <string name="tighnari">ティナリ</string>
+    <string name="cyno">セノ</string>
+    <string name="nilou">ニィロウ</string>
 
     <!-- 4* -->
     <string name="amber">アンバー</string>
@@ -68,5 +70,6 @@
     <string name="shikanoin_heizou">鹿野院平蔵</string>
     <string name="collei">コレイ</string>
     <string name="dori">ドリー</string>
+    <string name="candace">キャンディス</string>
 
 </resources>

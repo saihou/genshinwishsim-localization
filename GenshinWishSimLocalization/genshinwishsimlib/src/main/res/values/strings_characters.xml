@@ -39,6 +39,8 @@
     <string name="kamisato_ayato">Kamisato Ayato</string>
     <string name="yelan">Yelan</string>
     <string name="tighnari">Tighnari</string>
+    <string name="cyno">Cyno</string>
+    <string name="nilou">Nilou</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -68,5 +70,6 @@
     <string name="shikanoin_heizou">Shikanoin Heizou</string>
     <string name="collei">Collei</string>
     <string name="dori">Dori</string>
+    <string name="candace">Candace</string>
 
 </resources>
