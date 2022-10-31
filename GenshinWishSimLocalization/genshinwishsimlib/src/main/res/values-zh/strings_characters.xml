@@ -39,6 +39,7 @@
     <string name="tighnari">提纳里</string>
     <string name="cyno">赛诺</string>
     <string name="nilou">妮露</string>
+    <string name="nahida">纳西妲</string>
 
     <!-- 4* -->
     <string name="amber">安柏</string>
@@ -69,5 +70,6 @@
     <string name="collei">柯莱</string>
     <string name="dori">多莉</string>
     <string name="candace">坎蒂丝</string>
+    <string name="layla">莱依拉</string>
 
 </resources>

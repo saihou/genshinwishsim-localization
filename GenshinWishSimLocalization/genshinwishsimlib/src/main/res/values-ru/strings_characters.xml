@@ -39,6 +39,7 @@
     <string name="tighnari">Тигнари</string>
     <string name="cyno">Сайно</string>
     <string name="nilou">Нилу</string>
+    <string name="nahida">Нахида</string>
 
     <!-- 4* -->
     <string name="amber">Эмбер</string>
@@ -69,5 +70,6 @@
     <string name="collei">Коллеи</string>
     <string name="dori">Дори</string>
     <string name="candace">Кандакия</string>
+    <string name="layla">Лайла</string>
 
 </resources>

@@ -41,6 +41,7 @@
     <string name="tighnari">ティナリ</string>
     <string name="cyno">セノ</string>
     <string name="nilou">ニィロウ</string>
+    <string name="nahida">ナヒーダ</string>
 
     <!-- 4* -->
     <string name="amber">アンバー</string>
@@ -71,5 +72,6 @@
     <string name="collei">コレイ</string>
     <string name="dori">ドリー</string>
     <string name="candace">キャンディス</string>
+    <string name="layla">レイラ</string>
 
 </resources>
