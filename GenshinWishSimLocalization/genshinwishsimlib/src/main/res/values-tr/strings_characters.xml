@@ -42,6 +42,7 @@
     <string name="cyno">Cyno</string>
     <string name="nilou">Nilou</string>
     <string name="nahida">Nahida</string>
+    <string name="wanderer">Avare</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -73,5 +74,6 @@
     <string name="dori">Dori</string>
     <string name="candace">Candace</string>
     <string name="layla">Layla</string>
+    <string name="faruzan">Faruzan</string>
 
 </resources>

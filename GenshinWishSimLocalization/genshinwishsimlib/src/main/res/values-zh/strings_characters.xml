@@ -40,6 +40,7 @@
     <string name="cyno">赛诺</string>
     <string name="nilou">妮露</string>
     <string name="nahida">纳西妲</string>
+    <string name="wanderer">流浪者</string>
 
     <!-- 4* -->
     <string name="amber">安柏</string>
@@ -71,5 +72,6 @@
     <string name="dori">多莉</string>
     <string name="candace">坎蒂丝</string>
     <string name="layla">莱依拉</string>
+    <string name="faruzan">珐露珊</string>
 
 </resources>
