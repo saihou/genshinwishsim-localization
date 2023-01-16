@@ -43,6 +43,7 @@
     <string name="nilou">ニィロウ</string>
     <string name="nahida">ナヒーダ</string>
     <string name="wanderer">放浪者</string>
+    <string name="alhaitham">アルハイゼン</string>
 
     <!-- 4* -->
     <string name="amber">アンバー</string>
@@ -75,5 +76,6 @@
     <string name="candace">キャンディス</string>
     <string name="layla">レイラ</string>
     <string name="faruzan">ファルザン</string>
+    <string name="yaoyao">ヨォーヨ</string>
 
 </resources>

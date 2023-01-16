@@ -43,6 +43,7 @@
     <string name="nilou">닐루</string>
     <string name="nahida">나히다</string>
     <string name="wanderer">방랑자</string>
+    <string name="alhaitham">알하이탐</string>
 
     <!-- 4* -->
     <string name="amber">엠버</string>
@@ -75,5 +76,6 @@
     <string name="candace">캔디스</string>
     <string name="layla">레일라</string>
     <string name="faruzan">파루잔</string>
+    <string name="yaoyao">요요</string>
 
 </resources>

@@ -41,6 +41,7 @@
     <string name="nilou">Нилу</string>
     <string name="nahida">Нахида</string>
     <string name="wanderer">Странник</string>
+    <string name="alhaitham">Аль-Хайтам</string>
 
     <!-- 4* -->
     <string name="amber">Эмбер</string>
@@ -73,5 +74,6 @@
     <string name="candace">Кандакия</string>
     <string name="layla">Лайла</string>
     <string name="faruzan">Фарузан</string>
+    <string name="yaoyao">Яо Яо</string>
 
 </resources>
