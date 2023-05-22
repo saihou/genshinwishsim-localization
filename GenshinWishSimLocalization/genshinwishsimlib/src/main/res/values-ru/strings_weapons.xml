@@ -2,7 +2,7 @@
 <resources>
     <string name="weapon">Оружие</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="amos_bow">Лук Амоса</string>
     <string name="aquila_favonia">Меч Сокола</string>
     <string name="lost_prayer">Молитва святым ветрам</string>
@@ -41,6 +41,7 @@
     <string name="tulaytullahs_remembrance">Воспоминания Тулайтуллы</string>
     <string name="light_of_foliar_incision">Свет лиственного разреза</string>
     <string name="beacon_of_the_reed_sea">Маяк тростникового моря</string>
+    <string name="jadefalls_splendor">Великолепие лазурного свода</string>
 
     <!-- 4* Permanent -->
     <string name="bell">Меч-колокол</string>

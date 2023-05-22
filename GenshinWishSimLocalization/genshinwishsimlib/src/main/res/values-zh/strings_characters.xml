@@ -2,7 +2,7 @@
 <resources>
     <string name="permanent">常驻池</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="diluc">迪卢克</string>
     <string name="jean">琴</string>
     <string name="keqing">刻晴</string>
@@ -43,6 +43,7 @@
     <string name="wanderer">流浪者</string>
     <string name="alhaitham">艾尔海森</string>
     <string name="dehya">迪希雅</string>
+    <string name="baizhu">白术</string>
 
     <!-- 4* -->
     <string name="amber">安柏</string>
@@ -77,5 +78,7 @@
     <string name="faruzan">珐露珊</string>
     <string name="yaoyao">瑶瑶</string>
     <string name="mika">米卡</string>
+    <string name="kaveh">卡维</string>
+    <string name="kirara">绮良良</string>
 
 </resources>

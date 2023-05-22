@@ -2,7 +2,7 @@
 <resources>
     <string name="permanent">Стандартный</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="diluc">Дилюк</string>
     <string name="jean">Джинн</string>
     <string name="keqing">Кэ Цин</string>
@@ -43,6 +43,7 @@
     <string name="wanderer">Странник</string>
     <string name="alhaitham">Аль-Хайтам</string>
     <string name="dehya">Дэхья</string>
+    <string name="baizhu">Бай Чжу</string>
 
     <!-- 4* -->
     <string name="amber">Эмбер</string>
@@ -77,5 +78,7 @@
     <string name="faruzan">Фарузан</string>
     <string name="yaoyao">Яо Яо</string>
     <string name="mika">Мика</string>
+    <string name="kaveh">Кавех</string>
+    <string name="kirara">Кирара</string>
 
 </resources>

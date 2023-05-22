@@ -2,7 +2,7 @@
 <resources>
     <string name="weapon">武器</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="amos_bow">阿莫斯之弓</string>
     <string name="aquila_favonia">风鹰剑</string>
     <string name="lost_prayer">四风原典</string>
@@ -41,6 +41,7 @@
     <string name="tulaytullahs_remembrance">图莱杜拉的回忆</string>
     <string name="light_of_foliar_incision">裁叶萃光</string>
     <string name="beacon_of_the_reed_sea">苇海信标</string>
+    <string name="jadefalls_splendor">碧落之珑</string>
 
     <!-- 4* Permanent -->
     <string name="bell">钟剑</string>

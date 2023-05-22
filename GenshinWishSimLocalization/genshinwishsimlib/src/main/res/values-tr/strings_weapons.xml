@@ -2,7 +2,7 @@
 <resources>
     <string name="weapon">Weapon</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="amos_bow">Amos Bow</string>
     <string name="aquila_favonia">Aquila Favonia</string>
     <string name="lost_prayer">Lost Prayer to the Sacred Winds</string>
@@ -41,6 +41,7 @@
     <string name="tulaytullahs_remembrance">Tulaytullah’ın Anısı</string>
     <string name="light_of_foliar_incision">Yaprak Kesen Işık</string>
     <string name="beacon_of_the_reed_sea">Kızıl Çölün İradesi</string>
+    <string name="jadefalls_splendor">Yeşimlerin Mağrur Işıltısı</string>
 
     <!-- 4* Permanent -->
     <string name="bell">The Bell</string>

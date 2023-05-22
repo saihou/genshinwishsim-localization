@@ -4,7 +4,7 @@
 
     <string name="permanent">通常祈願</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="diluc">ディルック</string>
     <string name="jean">ジン</string>
     <string name="keqing">刻晴</string>
@@ -45,7 +45,7 @@
     <string name="wanderer">放浪者</string>
     <string name="alhaitham">アルハイゼン</string>
     <string name="dehya">ディシア</string>
-    <string name="mika">ミカ</string>
+    <string name="baizhu">白朮</string>
 
     <!-- 4* -->
     <string name="amber">アンバー</string>
@@ -79,5 +79,8 @@
     <string name="layla">レイラ</string>
     <string name="faruzan">ファルザン</string>
     <string name="yaoyao">ヨォーヨ</string>
+    <string name="mika">ミカ</string>
+    <string name="kaveh">カーヴェ</string>
+    <string name="kirara">綺良々</string>
 
 </resources>

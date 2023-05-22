@@ -4,7 +4,7 @@
 
     <string name="permanent">Permanent</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="diluc">Diluc</string>
     <string name="jean">Jean</string>
     <string name="keqing">Keqing</string>
@@ -45,6 +45,7 @@
     <string name="wanderer">Nomade</string>
     <string name="alhaitham">Alhaitham</string>
     <string name="dehya">Dehya</string>
+    <string name="baizhu">Baizhu</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -79,5 +80,7 @@
     <string name="faruzan">Faruzan</string>
     <string name="yaoyao">Yaoyao</string>
     <string name="mika">Mika</string>
+    <string name="kaveh">Kaveh</string>
+    <string name="kirara">Kirara</string>
 
 </resources>

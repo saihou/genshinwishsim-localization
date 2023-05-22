@@ -4,7 +4,7 @@
 
     <string name="permanent">상시</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="diluc">다이루크</string>
     <string name="jean">진</string>
     <string name="keqing">각청</string>
@@ -45,6 +45,7 @@
     <string name="wanderer">방랑자</string>
     <string name="alhaitham">알하이탐</string>
     <string name="dehya">데히야</string>
+    <string name="baizhu">백출</string>
 
     <!-- 4* -->
     <string name="amber">엠버</string>
@@ -79,5 +80,7 @@
     <string name="faruzan">파루잔</string>
     <string name="yaoyao">요요</string>
     <string name="mika">미카</string>
+    <string name="kaveh">카베</string>
+    <string name="kirara">키라라</string>
 
 </resources>

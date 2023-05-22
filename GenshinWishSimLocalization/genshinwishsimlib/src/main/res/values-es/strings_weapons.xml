@@ -2,7 +2,7 @@
 <resources>
     <string name="weapon">Armas</string>
 
-    <!-- 5* Permanent-->
+    <!-- 5* Original-->
     <string name="amos_bow">Arco de Amos</string>
     <string name="aquila_favonia">Aquila Favonia</string>
     <string name="lost_prayer">Oración Perdida a los Vientos Sagrados</string>
@@ -41,6 +41,7 @@
     <string name="tulaytullahs_remembrance">Reminiscencia de Tulaytulah</string>
     <string name="light_of_foliar_incision">Clorofilo Refulgente</string>
     <string name="beacon_of_the_reed_sea">Emblema del Mar de Juncos</string>
+    <string name="jadefalls_splendor">Centelleo Jadecaído</string>
 
     <!-- 4* Permanent -->
     <string name="bell">Espada del Tiempo</string>
