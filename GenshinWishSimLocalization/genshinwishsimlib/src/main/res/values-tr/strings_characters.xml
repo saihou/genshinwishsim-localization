@@ -3,15 +3,11 @@
     <string name="none" translatable="false" />
 
     <string name="permanent">Süresiz</string>
-
-    <!-- 5* Original-->
     <string name="diluc">Diluc</string>
     <string name="jean">Jean</string>
     <string name="keqing">Keqing</string>
     <string name="mona">Mona</string>
     <string name="qiqi">Qiqi</string>
-
-    <!-- 5* Event -->
     <string name="venti">Venti</string>
     <string name="klee">Klee</string>
     <string name="tartaglia">Tartaglia</string>
@@ -46,8 +42,6 @@
     <string name="alhaitham">Alhaitham</string>
     <string name="dehya">Dehya</string>
     <string name="baizhu">Baizhu</string>
-
-    <!-- 4* -->
     <string name="amber">Amber</string>
     <string name="barbara">Barbara</string>
     <string name="beidou">Beidou</string>
@@ -82,5 +76,7 @@
     <string name="mika">Mika</string>
     <string name="kaveh">Kaveh</string>
     <string name="kirara">Kirara</string>
+    <string name="lyney">Lyney</string>
+    <string name="lynette">Lynette</string>
 
 </resources>

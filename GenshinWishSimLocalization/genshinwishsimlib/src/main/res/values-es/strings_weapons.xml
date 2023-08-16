@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weapon">Armas</string>
-
-    <!-- 5* Original-->
     <string name="amos_bow">Arco de Amos</string>
     <string name="aquila_favonia">Aquila Favonia</string>
     <string name="lost_prayer">Oración Perdida a los Vientos Sagrados</string>
@@ -13,8 +11,6 @@
     <string name="skyward_blade">Hoja Afilada Celestial</string>
     <string name="skyward_spine">Púa Celestial</string>
     <string name="skyward_pride">Orgullo Celestial</string>
-
-    <!-- 5* Event -->
     <string name="vortex_vanquisher">Lanza Perforanubes</string>
     <string name="unforged">Espada de la Desidia</string>
     <string name="memory_of_dust">Candado Terrenal</string>
@@ -42,8 +38,6 @@
     <string name="light_of_foliar_incision">Clorofilo Refulgente</string>
     <string name="beacon_of_the_reed_sea">Emblema del Mar de Juncos</string>
     <string name="jadefalls_splendor">Centelleo Jadecaído</string>
-
-    <!-- 4* Permanent -->
     <string name="bell">Espada del Tiempo</string>
     <string name="dragons_bane">Perdición del Dragón</string>
     <string name="eye_of_perception">Ojo de la Perspicacia</string>
@@ -62,8 +56,6 @@
     <string name="sacrificial_sword">Espada del Sacrificio</string>
     <string name="stringless">Último Acorde</string>
     <string name="widsith">Sinfonía de los Merodeadores</string>
-
-    <!-- 4* Event -->
     <string name="lithic_blade">Espada Lítica</string>
     <string name="lithic_spear">Lanza Lítica</string>
     <string name="alley_flash">Destello de la Oscuridad</string>
@@ -76,8 +68,6 @@
     <string name="makhaira_aquamarine">Májaira Aguamarina</string>
     <string name="xiphos_moonlight">Luz Lunar de Xifos</string>
     <string name="wandering_evenstar">Estrella Errabunda</string>
-
-    <!-- 3* -->
     <string name="debate_club">Garrote del Debate</string>
     <string name="ferrous_shadow">Sombra Férrea</string>
     <string name="bloodtainted_greatsword">Gran Espada Sangrienta</string>
@@ -92,5 +82,6 @@
     <string name="thrilling_tales_of_dragon_slayers">Cuentos de Cazadores de Dragones</string>
     <string name="magic_guide">Guía Mágica</string>
     <string name="emerald_orb">Orbe Esmeralda</string>
+    <string name="first_great_magic">El Primer Gran Número de Magia</string>
 
 </resources>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weapon">Vũ Khí</string>
-
-    <!-- 5* Original-->
     <string name="amos_bow">Cung Amos</string>
     <string name="aquila_favonia">Phong Ưng Kiếm</string>
     <string name="lost_prayer">Điển Tích Tây Phong</string>
@@ -13,8 +11,6 @@
     <string name="skyward_blade">Thiên Không Kiếm</string>
     <string name="skyward_spine">Xương Sống Thiên Không</string>
     <string name="skyward_pride">Thiên Không Kiêu Ngạo</string>
-
-    <!-- 5* Event -->
     <string name="vortex_vanquisher">Giáo Nịnh Thần</string>
     <string name="unforged">Kiếm Vô Công</string>
     <string name="memory_of_dust">Khóa Trần Thế</string>
@@ -42,8 +38,6 @@
     <string name="light_of_foliar_incision">Ánh Lá Phán Quyết</string>
     <string name="beacon_of_the_reed_sea">Hải Đăng Bờ Biển Lau</string>
     <string name="jadefalls_splendor">Ngọc Bích Huy Hoàng</string>
-
-    <!-- 4* Permanent -->
     <string name="bell">Kiếm Chuông</string>
     <string name="dragons_bane">Tai Ương Của Rồng</string>
     <string name="eye_of_perception">Chiêu Tâm</string>
@@ -62,8 +56,6 @@
     <string name="sacrificial_sword">Kiếm Tế Lễ</string>
     <string name="stringless">Tuyệt Huyền</string>
     <string name="widsith">Chương Nhạc Lang Thang</string>
-
-    <!-- 4* Event -->
     <string name="lithic_blade">Thiên Nham Cổ Kiếm</string>
     <string name="lithic_spear">Thương Thiên Nham</string>
     <string name="alley_flash">Tia Sáng Nơi Hẻm Tối</string>
@@ -76,8 +68,6 @@
     <string name="makhaira_aquamarine">Sắc Nước Makhaira</string>
     <string name="xiphos_moonlight">Ánh Trăng Xiphos</string>
     <string name="wandering_evenstar">Sao Đêm Rong Ruổi</string>
-
-    <!-- 3* -->
     <string name="debate_club">Gậy Thu Phục</string>
     <string name="ferrous_shadow">Kiếm Thiết Ảnh</string>
     <string name="bloodtainted_greatsword">Kiếm Huyết Rồng</string>
@@ -92,5 +82,6 @@
     <string name="thrilling_tales_of_dragon_slayers">Câu Chuyện Diệt Rồng</string>
     <string name="magic_guide">Tóm Tắt Ma Pháp</string>
     <string name="emerald_orb">Quả Cầu Ngọc</string>
+    <string name="first_great_magic">Màn Ảo Thuật Đầu Tiên</string>
 
 </resources>

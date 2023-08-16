@@ -46,6 +46,7 @@
     <string name="alhaitham">Alhaitham</string>
     <string name="dehya">Dehya</string>
     <string name="baizhu">Baizhu</string>
+    <string name="lyney">Lyney</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -82,5 +83,6 @@
     <string name="mika">Mika</string>
     <string name="kaveh">Kaveh</string>
     <string name="kirara">Kirara</string>
+    <string name="lynette">Lynette</string>
 
 </resources>

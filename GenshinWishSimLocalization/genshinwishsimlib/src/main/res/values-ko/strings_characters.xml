@@ -3,15 +3,11 @@
     <string name="none" translatable="false" />
 
     <string name="permanent">상시</string>
-
-    <!-- 5* Original-->
     <string name="diluc">다이루크</string>
     <string name="jean">진</string>
     <string name="keqing">각청</string>
     <string name="mona">모나</string>
     <string name="qiqi">치치</string>
-
-    <!-- 5* Event -->
     <string name="venti">벤티</string>
     <string name="klee">클레</string>
     <string name="tartaglia">타르탈리아</string>
@@ -46,8 +42,6 @@
     <string name="alhaitham">알하이탐</string>
     <string name="dehya">데히야</string>
     <string name="baizhu">백출</string>
-
-    <!-- 4* -->
     <string name="amber">엠버</string>
     <string name="barbara">바바라</string>
     <string name="beidou">북두</string>
@@ -82,5 +76,7 @@
     <string name="mika">미카</string>
     <string name="kaveh">카베</string>
     <string name="kirara">키라라</string>
+    <string name="lyney">리니</string>
+    <string name="lynette">리넷</string>
 
 </resources>

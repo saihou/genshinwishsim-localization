@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weapon">Weapon</string>
-
-    <!-- 5* Original-->
     <string name="amos_bow">Amos Bow</string>
     <string name="aquila_favonia">Aquila Favonia</string>
     <string name="lost_prayer">Lost Prayer to the Sacred Winds</string>
@@ -13,8 +11,6 @@
     <string name="skyward_blade">Skyward Blade</string>
     <string name="skyward_spine">Skyward Spine</string>
     <string name="skyward_pride">Skyward Pride</string>
-
-    <!-- 5* Event -->
     <string name="vortex_vanquisher">Vortex Vanquisher</string>
     <string name="unforged">The Unforged</string>
     <string name="memory_of_dust">Memory of Dust</string>
@@ -42,8 +38,6 @@
     <string name="light_of_foliar_incision">Lumière d’incision foliaire</string>
     <string name="beacon_of_the_reed_sea">Balise de la mer de roseaux</string>
     <string name="jadefalls_splendor">Splendeur de l’azur</string>
-
-    <!-- 4* Permanent -->
     <string name="bell">The Bell</string>
     <string name="dragons_bane">Dragon\'s Bane</string>
     <string name="eye_of_perception">Eye of Perception</string>
@@ -62,8 +56,6 @@
     <string name="sacrificial_sword">Sacrificial Sword</string>
     <string name="stringless">The Stringless</string>
     <string name="widsith">The Widsith</string>
-
-    <!-- 4* Event -->
     <string name="lithic_blade">Lithic Blade</string>
     <string name="lithic_spear">Lithic Spear</string>
     <string name="alley_flash">The Alley Flash</string>
@@ -76,8 +68,6 @@
     <string name="makhaira_aquamarine">Aigue-marine de Makhaira</string>
     <string name="xiphos_moonlight">Clair de lune de Xiphos</string>
     <string name="wandering_evenstar">Étoile du soir errante</string>
-
-    <!-- 3* -->
     <string name="debate_club">Debate Club</string>
     <string name="ferrous_shadow">Ferrous Shadow</string>
     <string name="bloodtainted_greatsword">Bloodtainted Greatsword</string>
@@ -92,5 +82,6 @@
     <string name="thrilling_tales_of_dragon_slayers">Thrilling Tales of Dragon Slayers</string>
     <string name="magic_guide">Magic Guide</string>
     <string name="emerald_orb">Emerald Orb</string>
+    <string name="first_great_magic">La première grande magie</string>
 
 </resources>

@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="permanent">Стандартный</string>
-
-    <!-- 5* Original-->
     <string name="diluc">Дилюк</string>
     <string name="jean">Джинн</string>
     <string name="keqing">Кэ Цин</string>
     <string name="mona">Мона</string>
     <string name="qiqi">Ци Ци</string>
-
-    <!-- 5* Event -->
     <string name="venti">Венти</string>
     <string name="klee">Кли</string>
     <string name="tartaglia">Тарталья</string>
@@ -44,8 +40,6 @@
     <string name="alhaitham">Аль-Хайтам</string>
     <string name="dehya">Дэхья</string>
     <string name="baizhu">Бай Чжу</string>
-
-    <!-- 4* -->
     <string name="amber">Эмбер</string>
     <string name="barbara">Барбара</string>
     <string name="beidou">Бэй Доу</string>
@@ -80,5 +74,7 @@
     <string name="mika">Мика</string>
     <string name="kaveh">Кавех</string>
     <string name="kirara">Кирара</string>
+    <string name="lyney">Лини</string>
+    <string name="lynette">Линетт</string>
 
 </resources>

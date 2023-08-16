@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weapon">武器</string>
-
-    <!-- 5* Original-->
     <string name="amos_bow">阿莫斯之弓</string>
     <string name="aquila_favonia">风鹰剑</string>
     <string name="lost_prayer">四风原典</string>
@@ -13,8 +11,6 @@
     <string name="skyward_blade">天空之刃</string>
     <string name="skyward_spine">天空之脊</string>
     <string name="skyward_pride">天空之傲</string>
-
-    <!-- 5* Event -->
     <string name="vortex_vanquisher">贯虹之槊</string>
     <string name="unforged">无工之剑</string>
     <string name="memory_of_dust">尘世之锁</string>
@@ -42,8 +38,6 @@
     <string name="light_of_foliar_incision">裁叶萃光</string>
     <string name="beacon_of_the_reed_sea">苇海信标</string>
     <string name="jadefalls_splendor">碧落之珑</string>
-
-    <!-- 4* Permanent -->
     <string name="bell">钟剑</string>
     <string name="dragons_bane">匣里灭辰</string>
     <string name="eye_of_perception">昭心</string>
@@ -62,8 +56,6 @@
     <string name="sacrificial_sword">祭礼剑</string>
     <string name="stringless">绝弦</string>
     <string name="widsith">流浪乐章</string>
-
-    <!-- 4* Event -->
     <string name="lithic_blade">千岩古剑</string>
     <string name="lithic_spear">千岩长枪</string>
     <string name="alley_flash">暗巷闪光</string>
@@ -76,8 +68,6 @@
     <string name="makhaira_aquamarine">玛海菈的水色</string>
     <string name="xiphos_moonlight">西福斯的月光</string>
     <string name="wandering_evenstar">流浪的晚星</string>
-
-    <!-- 3* -->
     <string name="debate_club">以理服人</string>
     <string name="ferrous_shadow">铁影阔剑</string>
     <string name="bloodtainted_greatsword">沐浴龙血的剑</string>
@@ -92,5 +82,6 @@
     <string name="thrilling_tales_of_dragon_slayers">讨龙英杰谭</string>
     <string name="magic_guide">魔导绪论</string>
     <string name="emerald_orb">翡玉法球</string>
+    <string name="first_great_magic">最初的大魔术</string>
 
 </resources>

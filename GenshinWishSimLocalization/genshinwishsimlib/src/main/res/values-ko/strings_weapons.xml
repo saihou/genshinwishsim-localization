@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weapon">무기</string>
-
-    <!-- 5* Original-->
     <string name="amos_bow">아모스의 활</string>
     <string name="aquila_favonia">매의 검</string>
     <string name="lost_prayer">사풍 원서</string>
@@ -13,8 +11,6 @@
     <string name="skyward_blade">천공의 검</string>
     <string name="skyward_spine">천공의 마루</string>
     <string name="skyward_pride">천공의 긍지</string>
-
-    <!-- 5* Event -->
     <string name="vortex_vanquisher">관홍의 창</string>
     <string name="unforged">무공의 검</string>
     <string name="memory_of_dust">속세의 자물쇠</string>
@@ -42,8 +38,6 @@
     <string name="light_of_foliar_incision">잎을 가르는 빛</string>
     <string name="beacon_of_the_reed_sea">갈대 바다의 등대</string>
     <string name="jadefalls_splendor">벽락의 옥</string>
-
-    <!-- 4* Permanent -->
     <string name="bell">시간의 검</string>
     <string name="dragons_bane">용학살창</string>
     <string name="eye_of_perception">소심</string>
@@ -62,8 +56,6 @@
     <string name="sacrificial_sword">제례검</string>
     <string name="stringless">절현</string>
     <string name="widsith">음유시인의 악장</string>
-
-    <!-- 4* Event -->
     <string name="lithic_blade">천암고검</string>
     <string name="lithic_spear">천암장창</string>
     <string name="alley_flash">뒷골목의 섬광</string>
@@ -76,8 +68,6 @@
     <string name="makhaira_aquamarine">물빛 마카이라</string>
     <string name="xiphos_moonlight">크시포스의 달빛</string>
     <string name="wandering_evenstar">방랑하는 저녁별</string>
-
-    <!-- 3* -->
     <string name="debate_club">훌륭한 대화수단</string>
     <string name="ferrous_shadow">강철의 그림자</string>
     <string name="bloodtainted_greatsword">드래곤 블러드 소드</string>
@@ -92,5 +82,6 @@
     <string name="thrilling_tales_of_dragon_slayers">드래곤 슬레이어 영웅담</string>
     <string name="magic_guide">마도 서론</string>
     <string name="emerald_orb">비취 오브</string>
+    <string name="first_great_magic">최초의 대마술</string>
 
 </resources>

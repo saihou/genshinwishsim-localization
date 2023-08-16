@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weapon">武器</string>
-
-    <!-- 5* Original-->
     <string name="amos_bow">アモスの弓</string>
     <string name="aquila_favonia">風鷹剣</string>
     <string name="lost_prayer">四風原典</string>
@@ -13,8 +11,6 @@
     <string name="skyward_blade">天空の刃</string>
     <string name="skyward_spine">天空の脊</string>
     <string name="skyward_pride">天空の傲</string>
-
-    <!-- 5* Event -->
     <string name="vortex_vanquisher">破天の槍</string>
     <string name="unforged">無工の剣</string>
     <string name="memory_of_dust">浮世の錠</string>
@@ -42,8 +38,6 @@
     <string name="light_of_foliar_incision">萃光の裁葉</string>
     <string name="beacon_of_the_reed_sea">葦海の標</string>
     <string name="jadefalls_splendor">碧落の瓏</string>
-
-    <!-- 4* Permanent -->
     <string name="bell">鐘の剣</string>
     <string name="dragons_bane">匣中滅龍</string>
     <string name="eye_of_perception">昭心</string>
@@ -62,8 +56,6 @@
     <string name="sacrificial_sword">祭礼の剣</string>
     <string name="stringless">絶弦</string>
     <string name="widsith">流浪楽章</string>
-
-    <!-- 4* Event -->
     <string name="lithic_blade">千岩古剣</string>
     <string name="lithic_spear">千岩長槍</string>
     <string name="alley_flash">ダークアレイの閃光</string>
@@ -76,8 +68,6 @@
     <string name="makhaira_aquamarine">マカイラの水色</string>
     <string name="xiphos_moonlight">サイフォスの月明かり</string>
     <string name="wandering_evenstar">彷徨える星</string>
-
-    <!-- 3* -->
     <string name="debate_club">理屈責め</string>
     <string name="ferrous_shadow">鉄影段平</string>
     <string name="bloodtainted_greatsword">龍血を浴びた剣</string>
@@ -92,5 +82,6 @@
     <string name="thrilling_tales_of_dragon_slayers">龍殺しの英傑譚</string>
     <string name="magic_guide">魔導緒論</string>
     <string name="emerald_orb">翡玉法珠</string>
+    <string name="first_great_magic">始まりの大魔術</string>
 
 </resources>
