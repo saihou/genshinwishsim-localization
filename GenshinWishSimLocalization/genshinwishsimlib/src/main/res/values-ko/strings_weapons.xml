@@ -68,6 +68,8 @@
     <string name="makhaira_aquamarine">물빛 마카이라</string>
     <string name="xiphos_moonlight">크시포스의 달빛</string>
     <string name="wandering_evenstar">방랑하는 저녁별</string>
+    <string name="portable_power_saw">휴대용 체인톱</string>
+    <string name="dockhands_assistant">뱃도랑 장검</string>
     <string name="debate_club">훌륭한 대화수단</string>
     <string name="ferrous_shadow">강철의 그림자</string>
     <string name="bloodtainted_greatsword">드래곤 블러드 소드</string>
@@ -83,5 +85,6 @@
     <string name="magic_guide">마도 서론</string>
     <string name="emerald_orb">비취 오브</string>
     <string name="first_great_magic">최초의 대마술</string>
+    <string name="tome_of_the_eternal_flow">영원히 샘솟는 법전</string>
 
 </resources>

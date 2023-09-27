@@ -68,6 +68,8 @@
     <string name="makhaira_aquamarine">Sắc Nước Makhaira</string>
     <string name="xiphos_moonlight">Ánh Trăng Xiphos</string>
     <string name="wandering_evenstar">Sao Đêm Rong Ruổi</string>
+    <string name="portable_power_saw">Máy Cưa Cầm Tay</string>
+    <string name="dockhands_assistant">Kiếm Bến Tàu</string>
     <string name="debate_club">Gậy Thu Phục</string>
     <string name="ferrous_shadow">Kiếm Thiết Ảnh</string>
     <string name="bloodtainted_greatsword">Kiếm Huyết Rồng</string>
@@ -83,5 +85,6 @@
     <string name="magic_guide">Tóm Tắt Ma Pháp</string>
     <string name="emerald_orb">Quả Cầu Ngọc</string>
     <string name="first_great_magic">Màn Ảo Thuật Đầu Tiên</string>
+    <string name="tome_of_the_eternal_flow">Nghi Thức Dòng Chảy Vĩnh Hằng</string>
 
 </resources>

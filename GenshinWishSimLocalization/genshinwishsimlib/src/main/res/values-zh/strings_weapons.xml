@@ -68,6 +68,8 @@
     <string name="makhaira_aquamarine">玛海菈的水色</string>
     <string name="xiphos_moonlight">西福斯的月光</string>
     <string name="wandering_evenstar">流浪的晚星</string>
+    <string name="portable_power_saw">便携动力锯</string>
+    <string name="dockhands_assistant">船坞长剑</string>
     <string name="debate_club">以理服人</string>
     <string name="ferrous_shadow">铁影阔剑</string>
     <string name="bloodtainted_greatsword">沐浴龙血的剑</string>
@@ -83,5 +85,6 @@
     <string name="magic_guide">魔导绪论</string>
     <string name="emerald_orb">翡玉法球</string>
     <string name="first_great_magic">最初的大魔术</string>
+    <string name="tome_of_the_eternal_flow">万世流涌大典</string>
 
 </resources>

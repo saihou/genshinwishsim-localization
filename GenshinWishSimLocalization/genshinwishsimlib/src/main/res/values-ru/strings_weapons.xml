@@ -68,6 +68,8 @@
     <string name="makhaira_aquamarine">Аквамарин Махайры</string>
     <string name="xiphos_moonlight">Лунное сияние ксифоса</string>
     <string name="wandering_evenstar">Скитающаяся звезда</string>
+    <string name="portable_power_saw">Переносная мотопила</string>
+    <string name="dockhands_assistant">Верфь</string>
     <string name="debate_club">Дубина переговоров</string>
     <string name="ferrous_shadow">Металлическая тень</string>
     <string name="bloodtainted_greatsword">Меч драконьей крови</string>
@@ -83,4 +85,5 @@
     <string name="magic_guide">Руководство по магии</string>
     <string name="emerald_orb">Изумрудный шар</string>
     <string name="first_great_magic">Первый великий фокус</string>
+    <string name="tome_of_the_eternal_flow">Обряд вечного течения</string>
 </resources>

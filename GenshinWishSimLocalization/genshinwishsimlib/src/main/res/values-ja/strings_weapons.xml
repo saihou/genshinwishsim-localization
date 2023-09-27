@@ -68,6 +68,8 @@
     <string name="makhaira_aquamarine">マカイラの水色</string>
     <string name="xiphos_moonlight">サイフォスの月明かり</string>
     <string name="wandering_evenstar">彷徨える星</string>
+    <string name="portable_power_saw">携帯型チェーンソー</string>
+    <string name="dockhands_assistant">船渠剣</string>
     <string name="debate_club">理屈責め</string>
     <string name="ferrous_shadow">鉄影段平</string>
     <string name="bloodtainted_greatsword">龍血を浴びた剣</string>
@@ -83,5 +85,6 @@
     <string name="magic_guide">魔導緒論</string>
     <string name="emerald_orb">翡玉法珠</string>
     <string name="first_great_magic">始まりの大魔術</string>
+    <string name="tome_of_the_eternal_flow">久遠流転の大典</string>
 
 </resources>

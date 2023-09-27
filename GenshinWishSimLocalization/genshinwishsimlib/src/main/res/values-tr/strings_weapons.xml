@@ -68,6 +68,8 @@
     <string name="makhaira_aquamarine">Makhaira Aquamarine</string>
     <string name="xiphos_moonlight">Xiphos\' Moonlight</string>
     <string name="wandering_evenstar">Wandering Evenstar</string>
+    <string name="portable_power_saw">Taşınabilir Otomatik Testere</string>
+    <string name="dockhands_assistant">Rıhtım Kılıcı</string>
     <string name="debate_club">Debate Club</string>
     <string name="ferrous_shadow">Ferrous Shadow</string>
     <string name="bloodtainted_greatsword">Bloodtainted Greatsword</string>
@@ -83,5 +85,6 @@
     <string name="magic_guide">Magic Guide</string>
     <string name="emerald_orb">Emerald Orb</string>
     <string name="first_great_magic">İlk Büyük Sihir</string>
+    <string name="tome_of_the_eternal_flow">Sonsuz Akış Kitabı</string>
 
 </resources>
