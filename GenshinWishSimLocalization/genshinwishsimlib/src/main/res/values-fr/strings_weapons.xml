@@ -86,5 +86,8 @@
     <string name="emerald_orb">Emerald Orb</string>
     <string name="first_great_magic">La première grande magie</string>
     <string name="tome_of_the_eternal_flow">Tome du flux éternel</string>
+    <string name="cashflow_supervision">Supervision de trésorerie</string>
+    <string name="prospectors_drill">Foret de prospecteur</string>
+    <string name="range_gauge">Jauge de portée</string>
 
 </resources>

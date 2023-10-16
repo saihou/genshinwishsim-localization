@@ -86,4 +86,7 @@
     <string name="emerald_orb">Изумрудный шар</string>
     <string name="first_great_magic">Первый великий фокус</string>
     <string name="tome_of_the_eternal_flow">Обряд вечного течения</string>
+    <string name="cashflow_supervision">Казначейский надзор</string>
+    <string name="prospectors_drill">Бур рудоискателя</string>
+    <string name="range_gauge">Дальномер</string>
 </resources>
