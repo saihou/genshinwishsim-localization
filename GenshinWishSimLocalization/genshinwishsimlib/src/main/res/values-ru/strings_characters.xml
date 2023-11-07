@@ -40,6 +40,7 @@
     <string name="alhaitham">Аль-Хайтам</string>
     <string name="dehya">Дэхья</string>
     <string name="baizhu">Бай Чжу</string>
+    <string name="furina">Фурина</string>
     <string name="amber">Эмбер</string>
     <string name="barbara">Барбара</string>
     <string name="beidou">Бэй Доу</string>
@@ -79,5 +80,6 @@
     <string name="freminet">Фремине</string>
     <string name="neuvillette">Нёвиллет</string>
     <string name="wriothesley">Ризли</string>
+    <string name="charlotte">Шарлотта</string>
 
 </resources>

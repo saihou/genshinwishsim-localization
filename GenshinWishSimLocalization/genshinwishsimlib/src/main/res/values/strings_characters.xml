@@ -49,6 +49,7 @@
     <string name="lyney">Lyney</string>
     <string name="neuvillette">Neuvillette</string>
     <string name="wriothesley">Wriothesley</string>
+    <string name="furina">Furina</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -87,5 +88,6 @@
     <string name="kirara">Kirara</string>
     <string name="lynette">Lynette</string>
     <string name="freminet">Freminet</string>
+    <string name="charlotte">Charlotte</string>
 
 </resources>

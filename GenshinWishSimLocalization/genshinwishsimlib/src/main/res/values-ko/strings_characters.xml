@@ -42,6 +42,7 @@
     <string name="alhaitham">알하이탐</string>
     <string name="dehya">데히야</string>
     <string name="baizhu">백출</string>
+    <string name="furina">푸리나</string>
     <string name="amber">엠버</string>
     <string name="barbara">바바라</string>
     <string name="beidou">북두</string>
@@ -81,5 +82,6 @@
     <string name="freminet">프레미네</string>
     <string name="neuvillette">느비예트</string>
     <string name="wriothesley">라이오슬리</string>
+    <string name="charlotte">샤를로트</string>
 
 </resources>
