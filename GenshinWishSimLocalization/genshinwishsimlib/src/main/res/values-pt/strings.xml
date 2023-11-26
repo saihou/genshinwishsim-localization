@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Wish Simulator for Genshin</string>
+
+    <!-- region Buttons, Labels, Descriptions etc -->
+    <string name="total_count">Total de desejos: %d</string>
+    <string name="total_spent">Est. ~$%d (USD)</string>
+    <string name="fate_points">Pontos do Destino: %1$d/%2$d</string>
+    <string name="chart_course">Caminho Divino</string>
+    <string name="remove_course">Cancelar seleção</string>
+    <string name="details">Detalhes</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancelar</string>
+    <string name="close">Fechar</string>
+    <string name="skip">Pular</string>
+    <string name="more">Mais</string>
+    <string name="hide">Ocultar</string>
+    <string name="maxed_brackets">(MÁXIMO)</string>
+    <string name="tap_anywhere_to_skip">Pressione em qualquer lugar para pular animação</string>
+    <string name="n_starglitter">%d Brilhos Estelares Abandonados</string>
+    <string name="n_extra">%d extras</string>
+    <string name="n_wishes">%s desejos</string>
+    <string name="constellation_n">C%s</string>
+    <string name="wish">Fazer 1 desejo</string>
+    <string name="wish_ten">Fazer 10 desejos</string>
+    <string name="wish_custom">Fazer %s desejos</string>
+    <string name="reset">Reiniciar</string>
+    <string name="settings">Configuração</string>
+    <string name="total_wishes">🌠 Total de Desejos: %d</string>
+    <string name="total_est_cost">💸 Custo Est. (USD): $%d</string>
+    <string name="primogems">💎 Gema Essencial: %d</string>
+    <string name="masterless_glitter">✨ Brilho Estelar Abandonado: %s</string>
+    <string name="five_star_count">🌟 Quantidade de Cinco Estrelas: %1$d (%2$.3f%%)</string>
+    <string name="four_star_count">⭐ Quantidade de Quatro Estrelas: %1$d (%2$.3f%%)</string>
+    <string name="show_wish_animation">Mostrar animação dos desejos</string>
+    <string name="most_recent_wishes">🌠 Desejos mais recentes</string>
+    <string name="wish_history">🕒 Histórico de desejos</string>
+    <string name="no_wishes_yet">Nenhum desejo ainda</string>
+    <string name="mute_sounds">Silenciar sons</string>
+    <string name="skip_meteor_only">Pular apenas a animação do meteoro</string>
+    <string name="clear_all_results">Apagar todos os resultados dos desejos</string>
+    <string name="custom_wish_amount">Quantidade personalizada de desejos: </string>
+    <string name="are_you_sure_clear_all_wish">Tem certeza que quer apagar todos os resultados anteriores?</string>
+    <string name="are_you_sure_clear_fate_points">Trocar o Caminho Divino vai zerar os Pontos do Destino. Quer continuar?</string>
+    <string name="simulator">Simulador</string>
+    <string name="reset_linked_banner_notice">Esse banner está vinculado ao %1$s. Ao realizar essa ação ambos os banners vão reiniciar.</string>
+    <string name="inventory">Inventário</string>
+    <string name="view_inventory">Ver Inventário</string>
+    <!-- endregion -->
+
+    <!-- region Pity Info -->
+    <string name="pity_info_four_star">Desejos até o próximo 4-Estrelas: %d</string>
+    <string name="pity_info_five_star">Desejos até o próximo 5-Estrelas: %d</string>
+    <string name="next_five_star_100">Próximo 5-Estrelas: 100%% de ser %s</string>
+    <string name="next_five_star_5050">Próximo 5-Estrelas: 50%% de ser %s</string>
+    <string name="next_five_star_75_featured">Próximo 5-Estrelas: 75% de ser promocional</string>
+    <string name="next_five_star_100_featured">Próximo 5-Estrelas: 100% de ser promocional</string>
+    <!-- endregion -->
+
+    <!-- region Archive -->
+    <string name="view_archived_banners">Ver banners arquivados</string>
+    <string name="archived_banners">Banners arquivados</string>
+    <string name="hide_banner_title">Ocultar esse banner?</string>
+    <string name="hide_banner_desc">Esse banner será arquivado. Se deseja desarquiva-lo vá para a Configuração.</string>
+    <string name="hide_inactive_banner_title">Ocultar banners inativos?</string>
+    <string name="hide_inactive_banner_desc">Os banners inativos vão ser arquivados. Se deseja desarquiva-lo vá para a Configuração.</string>
+    <string name="unarchive">Desarquivar</string>
+    <string name="close_archive">Fechar arquivo</string>
+    <!-- endregion -->
+
+    <!-- region Advanced Settings -->
+    <string name="advanced_settings">Configuração Avançada</string>
+    <string name="credits">Créditos</string>
+    <string name="thanks_to_the_following_sites">Obrigado aos seguintes sites por tornar o Wish Simulator possível. </string>
+    <string name="thanks_to_the_following_contributors">Obrigado aos seguintes colaboradores por me ajudarem a traduzir o aplicativo.</string>
+    <string name="disclaimer">Aviso Legal</string>
+    <string name="not_affiliated_with_mihoyo">Fique ciente de que o aplicativo Genshin Impact Wish Simulator não é afiliado com a empresa miHoYo de forma alguma.</string>
+    <string name="wishes_are_free">Este é um simulador de desejos feito para fins de diversão e entretenimento. <b><font color='#FF4747'>Desejos feitos aqui não afetam seu jogo! </font></b> O aplicativo, e os desejos feitos nele são gratuitos e não custam dinheiro.</string>
+    <string name="all_rights_reserved">Todas as imagens, sons, ativos, banners, nomes de personagens, termos, etc, são cortesia e propriedade da \'miHoYo\'. Eu não sou dono de nenhum deles. © Todos os direitos reservados por \'miHoYo\'.</string>
+    <string name="privacy_policy">Política de privacidade</string>
+    <string name="localization">Localização</string>
+    <string name="localization_description">Se você é um desenvolvedor e gostaria de me ajudar a localizar / traduzir este aplicativo, você pode enviar um Pull Request para %s.</string>
+    <string name="ads">Anúncios</string>
+    <string name="show_ad_description">Eu fiz esse aplicativo por diversão no meu tempo livre, ele será sempre gratuito para baixar e livre para usar sem anúncios. Se você quiser me apoiar, você pode optar por assistir aos anúncios.</string>
+    <string name="show_ad_description_may_opt_in">Eu fiz esse aplicativo para se divertir no meu tempo livre, e será sempre gratuito para baixar e livre para usar sem anúncios. Você pode optar por ver os anúncios, se quiser.</string>
+    <string name="opt_in_to_show_ads">Ativar anúncios</string>
+    <string name="close_page">Fechar</string>
+    <string name="light_dark_mode">Tema do App</string>
+    <string name="light">Tema Claro</string>
+    <string name="dark">Tema Escuro</string>
+    <string name="use_device_settings">Usar Configuração do dispositivo</string>
+    <!-- endregion -->
+
+    <!-- region Intro popup -->
+    <string name="i_agree">Eu li e aceito os termos anteriores</string>
+    <string name="proceed">Continuar</string>
+    <string name="must_agree_to_terms">Deve aceitar os termos antes de continuar.</string>
+    <!-- endregion -->
+</resources>
