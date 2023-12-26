@@ -90,5 +90,6 @@
     <string name="cashflow_supervision">Supervisão de Caixa</string>
     <string name="prospectors_drill">Broca do Prospector</string>
     <string name="range_gauge">Medidor de Alcance</string>
+    <string name="verdict">Veredito</string>
 
 </resources>
