@@ -42,6 +42,7 @@
     <string name="baizhu">白术</string>
     <string name="furina">芙宁娜</string>
     <string name="navia">娜维娅</string>
+    <string name="xianyun">闲云</string>
     <string name="amber">安柏</string>
     <string name="barbara">芭芭拉</string>
     <string name="beidou">北斗</string>
@@ -83,5 +84,6 @@
     <string name="wriothesley">莱欧斯利</string>
     <string name="charlotte">夏洛蒂</string>
     <string name="chevreuse">夏沃蕾</string>
+    <string name="gaming">嘉明</string>
 
 </resources>

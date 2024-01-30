@@ -44,6 +44,7 @@
     <string name="baizhu">Baizhu</string>
     <string name="furina">Furina</string>
     <string name="navia">Navia</string>
+    <string name="xianyun">Xianyun</string>
     <string name="amber">Amber</string>
     <string name="barbara">Barbara</string>
     <string name="beidou">Beidou</string>
@@ -85,5 +86,6 @@
     <string name="wriothesley">Wriothesley</string>
     <string name="charlotte">Charlotte</string>
     <string name="chevreuse">Chevreuse</string>
+    <string name="gaming">Gaming</string>
 
 </resources>

@@ -44,6 +44,7 @@
     <string name="baizhu">白朮</string>
     <string name="furina">フリーナ</string>
     <string name="navia">ナヴィア</string>
+    <string name="xianyun">閑雲</string>
     <string name="amber">アンバー</string>
     <string name="barbara">バーバラ</string>
     <string name="beidou">北斗</string>
@@ -85,5 +86,6 @@
     <string name="wriothesley">リオセスリ</string>
     <string name="charlotte">シャルロット</string>
     <string name="chevreuse">シュヴルーズ</string>
+    <string name="gaming">嘉明</string>
 
 </resources>

@@ -44,6 +44,7 @@
     <string name="baizhu">백출</string>
     <string name="furina">푸리나</string>
     <string name="navia">나비아</string>
+    <string name="xianyun">한운</string>
     <string name="amber">엠버</string>
     <string name="barbara">바바라</string>
     <string name="beidou">북두</string>
@@ -85,5 +86,6 @@
     <string name="wriothesley">라이오슬리</string>
     <string name="charlotte">샤를로트</string>
     <string name="chevreuse">슈브르즈</string>
+    <string name="gaming">가명</string>
 
 </resources>
