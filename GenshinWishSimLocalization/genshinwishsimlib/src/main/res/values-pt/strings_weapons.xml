@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weapon">Armas</string>
+
+    <!-- 5* Original-->
+    <string name="amos_bow">Arco de Amos</string>
+    <string name="aquila_favonia">Falcão</string>
+    <string name="lost_prayer">Oração Perdida aos Ventos Sagrados</string>
+    <string name="primordial_spear">Lança de Jade Primitiva</string>
+    <string name="wolfs_gravestone">Túmulo do Lobo</string>
+    <string name="skyward_harp">Harpa Celestial</string>
+    <string name="skyward_atlas">Atlas Celestial</string>
+    <string name="skyward_blade">Espada Celestial</string>
+    <string name="skyward_spine">Espinha Celestial</string>
+    <string name="skyward_pride">Orgulho Celestial</string>
+
+     <!-- 5* Event -->
+    <string name="vortex_vanquisher">Perfuradora Prismática</string>
+    <string name="unforged">Espada Áspera</string>
+    <string name="memory_of_dust">Memória da Poeira</string>
+    <string name="summit_shaper">Cortador de Montanhas</string>
+    <string name="primordial_cutter">Cortador de Jade Primordial</string>
+    <string name="staff_of_homa">Báculo de Homa</string>
+    <string name="elegy_for_the_end">Elegia do Suspiro Final</string>
+    <string name="song_of_broken_pines">Canção dos Pinhos</string>
+    <string name="freedom_sworn">Juramento pela Libertade</string>
+    <string name="mistsplitter_reforged">Cortadora da Neblina</string>
+    <string name="thundering_pulse">Agitação Trovejante</string>
+    <string name="engulfing_lightning">Luz do Cortador de Grama</string>
+    <string name="everlasting_moonglow">Fumetsu Gekka</string>
+    <string name="polar_star">Estrela Invernal</string>
+    <string name="redhorn_stonethresher">Chifres Vermelhos Destruidores de Pedras</string>
+    <string name="calamity_queller">Subjugadora de Calamidades</string>
+    <string name="kaguras_verity">Prova de Kagura</string>
+    <string name="haran_geppaku_futsu">Maremoto da Lua de Futsu</string>
+    <string name="aqua_simulacra">Aqua Simulacra</string>
+    <string name="hunters_path">Caminho do Caçador</string>
+    <string name="staff_of_the_scarlet_sands">Báculo das Areias Escarlates</string>
+    <string name="key_of_khaj_nisut">Chave de Hierofania</string>
+    <string name="thousand_floating_dreams">Sonhos Flutuantes das Mil Noites</string>
+    <string name="tulaytullahs_remembrance">Reminiscências de Tulaytullah</string>
+    <string name="light_of_foliar_incision">Luz das Folhas Cortadas</string>
+    <string name="beacon_of_the_reed_sea">Sinal dos Mares</string>
+    <string name="jadefalls_splendor">Esplendor Índigo</string>
+    <string name="first_great_magic">Arcana Original</string>
+    <string name="tome_of_the_eternal_flow">Rito do Fluxo Eterno</string>
+    <string name="cashflow_supervision">Supervisão de Caixa</string>
+    <string name="splendor_of_tranquil_waters">Esplendor das Águas Silenciosas</string>
+    <string name="verdict">Veredito</string>
+    <string name="cranes_echoing_call">Chamado Ecoante da Garça</string>
+
+    <!-- 4* Permanent -->
+    <string name="bell">O Sino</string>
+    <string name="dragons_bane">Perdição do Dragão</string>
+    <string name="eye_of_perception">Olho da Percepção</string>
+    <string name="lions_roar">Rugido do Leão</string>
+    <string name="favonius_warbow">Arco de Favonius</string>
+    <string name="favonius_codex">Codex de Favonius</string>
+    <string name="favonius_lance">Lança de Favonius</string>
+    <string name="favonius_greatsword">Grande Espada de Favonius</string>
+    <string name="favonius_sword">Espada de Favonius</string>
+    <string name="flute">A Flauta</string>
+    <string name="rainslasher">Segadeira da Chuva</string>
+    <string name="rust">Arco Enferrujado</string>
+    <string name="sacrificial_fragments">Memórias de Sacrifício</string>
+    <string name="sacrificial_bow">Arco do Sacrifício</string>
+    <string name="sacrificial_greatsword">Espadão do Sacrifício</string>
+    <string name="sacrificial_sword">Espada do Sacrifício</string>
+    <string name="stringless">Último Acorde</string>
+    <string name="widsith">Sinfonia dos Indolentes</string>
+
+     <!-- 4* Event -->
+    <string name="lithic_blade">Espada Antiga de Millelith</string>
+    <string name="lithic_spear">Lança de Millelith</string>
+    <string name="alley_flash">Brilho do Beco</string>
+    <string name="wing_and_song">Vinho e Música</string>
+    <string name="alley_hunter">Caçador do Beco</string>
+    <string name="mitternachts_waltz">Valsa do Crepúsculo</string>
+    <string name="akuoumaru">Akuoumaru</string>
+    <string name="wavebreakers_fin">Barbatana do Quebra Ondas</string>
+    <string name="mouuns_moon">Lua de Mouun</string>
+    <string name="makhaira_aquamarine">Água-Marinha de Mahara</string>
+    <string name="xiphos_moonlight">Luz Lunar de Xiphos</string>
+    <string name="wandering_evenstar">Estrela Itinerante</string>
+    <string name="portable_power_saw">Serra Elétrica Portátil</string>
+    <string name="dockhands_assistant">A Doca</string>
+    <string name="prospectors_drill">Broca do Prospector</string>
+    <string name="range_gauge">Medidor de Alcance</string>
+
+    <!-- 3* -->
+    <string name="debate_club">Pacifista</string>
+    <string name="ferrous_shadow">Sombra de Ferro</string>
+    <string name="bloodtainted_greatsword">Espadão Sangrento</string>
+    <string name="white_tassel">Borla Branca</string>
+    <string name="black_tassel">Borla Preta</string>
+    <string name="harbinger_of_dawn">Prenúncio do Alvorecer</string>
+    <string name="cool_steel">Lâmina Fria</string>
+    <string name="skyrider_sword">Espadão do Cavaleiro do Céu</string>
+    <string name="slingshot">Estilingue</string>
+    <string name="sharpshooters_oath">Juramento de Sagitário</string>
+    <string name="raven_bow">Arco de Corvo</string>
+    <string name="thrilling_tales_of_dragon_slayers">Histórias Extraordinárias de Caçadores de Dragões</string>
+    <string name="magic_guide">Guia de Magia</string>
+    <string name="emerald_orb">Orbe de Esmeralda</string>
+
+</resources>
