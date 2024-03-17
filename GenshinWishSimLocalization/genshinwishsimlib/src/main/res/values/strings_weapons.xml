@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weapon">Weapon</string>
+    <string name="chronicled">Chronicled</string>
 
     <!-- 5* Original-->
     <string name="amos_bow">Amos Bow</string>
