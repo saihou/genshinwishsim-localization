@@ -96,5 +96,6 @@
     <string name="i_agree">I have read and agree to all of the above</string>
     <string name="proceed">Proceed</string>
     <string name="must_agree_to_terms">You must agree to the terms to continue.</string>
+    <string name="show_ad_take_effect_restart">Changes will take effect when the app is restarted.</string>
     <!-- endregion -->
 </resources>

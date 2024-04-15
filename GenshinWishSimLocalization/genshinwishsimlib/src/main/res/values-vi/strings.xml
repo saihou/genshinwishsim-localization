@@ -96,5 +96,6 @@
     <string name="i_agree">Tôi đã đọc và đồng ý điều khoản</string>
     <string name="proceed">Thực hiện</string>
     <string name="must_agree_to_terms">Bạn phải đồng ý các điều khoản để tiếp tục.</string>
+    <string name="show_ad_take_effect_restart">Changes will take effect when the app is restarted.</string>
     <!-- endregion -->
 </resources>

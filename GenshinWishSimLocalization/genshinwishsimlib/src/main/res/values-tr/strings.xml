@@ -96,5 +96,6 @@
     <string name="i_agree">Yukardakilerin hepsini okudum, kabul ediyorum</string>
     <string name="proceed">Devam et</string>
     <string name="must_agree_to_terms">Devam etmek için aartarı kabul etmelisiniz.</string>
+    <string name="show_ad_take_effect_restart">Changes will take effect when the app is restarted.</string>
     <!-- endregion -->
 </resources>

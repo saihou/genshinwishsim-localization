@@ -96,5 +96,6 @@
     <string name="i_agree">Я прочитал(а) все вышеуказанное и согласен(а) с прочитанным</string>
     <string name="proceed">Продолжить</string>
     <string name="must_agree_to_terms">Вы должны принять условия соглашения, чтобы продолжить.</string>
+    <string name="show_ad_take_effect_restart">Changes will take effect when the app is restarted.</string>
     <!-- endregion -->
 </resources>

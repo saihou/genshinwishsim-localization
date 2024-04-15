@@ -84,6 +84,7 @@
     <string name="ads">Ads</string>
     <string name="show_ad_description">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. If you want to support me, you can opt in to view ads.</string>
     <string name="show_ad_description_may_opt_in">I made this app for fun in my free time, and it will always be free to download and free to use with no ads. You may opt in to view ads if you wish.</string>
+    <string name="show_ad_take_effect_restart">Changes will take effect when the app is restarted.</string>
     <string name="opt_in_to_show_ads">Opt in to view Ads</string>
     <string name="close_page">Close</string>
     <string name="light_dark_mode">Light / Dark Mode</string>

@@ -97,5 +97,6 @@
     <string name="i_agree">위 내용을 읽었으며 약관에 동의합니다.</string>
     <string name="proceed">계속</string>
     <string name="must_agree_to_terms">계속하기 위해서는 약관에 동의해야 합니다.</string>
+    <string name="show_ad_take_effect_restart">Changes will take effect when the app is restarted.</string>
     <!-- endregion -->
 </resources>
