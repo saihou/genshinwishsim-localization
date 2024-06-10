@@ -54,6 +54,8 @@
     <string name="xianyun">Xianyun</string>
     <string name="chiori">Chiori</string>
     <string name="arlecchino">Arlecchino</string>
+    <string name="clorinde">Clorinde</string>
+    <string name="sigewinne">Sigewinne</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -95,5 +97,6 @@
     <string name="charlotte">Charlotte</string>
     <string name="chevreuse">Chevreuse</string>
     <string name="gaming">Gaming</string>
+    <string name="sethos">Sethos</string>
 
 </resources>
