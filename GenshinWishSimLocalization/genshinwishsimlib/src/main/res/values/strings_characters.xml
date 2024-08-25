@@ -57,6 +57,8 @@
     <string name="clorinde">Clorinde</string>
     <string name="sigewinne">Sigewinne</string>
     <string name="emilie">Emilie</string>
+    <string name="mualani">Mualani</string>
+    <string name="kinich">Kinich</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -99,5 +101,6 @@
     <string name="chevreuse">Chevreuse</string>
     <string name="gaming">Gaming</string>
     <string name="sethos">Sethos</string>
+    <string name="kachina">Kachina</string>
 
 </resources>
