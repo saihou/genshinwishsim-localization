@@ -40,6 +40,7 @@
     <string name="jadefalls_splendor">Centelleo Jadecaído</string>
     <string name="splendor_of_tranquil_waters">Fulgor de las Aguas Calmas</string>
     <string name="verdict">Sentenciadora</string>
+    <string name="peak_patrol_song">Himno de las Cumbres</string>
     <string name="bell">Espada del Tiempo</string>
     <string name="dragons_bane">Perdición del Dragón</string>
     <string name="eye_of_perception">Ojo de la Perspicacia</string>
@@ -100,5 +101,7 @@
     <string name="lumidouce_elegy">Elegía Lumidulce</string>
     <string name="surfs_up">Hora de Surfear</string>
     <string name="fang_of_the_mountain_king">Colmillo del Rey de la Montaña</string>
+    <string name="sturdy_bone">Hueso Recio</string>
+    <string name="mountain_bracing_bolt">Púa Sustentamontañas</string>
 
 </resources>

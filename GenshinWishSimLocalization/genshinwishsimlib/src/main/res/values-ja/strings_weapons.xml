@@ -40,6 +40,7 @@
     <string name="jadefalls_splendor">碧落の瓏</string>
     <string name="splendor_of_tranquil_waters">静水流転の輝き</string>
     <string name="verdict">裁断</string>
+    <string name="peak_patrol_song">岩峰を巡る歌</string>
     <string name="bell">鐘の剣</string>
     <string name="dragons_bane">匣中滅龍</string>
     <string name="eye_of_perception">昭心</string>
@@ -100,5 +101,7 @@
     <string name="lumidouce_elegy">ルミドゥースの挽歌</string>
     <string name="surfs_up">サーフィンタイム</string>
     <string name="fang_of_the_mountain_king">山の王の長牙</string>
+    <string name="sturdy_bone">ストロング・ボーン</string>
+    <string name="mountain_bracing_bolt">鎮山の釘</string>
 
 </resources>

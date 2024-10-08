@@ -56,6 +56,7 @@
     <string name="lumidouce_elegy">Lumidouce Elegy</string>
     <string name="surfs_up">Surf\'s Up</string>
     <string name="fang_of_the_mountain_king">Fang of the Mountain King</string>
+    <string name="peak_patrol_song">Peak Patrol Song</string>
 
     <!-- 4* Permanent -->
     <string name="bell">The Bell</string>
@@ -94,6 +95,8 @@
     <string name="dockhands_assistant">The Dockhand\'s Assistant</string>
     <string name="prospectors_drill">Prospector\'s Drill</string>
     <string name="range_gauge">Range Gauge</string>
+    <string name="sturdy_bone">Sturdy Bone</string>
+    <string name="mountain_bracing_bolt">Mountain-Bracing Bolt</string>
 
     <!-- 3* -->
     <string name="debate_club">Debate Club</string>

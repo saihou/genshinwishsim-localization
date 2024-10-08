@@ -40,6 +40,7 @@
     <string name="jadefalls_splendor">Ngọc Bích Huy Hoàng</string>
     <string name="splendor_of_tranquil_waters">Sắc Nước Lộng Lẫy</string>
     <string name="verdict">Phán Quyết</string>
+    <string name="peak_patrol_song">Khúc Ca Núi Đá</string>
     <string name="bell">Kiếm Chuông</string>
     <string name="dragons_bane">Tai Ương Của Rồng</string>
     <string name="eye_of_perception">Chiêu Tâm</string>
@@ -100,5 +101,7 @@
     <string name="lumidouce_elegy">Bi Ca Lumidouce</string>
     <string name="surfs_up">Thời Khắc Lướt Sóng</string>
     <string name="fang_of_the_mountain_king">Nanh Sơn Vương</string>
+    <string name="sturdy_bone">Xương Cứng</string>
+    <string name="mountain_bracing_bolt">Mũi Đinh Trấn Núi</string>
 
 </resources>

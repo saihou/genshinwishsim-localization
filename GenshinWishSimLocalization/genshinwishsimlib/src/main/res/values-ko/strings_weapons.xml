@@ -40,6 +40,7 @@
     <string name="jadefalls_splendor">벽락의 옥</string>
     <string name="splendor_of_tranquil_waters">고요히 샘솟는 빛</string>
     <string name="verdict">판정</string>
+    <string name="peak_patrol_song">바위산을 맴도는 노래</string>
     <string name="bell">시간의 검</string>
     <string name="dragons_bane">용학살창</string>
     <string name="eye_of_perception">소심</string>
@@ -100,5 +101,7 @@
     <string name="lumidouce_elegy">등방울꽃의 애가</string>
     <string name="surfs_up">서핑 타임</string>
     <string name="fang_of_the_mountain_king">산왕의 엄니</string>
+    <string name="sturdy_bone">견고한 골검</string>
+    <string name="mountain_bracing_bolt">산을 고정하는 못</string>
 
 </resources>

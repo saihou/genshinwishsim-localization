@@ -40,6 +40,7 @@
     <string name="jadefalls_splendor">碧落之珑</string>
     <string name="splendor_of_tranquil_waters">静水流涌之辉</string>
     <string name="verdict">裁断</string>
+    <string name="peak_patrol_song">岩峰巡歌</string>
     <string name="bell">钟剑</string>
     <string name="dragons_bane">匣里灭辰</string>
     <string name="eye_of_perception">昭心</string>
@@ -100,5 +101,7 @@
     <string name="lumidouce_elegy">柔灯挽歌</string>
     <string name="surfs_up">冲浪时光</string>
     <string name="fang_of_the_mountain_king">山王长牙</string>
+    <string name="sturdy_bone">弥坚骨</string>
+    <string name="mountain_bracing_bolt">镇山之钉</string>
 
 </resources>

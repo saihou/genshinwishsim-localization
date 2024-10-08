@@ -40,6 +40,7 @@
     <string name="jadefalls_splendor">Yeşimlerin Mağrur Işıltısı</string>
     <string name="splendor_of_tranquil_waters">Sakin Suların İhtişamı</string>
     <string name="verdict">Gereği Düşünüldü</string>
+    <string name="peak_patrol_song">Tepe Devriyesi Şarkısı</string>
     <string name="bell">The Bell</string>
     <string name="dragons_bane">Dragon\'s Bane</string>
     <string name="eye_of_perception">Eye of Perception</string>
@@ -100,5 +101,7 @@
     <string name="lumidouce_elegy">Lumidouce Ağıdı</string>
     <string name="surfs_up">Sörf Zamanı</string>
     <string name="fang_of_the_mountain_king">Dağ Kralı’nın Dişi</string>
+    <string name="sturdy_bone">Sağlam Kemik</string>
+    <string name="mountain_bracing_bolt">Dağ Sürgüsü</string>
 
 </resources>

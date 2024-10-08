@@ -40,6 +40,7 @@
     <string name="jadefalls_splendor">Splendeur de l’azur</string>
     <string name="splendor_of_tranquil_waters">Splendeur des eaux calmes</string>
     <string name="verdict">Condamneur</string>
+    <string name="peak_patrol_song">Chanson de patrouille de sommet</string>
     <string name="bell">The Bell</string>
     <string name="dragons_bane">Dragon\'s Bane</string>
     <string name="eye_of_perception">Eye of Perception</string>
@@ -100,5 +101,7 @@
     <string name="lumidouce_elegy">Élégie de Lumidouce</string>
     <string name="surfs_up">Instant surfant</string>
     <string name="fang_of_the_mountain_king">Croc du roi de la montagne</string>
+    <string name="sturdy_bone">Os robuste</string>
+    <string name="mountain_bracing_bolt">Clou soutenant les montagnes</string>
 
 </resources>
