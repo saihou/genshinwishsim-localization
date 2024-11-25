@@ -41,6 +41,7 @@
     <string name="splendor_of_tranquil_waters">静水流転の輝き</string>
     <string name="verdict">裁断</string>
     <string name="peak_patrol_song">岩峰を巡る歌</string>
+    <string name="astral_vultures_crimson_plumage">星鷲の紅き羽</string>
     <string name="bell">鐘の剣</string>
     <string name="dragons_bane">匣中滅龍</string>
     <string name="eye_of_perception">昭心</string>
@@ -74,6 +75,8 @@
     <string name="portable_power_saw">携帯型チェーンソー</string>
     <string name="dockhands_assistant">船渠剣</string>
     <string name="fruitful_hook">実りの鉤鉈</string>
+    <string name="flower_wreathed_feathers">花飾りの羽</string>
+    <string name="waveriding_whirl">波乗りの旋回</string>
     <string name="debate_club">理屈責め</string>
     <string name="ferrous_shadow">鉄影段平</string>
     <string name="bloodtainted_greatsword">龍血を浴びた剣</string>

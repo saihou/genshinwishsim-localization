@@ -60,6 +60,7 @@
     <string name="mualani">Mualani</string>
     <string name="kinich">Kinich</string>
     <string name="xilonen">Xilonen</string>
+    <string name="chasca">Chasca</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -103,5 +104,6 @@
     <string name="gaming">Gaming</string>
     <string name="sethos">Sethos</string>
     <string name="kachina">Kachina</string>
+    <string name="ororon">Ororon</string>
 
 </resources>

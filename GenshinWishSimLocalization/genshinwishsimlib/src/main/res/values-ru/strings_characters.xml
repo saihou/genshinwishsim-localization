@@ -44,6 +44,7 @@
     <string name="navia">Навия</string>
     <string name="xianyun">Сянь Юнь</string>
     <string name="xilonen">Шилонен</string>
+    <string name="chasca">Часка</string>
     <string name="amber">Эмбер</string>
     <string name="barbara">Барбара</string>
     <string name="beidou">Бэй Доу</string>
@@ -95,5 +96,6 @@
     <string name="sethos">Сетос</string>
     <string name="emilie">Эмилия</string>
     <string name="kachina">Качина</string>
+    <string name="ororon">Оророн</string>
 
 </resources>

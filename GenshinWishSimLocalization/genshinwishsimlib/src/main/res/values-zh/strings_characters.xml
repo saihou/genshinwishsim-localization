@@ -44,6 +44,7 @@
     <string name="navia">娜维娅</string>
     <string name="xianyun">闲云</string>
     <string name="xilonen">希诺宁</string>
+    <string name="chasca">恰斯卡</string>
     <string name="amber">安柏</string>
     <string name="barbara">芭芭拉</string>
     <string name="beidou">北斗</string>
@@ -95,5 +96,6 @@
     <string name="sethos">赛索斯</string>
     <string name="emilie">艾梅莉埃</string>
     <string name="kachina">卡齐娜</string>
+    <string name="ororon">欧洛伦</string>
 
 </resources>

@@ -46,6 +46,7 @@
     <string name="navia">ナヴィア</string>
     <string name="xianyun">閑雲</string>
     <string name="xilonen">シロネン</string>
+    <string name="chasca">チャスカ</string>
     <string name="amber">アンバー</string>
     <string name="barbara">バーバラ</string>
     <string name="beidou">北斗</string>
@@ -97,5 +98,6 @@
     <string name="sethos">セトス</string>
     <string name="emilie">エミリエ</string>
     <string name="kachina">カチーナ</string>
+    <string name="ororon">オロルン</string>
 
 </resources>
