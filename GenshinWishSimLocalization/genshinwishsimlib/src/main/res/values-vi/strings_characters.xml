@@ -46,6 +46,7 @@
     <string name="navia">Navia</string>
     <string name="xianyun">Xianyun</string>
     <string name="xilonen">Xilonen</string>
+    <string name="lanyan">Lanyan</string>
     <string name="chasca">Chasca</string>
     <string name="amber">Amber</string>
     <string name="barbara">Barbara</string>
@@ -99,5 +100,7 @@
     <string name="emilie">Emilie</string>
     <string name="kachina">Kachina</string>
     <string name="ororon">Ororon</string>
+    <string name="mavuika">Mavuika</string>
+    <string name="citlali">Citlali</string>
 
 </resources>

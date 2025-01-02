@@ -46,6 +46,7 @@
     <string name="navia">나비아</string>
     <string name="xianyun">한운</string>
     <string name="xilonen">실로닌</string>
+    <string name="lanyan">남연</string>
     <string name="chasca">차스카</string>
     <string name="amber">엠버</string>
     <string name="barbara">바바라</string>
@@ -99,5 +100,7 @@
     <string name="emilie">에밀리</string>
     <string name="kachina">카치나</string>
     <string name="ororon">올로룬</string>
+    <string name="mavuika">마비카</string>
+    <string name="citlali">시틀라리</string>
 
 </resources>
