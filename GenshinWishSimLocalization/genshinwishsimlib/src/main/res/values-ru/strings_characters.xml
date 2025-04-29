@@ -44,6 +44,7 @@
     <string name="navia">Навия</string>
     <string name="xianyun">Сянь Юнь</string>
     <string name="xilonen">Шилонен</string>
+    <string name="varesa">Вареса</string>
     <string name="lanyan">Лань Янь</string>
     <string name="chasca">Часка</string>
     <string name="amber">Эмбер</string>
@@ -102,5 +103,6 @@
     <string name="citlali">Ситлали</string>
     <string name="mizuki">Мидзуки</string>
     <string name="yumemizuki_mizuki">Мидзуки</string>
+    <string name="iansan">Иансан</string>
 
 </resources>

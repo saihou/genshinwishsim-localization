@@ -65,6 +65,7 @@
     <string name="citlali">Citlali</string>
     <string name="mizuki">Mizuki</string>
     <string name="yumemizuki_mizuki">Yumemizuki Mizuki</string>
+    <string name="varesa">Varesa</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -110,5 +111,6 @@
     <string name="kachina">Kachina</string>
     <string name="ororon">Ororon</string>
     <string name="lanyan">Lanyan</string>
+    <string name="iansan">Iansan</string>
 
 </resources>

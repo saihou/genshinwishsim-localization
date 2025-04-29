@@ -46,6 +46,7 @@
     <string name="navia">Navia</string>
     <string name="xianyun">Xianyun</string>
     <string name="xilonen">Xilonen</string>
+    <string name="varesa">Varesa</string>
     <string name="lanyan">Lanyan</string>
     <string name="chasca">Chasca</string>
     <string name="amber">Amber</string>
@@ -104,5 +105,6 @@
     <string name="citlali">Citlali</string>
     <string name="mizuki">Mizuki</string>
     <string name="yumemizuki_mizuki">Yumemizuki Mizuki</string>
+    <string name="iansan">Iansán</string>
 
 </resources>

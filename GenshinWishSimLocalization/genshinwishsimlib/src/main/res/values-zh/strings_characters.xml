@@ -44,6 +44,7 @@
     <string name="navia">娜维娅</string>
     <string name="xianyun">闲云</string>
     <string name="xilonen">希诺宁</string>
+    <string name="varesa">瓦雷莎</string>
     <string name="lanyan">蓝砚</string>
     <string name="chasca">恰斯卡</string>
     <string name="amber">安柏</string>
@@ -102,5 +103,6 @@
     <string name="citlali">茜特菈莉</string>
     <string name="mizuki">梦见月瑞希</string>
     <string name="yumemizuki_mizuki">梦见月瑞希</string>
+    <string name="iansan">伊安珊</string>
 
 </resources>
