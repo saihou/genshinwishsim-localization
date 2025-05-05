@@ -91,6 +91,7 @@
     <string name="light">Light</string>
     <string name="dark">Dark</string>
     <string name="use_device_settings">Use device settings</string>
+    <string name="message_from_dev">A message from the developer</string>
     <!-- endregion -->
 
     <!-- region Intro popup -->
