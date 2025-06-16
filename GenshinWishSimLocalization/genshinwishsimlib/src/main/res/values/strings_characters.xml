@@ -67,6 +67,7 @@
     <string name="yumemizuki_mizuki">Yumemizuki Mizuki</string>
     <string name="varesa">Varesa</string>
     <string name="escoffier">Escoffier</string>
+    <string name="skirk">Skirk</string>
 
     <!-- 4* -->
     <string name="amber">Amber</string>
@@ -114,5 +115,6 @@
     <string name="lanyan">Lanyan</string>
     <string name="iansan">Iansan</string>
     <string name="ifa">Ifa</string>
+    <string name="dahlia">Dahlia</string>
 
 </resources>
